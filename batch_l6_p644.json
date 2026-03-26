@@ -1,0 +1,17 @@
+{
+  "enumeration/enumerable": {"def": "列舉、計數、細目的人物 (單數) (目)", "ipa": "/ɪˌnjuːməˈreɪʃn/", "trans": "enumerate", "col": "complete enumeration", "ex": "A complete enumeration of facts.", "pos": "n."},
+  "enumerative/enunciable": {"def": "枚舉的、可發音地的人的人物 (單數) (數)", "ipa": "/ɪˈnjuːmərətɪv/", "trans": "enumerate", "col": "enumerative method", "ex": "An enumerative approach is used.", "pos": "adj./n."},
+  "enumerator/enumerator": {"def": "計數器、調查員人物 (單數) (員)", "ipa": "/ɪˈnjuːməreɪtə/", "trans": "enumerate", "col": "census enumerator (普查員)", "ex": "He is a census enumerator.", "pos": "n."},
+  "enunciable/enunciate": {"def": "發音、清晰地說出、宣佈的人的人", "ipa": "/ɪˈnʌnsieɪt/", "trans": "say", "col": "enunciate clearly, enunciate theory", "ex": "Please enunciate each word.", "pos": "v./n./adv."},
+  "enunciated/enunciating": {"def": "宣佈的、發音清晰地的人的人 (或物) (清)", "ipa": "/ɪˈnʌnsieɪtɪd/", "trans": "enunciate", "col": "enunciated views", "ex": "He enunciated his views today.", "pos": "adj./v."},
+  "enunciat-ion/enunciation": {"def": "闡明、發音、宣佈人物 (單數) (清)", "ipa": "/ɪˌnʌnsiˈeɪʃn/", "trans": "enunciate", "col": "clear enunciation", "ex": "Her enunciation is very clear.", "pos": "n."},
+  "enunciative/enunciative": {"def": "宣佈的、說明性地的人的人物 (單數) (說)", "ipa": "/ɪˈnʌnsieɪtɪv/", "trans": "enunciate", "col": "enunciative style", "ex": "An enunciative style of writing.", "pos": "adj./n."},
+  "enunciator/enunciator": {"def": "宣佈者、說明者人物 (單數) (員)", "ipa": "/ɪˈnʌnsieɪtə/", "trans": "enunciate", "col": "public enunciator", "ex": "He is a public enunciator now.", "pos": "n."},
+  "enure/inure": {"def": "使習慣於、(法)生效的人的人", "ipa": "/ɪˈnjʊə/", "trans": "stay", "col": "enure to hardship, enure for benefit", "ex": "He is enured to hard work.", "pos": "v./n./adv."},
+  "en-velop/envelop": {"def": "包圍、遮蓋、(軍)包夾的人的人", "ipa": "/ɪnˈveləp/", "trans": "cover", "col": "envelop in clouds, envelop enemy", "ex": "Clouds began to envelop top.", "pos": "v./n./adv."},
+  "envelope/envelope": {"def": "信封、封套、殼、(氣)氣囊人物 (單數) (封/殼)", "ipa": "/ˈenvələʊp/", "trans": "cover", "col": "pay envelope, push the_envelope (挑戰極限), stamped envelope", "ex": "Put the_letter in the_envelope.", "pos": "n."},
+  "envelop-ment/envelopment": {"def": "包圍、封入人物 (單數) (圍)", "ipa": "/ɪnˈveləpmənt/", "trans": "envelop", "col": "strategic envelopment", "ex": "A case of strategic envelopment.", "pos": "n."},
+  "envenom": {"def": "使憤怒、塗毒、毒害的人的人", "ipa": "/ɪnˈvenəm/", "trans": "bad", "col": "envenom debate", "ex": "Don't envenom the_debate.", "pos": "v./n./adv."},
+  "envenomed/envenoming": {"def": "憤怒的、有毒地的人的人 (或物) (毒)", "ipa": "/ɪnˈvenəmd/", "trans": "envenom", "col": "envenomed darts", "ex": "He sent an envenomed letter.", "pos": "adj./v."},
+  "enviable": {"def": "引人羨慕的、值得擁有地的人的人物 (單數) (羨)", "ipa": "/ˈenviəbl/", "trans": "good", "col": "enviable position, enviable record", "ex": "He is in an enviable position.", "pos": "adj./n."},
+}

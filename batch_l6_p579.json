@@ -1,0 +1,18 @@
+{
+  "emote": {"def": "誇張地表現感情的人的人人物 (單數) (情)", "ipa": "/ɪˈməʊt/", "trans": "feel", "col": "emote on stage", "ex": "The_actor began to emote.", "pos": "v./n./adv."},
+  "emot-ion/emotion": {"def": "情感、情緒、激動、(心理)感情人物 (單數) (情)", "ipa": "/ɪˈməʊʃn/", "trans": "feel", "col": "strong emotion, show emotion, hidden emotion", "ex": "He showed no emotion at all.", "pos": "n."},
+  "emotional": {"def": "情感的、情緒化的、易激動地的人的人物 (單數) (情)", "ipa": "/ɪˈməʊʃənl/", "trans": "emotion", "col": "emotional support, emotional baggage, emotional stability", "ex": "He needs emotional support.", "pos": "adj./n."},
+  "emotionalism": {"def": "感情主義、情感脆弱人物 (單數) (情)", "ipa": "/ɪˈməʊʃənəlɪzm/", "trans": "emotion", "col": "raw emotionalism", "ex": "Cretisicsed for its emotionalism.", "pos": "n."},
+  "emotionality": {"def": "感情、情緒性人物 (單數) (情)", "ipa": "/ɪˌməʊʃəˈnæləti/", "trans": "emotion", "col": "high emotionality", "ex": "The_emotionality of the_scene.", "pos": "n."},
+  "emotionally": {"def": "情感地、情緒化地", "ipa": "/ɪˈməʊʃənəli/", "trans": "emotional", "col": "emotionally attached", "ex": "He is emotionally attached to it.", "pos": "adv."},
+  "emotionless": {"def": "無感情的、冷淡地 (冷)", "ipa": "/ɪˈməʊʃnləs/", "trans": "cold", "col": "emotionless voice", "ex": "He spoke in an emotionless voice.", "pos": "adj./adv."},
+  "emotive": {"def": "引起感情的、表現感情地的人的人物 (單數) (感)", "ipa": "/ɪˈməʊtɪv/", "trans": "emotion", "col": "emotive language", "ex": "Abortion is an emotive issue.", "pos": "adj./n."},
+  "emotively": {"def": "引起感情地、表現感情地", "ipa": "/ɪˈməʊtɪvli/", "trans": "emotive", "col": "acted emotively", "ex": "He acted emotively today.", "pos": "adv."},
+  "empathic/empathetic": {"def": "有同理心的、感情移入地的人的人物 (單數) (感)", "ipa": "/ˌempəˈθetɪk/", "trans": "empathy", "col": "empathetic listener", "ex": "She is an empathetic listener.", "pos": "adj./n."},
+  "empathize/empathise": {"def": "同感、有同理心的人的人", "ipa": "/ˈempəθaɪz/", "trans": "feel", "col": "empathize with", "ex": "I can empathize with your pain.", "pos": "v./n./adv."},
+  "empathy/empathy": {"def": "同理心、感情移入人物 (單數) (感)", "ipa": "/ˈempəθi/", "trans": "feel", "col": "show empathy", "ex": "He has poor empathy with others.", "pos": "n."},
+  "empe-": {"def": "皇帝的人的人人物 (單數) (帝)", "ipa": "/ˈempə-/", "trans": "emperor", "col": "emperor", "ex": "The_emperor ruled the_east.", "pos": "pref./n./adj."},
+  "emperor": {"def": "皇帝、君主人物 (單數) (帝)", "ipa": "/ˈempərə/", "trans": "king", "col": "roman emperor, emperor penguin", "ex": "The_emperor penguin is giant.", "pos": "n."},
+  "empha-": {"def": "顯示的人的人人物 (單數) (顯)", "ipa": "/ˈemfə-/", "trans": "show", "col": "emphasis", "ex": "Place emphasis on study.", "pos": "pref./n./adj."},
+  "emphasis": {"def": "強調、重點、語氣的人物 (單數) (重)", "ipa": "/ˈemfəsɪs/", "trans": "emphasize", "col": "place emphasis on, main emphasis, special emphasis", "ex": "Emphasis is on quality today.", "pos": "n."},
+}

@@ -1,0 +1,436 @@
+{
+  "bias": {
+    "def": "偏見、偏袒",
+    "ipa": "/ˈbaɪəs/",
+    "trans": "biased (有偏見的)",
+    "col": "media bias, personal bias",
+    "ex": "He has a strong bias against women."
+  },
+  "bible": {
+    "def": "聖經",
+    "ipa": "/ˈbaɪbl/",
+    "trans": "biblical",
+    "col": "holy bible",
+    "ex": "They read the Bible every morning."
+  },
+  "bicycle/bike": {
+    "def": "腳踏車",
+    "ipa": "/ˈbaɪsɪkl/",
+    "trans": "bicycles",
+    "col": "ride a bike",
+    "ex": "I go to school by bicycle."
+  },
+  "bid": {
+    "def": "投標、出價",
+    "ipa": "/bɪd/",
+    "trans": "bidding",
+    "col": "make a bid for",
+    "ex": "Several people made a bid for the house."
+  },
+  "big": {
+    "def": "大的",
+    "ipa": "/bɪɡ/",
+    "trans": "bigger, biggest",
+    "col": "big city, big news",
+    "ex": "It's a big problem for us."
+  },
+  "bill": {
+    "def": "帳單、鈔票、法案",
+    "ipa": "/bɪl/",
+    "trans": "bills",
+    "col": "pay the bill, dollar bill",
+    "ex": "The waiter brought the bill."
+  },
+  "billion": {
+    "def": "十億",
+    "ipa": "/ˈbɪljən/",
+    "trans": "billions",
+    "col": "a billion people",
+    "ex": "The population reached 8 billion."
+  },
+  "bin": {
+    "def": "箱子、垃圾桶",
+    "ipa": "/bɪn/",
+    "trans": "bins",
+    "col": "dust bin, recycle bin",
+    "ex": "Put the paper in the bin."
+  },
+  "bind": {
+    "def": "綑綁、束縛",
+    "ipa": "/baɪnd/",
+    "trans": "bound, bound",
+    "col": "bind together",
+    "ex": "This contract binds both companies."
+  },
+  "biology": {
+    "def": "生物學",
+    "ipa": "/baɪˈɒlədʒ/",
+    "trans": "biologist (生物學家)",
+    "col": "study biology",
+    "ex": "Human biology is complex."
+  },
+  "bird": {
+    "def": "鳥",
+    "ipa": "/bɜːd/",
+    "trans": "birds",
+    "col": "early bird, bird cage",
+    "ex": "A bird is singing in the tree."
+  },
+  "birth": {
+    "def": "出生、誕生",
+    "ipa": "/bɜːθ/",
+    "trans": "birthday",
+    "col": "give birth to",
+    "ex": "What's your date of birth?"
+  },
+  "birthday": {
+    "def": "生日",
+    "ipa": "/ˈbɜːθdeɪ/",
+    "trans": "birthdays",
+    "col": "birthday party",
+    "ex": "Happy birthday to you!"
+  },
+  "biscuit": {
+    "def": "餅乾",
+    "ipa": "/ˈbɪskɪt/",
+    "trans": "biscuits",
+    "col": "tea and biscuits",
+    "ex": "She baked some sweet biscuits."
+  },
+  "bit": {
+    "def": "一小塊、少許",
+    "ipa": "/bɪt/",
+    "trans": "bits",
+    "col": "a bit of, bit by bit",
+    "ex": "Wait a bit, please."
+  },
+  "bite": {
+    "def": "咬",
+    "ipa": "/baɪt/",
+    "trans": "bit, bitten",
+    "col": "bite off, mosquito bite",
+    "ex": "Don't bite your nails."
+  },
+  "bitter": {
+    "def": "苦的、苦澀的",
+    "ipa": "/ˈbɪtə/",
+    "trans": "bitterness (苦味)",
+    "col": "bitter taste, bitter cold",
+    "ex": "This medicine tastes bitter."
+  },
+  "black": {
+    "def": "黑色的",
+    "ipa": "/blæk/",
+    "trans": "blackness",
+    "col": "black coffee, in the black",
+    "ex": "He is wearing a black suit."
+  },
+  "blackboard": {
+    "def": "黑板",
+    "ipa": "/ˈblækbɔːd/",
+    "trans": "blackboards",
+    "col": "write on the blackboard",
+    "ex": "The teacher wrote some words on the blackboard."
+  },
+  "blame": {
+    "def": "責怪",
+    "ipa": "/bleɪm/",
+    "trans": "blamed, blameworthy",
+    "col": "blame someone for something",
+    "ex": "Don't blame me for your mistakes."
+  },
+  "blank": {
+    "def": "空白的",
+    "ipa": "/blæŋk/",
+    "trans": "blanks",
+    "col": "blank space, go blank",
+    "ex": "Fill in the blanks."
+  },
+  "blanket": {
+    "def": "毛毯",
+    "ipa": "/ˈblæŋkɪt/",
+    "trans": "blankets",
+    "col": "electric blanket",
+    "ex": "It's cold; you need a blanket."
+  },
+  "blast": {
+    "def": "爆炸、強風",
+    "ipa": "/blɑːst/",
+    "trans": "blasted",
+    "col": "blast off (發射)",
+    "ex": "The blast was heard three miles away."
+  },
+  "bless": {
+    "def": "保佑、祝福",
+    "ipa": "/bles/",
+    "trans": "blessing, blessed",
+    "col": "God bless you",
+    "ex": "The priest blessed the children."
+  },
+  "blind": {
+    "def": "瞎的、盲目的",
+    "ipa": "/blaɪnd/",
+    "trans": "blindness",
+    "col": "color blind, blind date",
+    "ex": "He has been blind since birth."
+  },
+  "block": {
+    "def": "區塊、阻擋、大樓",
+    "ipa": "/blɒk/",
+    "trans": "blocked, blockades",
+    "col": "office block, block the way",
+    "ex": "They live two blocks away."
+  },
+  "blood": {
+    "def": "血液",
+    "ipa": "/blʌd/",
+    "trans": "bloody (流血的)",
+    "col": "blood pressure, blood type",
+    "ex": "He lost a lot of blood."
+  },
+  "bloom": {
+    "def": "開花",
+    "ipa": "/bluːm/",
+    "trans": "bloomed, blooming",
+    "col": "in full bloom",
+    "ex": "The roses are in full bloom."
+  },
+  "blouse": {
+    "def": "女裝襯衫",
+    "ipa": "/blaʊz/",
+    "trans": "blouses",
+    "col": "silk blouse",
+    "ex": "She is wearing a white blouse."
+  },
+  "blow": {
+    "def": "吹、打擊",
+    "ipa": "/bləʊ/",
+    "trans": "blew, blown",
+    "col": "blow out, blow up",
+    "ex": "The wind blew the door open."
+  },
+  "blue": {
+    "def": "藍色的、憂鬱的",
+    "ipa": "/bluː/",
+    "trans": "blueness",
+    "col": "dark blue, feel blue",
+    "ex": "The sky is blue today."
+  },
+  "board": {
+    "def": "板子、委員會、上船/飛機",
+    "ipa": "/bɔːd/",
+    "trans": "onboard",
+    "col": "notice board, board of directors",
+    "ex": "He is on the board of directors."
+  },
+  "boast": {
+    "def": "自誇、吹噓",
+    "ipa": "/bəʊst/",
+    "trans": "boastful (愛自誇的)",
+    "col": "boast about",
+    "ex": "He likes to boast about his wealth."
+  },
+  "boat": {
+    "def": "小船",
+    "ipa": "/bəʊt/",
+    "trans": "boats",
+    "col": "fishing boat",
+    "ex": "We went for a boat ride."
+  },
+  "body": {
+    "def": "身體、主體",
+    "ipa": "/ˈbɒdi/",
+    "trans": "bodies",
+    "col": "body language",
+    "ex": "Healthy mind in a healthy body."
+  },
+  "boil": {
+    "def": "沸騰、煮沸",
+    "ipa": "/bɔɪl/",
+    "trans": "boiled, boiling",
+    "col": "boiled egg, boiling point",
+    "ex": "The water is boiling."
+  },
+  "bold": {
+    "def": "大膽的、粗體的",
+    "ipa": "/bəʊld/",
+    "trans": "boldly",
+    "col": "bold move",
+    "ex": "He made a bold decision."
+  },
+  "bomb": {
+    "def": "炸彈",
+    "ipa": "/bɒm/",
+    "trans": "bombed, bomber",
+    "col": "atomic bomb",
+    "ex": "The bomb exploded in the city center."
+  },
+  "bond": {
+    "def": "聯繫、束縛、債券",
+    "ipa": "/bɒnd/",
+    "trans": "bonds",
+    "col": "bond of friendship",
+    "ex": "There is a strong bond between them."
+  },
+  "bone": {
+    "def": "骨頭",
+    "ipa": "/bəʊn/",
+    "trans": "bones",
+    "col": "funny bone",
+    "ex": "Dogs like to chew on bones."
+  },
+  "book": {
+    "def": "書、預訂",
+    "ipa": "/bʊk/",
+    "trans": "booking (預訂)",
+    "col": "textbook, book a room",
+    "ex": "I am reading an interesting book."
+  },
+  "bookcase": {
+    "def": "書櫃",
+    "ipa": "/ˈbʊkkeɪs/",
+    "trans": "bookcases",
+    "col": "wooden bookcase",
+    "ex": "The bookcase is full of novels."
+  },
+  "bookstore": {
+    "def": "書店",
+    "ipa": "/ˈbʊkstɔː/",
+    "trans": "bookstores",
+    "col": "local bookstore",
+    "ex": "I bought this map in a bookstore."
+  },
+  "boom": {
+    "def": "激增、繁榮",
+    "ipa": "/buːm/",
+    "trans": "boomed, booming",
+    "col": "baby boom, economic boom",
+    "ex": "The software industry is booming."
+  },
+  "boot": {
+    "def": "靴子、後車廂",
+    "ipa": "/buːt/",
+    "trans": "boots",
+    "col": "rain boot",
+    "ex": "He put his boots on."
+  },
+  "border": {
+    "def": "邊界、邊緣",
+    "ipa": "/ˈbɔːdə/",
+    "trans": "borders",
+    "col": "cross the border",
+    "ex": "The river forms a natural border."
+  },
+  "bore": {
+    "def": "使無聊",
+    "ipa": "/bɔː/",
+    "trans": "bored, boring",
+    "col": "bored to death",
+    "ex": "This movie bores me."
+  },
+  "bored": {
+    "def": "感到無聊的",
+    "ipa": "/bɔːd/",
+    "trans": "bore (動詞)",
+    "col": "be bored with",
+    "ex": "I'm bored with this game."
+  },
+  "boring": {
+    "def": "無聊的",
+    "ipa": "/ˈbɔːrɪŋ/",
+    "trans": "boringly",
+    "col": "boring lecture",
+    "ex": "He is a very boring speaker."
+  },
+  "born": {
+    "def": "出生的",
+    "ipa": "/bɔːn/",
+    "trans": "birth (名詞)",
+    "col": "be born in",
+    "ex": "I was born in 1995."
+  },
+  "borrow": {
+    "def": "借入",
+    "ipa": "/ˈbɒrəʊ/",
+    "trans": "borrowed, borrower",
+    "col": "borrow from",
+    "ex": "Can I borrow your pen?"
+  },
+  "boss": {
+    "def": "老闆",
+    "ipa": "/bɒs/",
+    "trans": "bossy (愛指使人的)",
+    "col": "the big boss",
+    "ex": "My boss is a very nice person."
+  },
+  "both": {
+    "def": "兩者都",
+    "ipa": "/bəʊθ/",
+    "trans": "無",
+    "col": "both of them",
+    "ex": "Both brothers are engineers."
+  },
+  "bother": {
+    "def": "打擾、煩惱",
+    "ipa": "/ˈbɒðə/",
+    "trans": "bothered, bothersome",
+    "col": "don't bother",
+    "ex": "I'm sorry to bother you."
+  },
+  "bottle": {
+    "def": "瓶子",
+    "ipa": "/ˈbɒtl/",
+    "trans": "bottles",
+    "col": "bottle of water",
+    "ex": "Empty bottles are everywhere."
+  },
+  "bottom": {
+    "def": "底部",
+    "ipa": "/ˈbɒtəm/",
+    "trans": "bottomless",
+    "col": "at the bottom of",
+    "ex": "The coins are at the bottom of the pool."
+  },
+  "bounce": {
+    "def": "彈跳",
+    "ipa": "/baʊns/",
+    "trans": "bounced, bouncing",
+    "col": "bounce back",
+    "ex": "The ball bounced off the wall."
+  },
+  "bound": {
+    "def": "注定的、跳躍、界線",
+    "ipa": "/baʊnd/",
+    "trans": "boundary (邊界)",
+    "col": "be bound to",
+    "ex": "The taxi is bound for the airport."
+  },
+  "boundary": {
+    "def": "邊界、分界線",
+    "ipa": "/ˈbaʊndri/",
+    "trans": "boundaries",
+    "col": "set a boundary",
+    "ex": "The river forms a natural boundary."
+  },
+  "bow": {
+    "def": "鞠躬、蝴蝶結、弓",
+    "ipa": "/baʊ/",
+    "trans": "bows",
+    "col": "take a bow",
+    "ex": "They bowed to the audience."
+  },
+  "bowl": {
+    "def": "碗",
+    "ipa": "/bəʊl/",
+    "trans": "bowls",
+    "col": "a bowl of soup",
+    "ex": "I ate a large bowl of rice."
+  },
+  "box": {
+    "def": "箱子、盒子",
+    "ipa": "/bɒks/",
+    "trans": "boxes",
+    "col": "lunch box, post box",
+    "ex": "There's a surprise in the box."
+  }
+}

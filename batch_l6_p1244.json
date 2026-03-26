@@ -1,0 +1,14 @@
+{
+  "headlamp/light": {"def": "(汽)前照燈、大燈、(礦)頭燈人物 (單數) (燈)", "ipa": "/ˈhedlæmp/", "trans": "head", "col": "bright headlamp", "ex": "Walking at night with a headlamp.", "pos": "n."},
+  "head-land/land": {"def": "角、岬、(喻)突出部人物 (單數) (岬)", "ipa": "/ˈhedlənd/", "trans": "head", "col": "rocky head-land", "ex": "The_lighthouse is on a head-land.", "pos": "n."},
+  "head-les_s/bad": {"def": "無頭的、(喻)無領導的、(俚)極愚蠢地的人的人物 (單數) (盲/蠢)", "ipa": "/ˈhedləs/", "trans": "head", "col": "head-les_s corpse, head-les_s chicken", "ex": "Like a head-les_s chicken, running.", "pos": "adj./n."},
+  "headlight/light": {"def": "(汽)前照燈、(喻)引路之光人物 (單數) (燈)", "ipa": "/ˈhedlaɪt/", "trans": "head", "col": "beam of headlight", "ex": "The_car's headlight-s are on.", "pos": "n."},
+  "headline/name": {"def": "(報)大字標題、(喻)新聞提要人物、(使)成為新聞頭條的人的人 (標/標)", "ipa": "/ˈhedlaɪn/", "trans": "head", "col": "front-page headline, make the_headline-s", "ex": "Shocking headline-s in the_news.", "pos": "n./v."},
+  "headlining/naming": {"def": "(汽/內)車頂篷飾板人物、(喻)作為主演地的人的人 (或物) (飾/演)", "ipa": "/ˈhedlaɪnɪŋ/", "trans": "headline", "col": "fest-iv_al headlining", "ex": "She was headlining the_concert.", "pos": "n./v./adj."},
+  "head-long/fast": {"def": "輕率的、頭向下的、(喻)急速地的人的人物、頭向下地、輕率地的人的人物 (單數) (率/跌)", "ipa": "/ˈhedlɒŋ/", "trans": "head", "col": "head-long rush, dive head-long", "ex": "He rushed head-long into the_room.", "pos": "adj./adv."},
+  "head-man/leader": {"def": "(民)頭目、酋長、(專)工頭人物 (單數) (領/工)", "ipa": "/ˈhedmən/", "trans": "head", "col": "village head-man", "ex": "Ask the_village head-man for help.", "pos": "n."},
+  "head-m_as_ter/teacher": {"def": "(英)校長、(喻)主事者人物 (單數) (丈)", "ipa": "/ˌhedˈmɑːstə/", "trans": "head", "col": "meet the_head-m_as_ter", "ex": "Mr. Smith is our new head-m_as_ter.", "pos": "n."},
+  "head-m_is_t_res_s/teacher": {"def": "(英)女校長人物 (單數) (丈)", "ipa": "/ˌhedˈmɪstrəs/", "trans": "head", "col": "strict head-m_is_t_res_s", "ex": "The_head-m_is_t_res_s is in office.", "pos": "n."},
+  "headon/hard": {"def": "頭部向外的、(喻)正面衝突的、(汽)迎頭碰撞地的人的人物 (單數) (撞)", "ipa": "/ˌhed ˈɒn/", "trans": "head", "col": "headon collision", "ex": "They had a headon collision, alas.", "pos": "adj./adv."},
+  "head-phone-s": {"def": "耳機、聽筒及其它的人的人物 (單數) (機)", "ipa": "/ˈhedfəʊnz/", "trans": "head", "col": "wear head-phone-s, noise-canceling head-phone-s", "ex": "Listening to music with head-phone-s.", "pos": "n."},
+}

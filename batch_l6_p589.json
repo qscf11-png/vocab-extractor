@@ -1,0 +1,18 @@
+{
+  "empt-": {"def": "空、買的人的人人物 (單數) (空/買)", "ipa": "/ˈempt-/", "trans": "buy", "col": "preempt", "ex": "They preempt the_market now.", "pos": "pref./n./adj."},
+  "emptily": {"def": "空虛地、徒勞地、空洞地", "ipa": "/ˈemptɪli/", "trans": "empty", "col": "sounded emptily", "ex": "The_hall sounded so today.", "pos": "adv."},
+  "emptiness/empty-ness": {"def": "空虛、空洞人物 (單數) (空)", "ipa": "/ˈemptinəs/", "trans": "empty", "col": "inner emptiness", "ex": "Feel the_inner emptiness.", "pos": "n."},
+  "empy-": {"def": "火、膿的人的人人物 (單數) (火/膿)", "ipa": "/ɪmˈpaɪ-/", "trans": "fire", "col": "empyrean", "ex": "The_empyrean heights above.", "pos": "pref./n./adj."},
+  "empyema": {"def": "(醫)積膿、胸膜積膿人物 (單數) (膿)", "ipa": "/ˌempaɪˈiːmə/", "trans": "liquid", "col": "pleural empyema", "ex": "The_doctor found empyema.", "pos": "n."},
+  "empyreal/empyrean": {"def": "最高天的、天上的、火的人的人物 (單數) (天)", "ipa": "/ɪmˈpɪriəl/", "trans": "heaven", "col": "empyrean realm", "ex": "In the_empyrean realm now.", "pos": "adj./n."},
+  "emu": {"def": "鴯鶓(澳洲大鳥)人物 (單數) (鳥)", "ipa": "/ˈiːmjuː/", "trans": "bird", "col": "wild emu", "ex": "The_emu cannot fly today.", "pos": "n."},
+  "emulat-": {"def": "競爭、效法的人的人人物 (單數) (競)", "ipa": "/ˈemjəl-/", "trans": "match", "col": "emulate", "ex": "Emulate her success now.", "pos": "pref./n./adj."},
+  "emulate": {"def": "效法、盡力趕上、(計)仿真的人的人", "ipa": "/ˈemjuleɪt/", "trans": "copy", "col": "emulate father, emulate system", "ex": "Try to emulate his courage.", "pos": "v./n./adv."},
+  "emulatable/emulatable": {"def": "可模擬的、可效法地的人的人物 (單數) (效)", "ipa": "/ˈemjəleɪtəbl/", "trans": "emulate", "col": "emulatable system", "ex": "The_game is emulatable.", "pos": "adj./n."},
+  "emulated/emulating": {"def": "效法的、仿真的地的人的人 (或物) (仿)", "ipa": "/ˈemjuleɪtɪd/", "trans": "emulate", "col": "emulated environment", "ex": "Run in an emulated mode.", "pos": "adj./v./n."},
+  "emulation/emulation": {"def": "效法、競爭、(計)仿真人物 (單數) (仿)", "ipa": "/ˌemjuˈleɪʃn/", "trans": "emulate", "col": "spirit of emulation", "ex": "A spirit of emulation began.", "pos": "n."},
+  "emulative/emulative": {"def": "競爭性的、效法地的人的人物 (單數) (競)", "ipa": "/ˈemjələtɪv/", "trans": "emulate", "col": "emulative drive", "ex": "An emulative drive for success.", "pos": "adj./n."},
+  "emulator/emulator": {"def": "效法者、(計)仿真器人物 (單數) (器)", "ipa": "/ˈemjuleɪtə/", "trans": "emulate", "col": "software emulator", "ex": "Use a game emulator today.", "pos": "n."},
+  "emulous": {"def": "好勝的、效法地 (勝)", "ipa": "/ˈemjələs/", "trans": "eager", "col": "emulous of fame", "ex": "He is emulous of fame.", "pos": "adj./adv."},
+  "emulously": {"def": "好勝地、效法地", "ipa": "/ˈemjələsli/", "trans": "emulous", "col": "strove emulously", "ex": "They strove so tonight.", "pos": "adv."},
+}

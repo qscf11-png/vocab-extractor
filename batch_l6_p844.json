@@ -1,0 +1,18 @@
+{
+  "fantastic/wonderful": {"def": "極好的、奇幻的、不切實際地的人的人物 (單數) (幻/極)", "ipa": "/fænˈtæstɪk/", "trans": "good", "col": "fantastic idea, fantastic world, look fantastic", "ex": "You look fantastic today.", "pos": "adj./n./adv."},
+  "fantastical/fantastic": {"def": "幻覺的、奇異地的人的人物 (單數) (幻)", "ipa": "/fænˈtæstɪkl/", "trans": "fantasy", "col": "fantastical creature", "ex": "Stories of fantastical creatures.", "pos": "adj./n."},
+  "fantastically/fantastically": {"def": "奇幻地、極好地、極端地", "ipa": "/fænˈtæstɪkli/", "trans": "fantastic", "col": "fantastically rich", "ex": "It was fantastically expensive.", "pos": "adv."},
+  "fantasy/fan-": {"def": "幻想、白日夢、幻想作品人物 (單數) (幻)", "ipa": "/ˈfæntəsi/", "trans": "see", "col": "pure fantasy, fantasy world, sexual fantasy", "ex": "It's all just a fantasy.", "pos": "n./adj."},
+  "far": {"def": "遠的、久遠的人物、遠、遙遠地的人的人人物 (單數) (遠)", "ipa": "/fɑː/", "trans": "long", "col": "far away, far from, by far, as far as, so far", "ex": "How far is the_station?", "pos": "adj./adv./n."},
+  "far-": {"def": "遠的人的人人物 (單數) (遠)", "ipa": "/fɑː-/", "trans": "long", "col": "far-away", "ex": "A far-away look in eyes.", "pos": "pref./n./adj."},
+  "farad": {"def": "(電)法拉(電容量單位)人物 (單數) (法)", "ipa": "/ˈfæræd/", "trans": "unit", "col": "micro farad", "ex": "Measuring in micro farads.", "pos": "n."},
+  "faraway": {"def": "遙遠的、心不在焉地的人的人物 (單數) (遠)", "ipa": "/ˈfɑːrəweɪ/", "trans": "long", "col": "faraway land, faraway look", "ex": "Dreams of faraway lands.", "pos": "adj./n."},
+  "farce/comedy": {"def": "鬧劇、胡鬧人物 (單數) (劇/鬧)", "ipa": "/fɑːs/", "trans": "say", "col": "political farce, pure farce", "ex": "The_trial was a pure farce.", "pos": "n."},
+  "farcer/farcical-": {"def": "寫鬧劇者、逗笑者人物 (單數) (員)", "ipa": "/ˈfɑːsə/", "trans": "farce", "col": "talented farcer", "ex": "He is a talented farcer.", "pos": "n."},
+  "farcical/ridiculous": {"def": "鬧劇的、滑稽地的人的人物 (單數) (鬧)", "ipa": "/ˈfɑːsɪkl/", "trans": "farce", "col": "farcical situation", "ex": "It was a farcical situation.", "pos": "adj./n."},
+  "farcically/ridiculously": {"def": "鬧劇地、滑稽地", "ipa": "/ˈfɑːsɪkli/", "trans": "farcical", "col": "spoke farcically", "ex": "He acted so at meeting.", "pos": "adv."},
+  "fare": {"def": "車費、票價的人物、過日子、進行的人的人人物 (單數) (費/進)", "ipa": "/feə/", "trans": "/go", "col": "bus fare, air fare, bill of fare (菜單), how did you fare?", "ex": "The_bus fare is going up.", "pos": "n./v./adj."},
+  "far-fetched/unlikely": {"def": "牽強的、不自然地的人的人物 (單數) (強)", "ipa": "/ˌfɑː ˈfetʃt/", "trans": "far", "col": "far-fetched story", "ex": "The_idea is a bit far-fetched.", "pos": "adj./n."},
+  "far-flung/distant": {"def": "廣大區域的、遙遠地的人的人物 (單數) (廣)", "ipa": "/ˌfɑː ˈflʌŋ/", "trans": "far", "col": "far-flung empire", "ex": "A far-flung empire to rule.", "pos": "adj./n."},
+  "fare-": {"def": "去的人的人人物 (單數) (去)", "ipa": "/feə-/", "trans": "go", "col": "farewell", "ex": "Say farewell to friends.", "pos": "pref./n./adj."},
+}

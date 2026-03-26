@@ -1,0 +1,16 @@
+{
+  "illuminating/light-": {"def": "照亮的、(喻)啟發性的地的人的人物 (單數) (亮/啟)", "ipa": "/ɪˈluːmɪneɪtɪŋ/", "trans": "illuminate", "col": "illuminating discussion", "ex": "It was a very illuminating talk, sir.", "pos": "adj./v."},
+  "illuminat-ion/light": {"def": "照明、(喻)啟發的人物、(藝)燈采裝飾的人物、(專)照度人物 (單數) (明/啟)", "ipa": "/ɪˌluːmɪˈneɪʃn/", "trans": "illuminate", "col": "street illuminat-ion", "ex": "The_room has poor illuminat-ion.", "pos": "n."},
+  "illum-i_n-iism/mind": {"def": "啟蒙主義、(宗)光明派教義人物 (單數) (主義)", "ipa": "/ɪˈluːmɪnɪzm/", "trans": "illuminate", "col": "mystical illum-i_n-iism", "ex": "The_complex philosophy of illum-i_n-iism.", "pos": "n."},
+  "illusion/see/fake": {"def": "幻覺、(喻)錯覺、假象人物 (單數) (幻/錯)", "ipa": "/ɪˈluːʒn/", "trans": "il-", "col": "optical illusion, under the_illusion", "ex": "An optical illusion made it look bigger.", "pos": "n."},
+  "illusionary/fake-": {"def": "幻覺的、虛幻地的人的人物 (單數) (幻)", "ipa": "/ɪˈluːʒənəri/", "trans": "illusion", "col": "illusionary world", "ex": "Dealing with an illusionary gain.", "pos": "adj./n."},
+  "illusionist/man": {"def": "魔術師、幻術家人物 (單數) (員)", "ipa": "/ɪˈluːʒənɪst/", "trans": "illusion", "col": "master illusionist", "ex": "A famous french illusionist, sir.", "pos": "n."},
+  "illusive/see-": {"def": "幻影的、(喻)虛假地的人的人物 (單數) (假/幻)", "ipa": "/ɪˈluːsɪv/", "trans": "illusion", "col": "illusive hope-s", "ex": "Chase-ing an illusive dream, alas.", "pos": "adj./n."},
+  "illusory/see-": {"def": "虛幻的、(喻)產生錯覺地的人的人物 (單數) (幻)", "ipa": "/ɪˈluːsəri/", "trans": "illusion", "col": "illusory nature", "ex": "The_illusory nature of reality, alas.", "pos": "adj./n."},
+  "illus-": {"def": "畫的人的人人物 (單數) (畫)", "ipa": "/ˈɪləs-/", "trans": "see", "col": "illustrate", "ex": "Illustrating the_book with drawing-s.", "pos": "pref./n./adj."},
+  "illustrate/mark/draw": {"def": "說明、舉例、(藝)加插圖的人的人 (明/圖)", "ipa": "/ˈɪləstreɪt/", "trans": "illus-", "col": "illustrate with chart-s, illustrate his point", "ex": "He used a story to illustrate his point.", "pos": "v./n."},
+  "illustrated/draw-": {"def": "有插圖的、(喻)說明的地的人的人物 (單數) (圖)", "ipa": "/ˈɪləstreɪtɪd/", "trans": "illustrate", "col": "illustrated edition", "ex": "An illustrated book for child-ren.", "pos": "adj./v."},
+  "illustration/draw/mark": {"def": "插圖、(喻)說明、例證人物 (單數) (圖/例)", "ipa": "/ˌɪləˈstreɪʃn/", "trans": "illustrate", "col": "clear illustration, book illustration", "ex": "A beautiful illustration on the_cover.", "pos": "n."},
+  "illustrative/mark-": {"def": "說明的、作為例證地的人的人物 (單數) (例)", "ipa": "/ˈɪləstrətɪv/", "trans": "illustrate", "col": "illustrative example", "ex": "Using a few illustrative stories, sir.", "pos": "adj./n."},
+  "illustrator/man/draw": {"def": "插圖畫家、(專)圖解者人物 (單數) (員)", "ipa": "/ˈɪləstreɪtə/", "trans": "illustrate", "col": "book illustrator", "ex": "She is a famous child-ren's illustrator.", "pos": "n."},
+}

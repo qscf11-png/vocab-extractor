@@ -1,0 +1,15 @@
+{
+  "entitled": {"def": "有權力的、有資格地的人的人 (或物) (格)", "ipa": "/ɪnˈtaɪtld/", "trans": "entitle", "col": "feel entitled", "ex": "He feels entitled to help.", "pos": "adj./v."},
+  "entitle-ment/entitlement": {"def": "權利、津貼、應得物人物 (單數) (權)", "ipa": "/ɪnˈtaɪtlmənt/", "trans": "entitle", "col": "holiday entitlement, entitlement spending", "ex": "Check your holiday entitlement.", "pos": "n."},
+  "entity": {"def": "實體、存在、本質人物 (單數) (實)", "ipa": "/ˈentəti/", "trans": "body", "col": "legal entity, corporate entity", "ex": "The_church is a separate entity.", "pos": "n."},
+  "entomb": {"def": "葬、埋入、掩埋的人的人", "ipa": "/ɪnˈtuːm/", "trans": "dead", "col": "entomb in grave", "ex": "They decide to entomb him here.", "pos": "v./n./adv."},
+  "entombed/entombing": {"def": "埋入的、被掩埋地的人的人 (或物) (埋)", "ipa": "/ɪnˈtuːmd/", "trans": "entomb", "col": "entombed in rock", "ex": "Miners were entombed for days.", "pos": "adj./v."},
+  "entomb-ment/entombment": {"def": "埋葬、葬禮、陵墓人物 (單數) (葬)", "ipa": "/ɪnˈtuːmmənt/", "trans": "entomb", "col": "royal entombment", "ex": "The_process of royal entombment.", "pos": "n."},
+  "entomo-": {"def": "昆蟲的人的人人物 (單數) (蟲)", "ipa": "/ˌentəmə-/", "trans": "insect", "col": "entomology", "ex": "He studys entomology now.", "pos": "pref./n./adj."},
+  "entomology/entomology": {"def": "昆蟲學人物 (單數) (蟲)", "ipa": "/ˌentəˈmɒlədʒi/", "trans": "insect", "col": "economic entomology", "ex": "He is an expert in entomology.", "pos": "n."},
+  "entomologist/entomologist": {"def": "昆蟲學家人物 (單數) (員)", "ipa": "/ˌentəˈmɒlədʒɪst/", "trans": "entomology", "col": "famous entomologist", "ex": "The_entomologist found new bugs.", "pos": "n."},
+  "entourage": {"def": "隨從、隨行人員、周圍人物人物 (單數) (從)", "ipa": "/ˈɒntʊrɑːʒ/", "trans": "group", "col": "king's entourage", "ex": "He arrived with a large entourage.", "pos": "n."},
+  "ento-": {"def": "內、內部的人的人人物 (單數) (內)", "ipa": "/ˈentə-/", "trans": "in", "col": "entozoa", "ex": "Parasites like entozoa.", "pos": "pref./n./adj."},
+  "entozoa/entozoon": {"def": "(動)體內寄生蟲人物 (單數) (蟲)", "ipa": "/ˌentəˈzəʊə/", "trans": "insect", "col": "intestinal entozoa", "ex": "He has intestinal entozoa.", "pos": "n."},
+  "entr-": {"def": "進入、入口的人的人人物 (單數) (入)", "ipa": "/ˈentr-/", "trans": "enter", "col": "entrance", "ex": "Wait at the_main entrance.", "pos": "pref./n./adj."},
+}

@@ -1,0 +1,5378 @@
+{
+  "abroad": {
+    "def": "在國外、向國外",
+    "ipa": "/əˈbrɔːd/",
+    "trans": "aboard (區分)",
+    "col": "go abroad, study abroad",
+    "ex": "She decided to study abroad next year.",
+    "pos": "adv."
+  },
+  "absent": {
+    "def": "缺席的、不在場的",
+    "ipa": "/ˈæbsənt/",
+    "trans": "absence",
+    "col": "be absent from",
+    "ex": "He was absent from the meeting yesterday.",
+    "pos": "adj."
+  },
+  "accept": {
+    "def": "接受、領受",
+    "ipa": "/əkˈsept/",
+    "trans": "acceptance, acceptable",
+    "col": "accept an invitation",
+    "ex": "I am happy to accept your offer.",
+    "pos": "v."
+  },
+  "accident": {
+    "def": "意外、事故",
+    "ipa": "/ˈæksɪdənt/",
+    "trans": "accidental, accidentally",
+    "col": "car accident, by accident",
+    "ex": "It was a pure accident.",
+    "pos": "n."
+  },
+  "active": {
+    "def": "積極的、活躍的",
+    "ipa": "/ˈæktɪv/",
+    "trans": "action, activity",
+    "col": "active member, take an active part",
+    "ex": "She is very active in local politics.",
+    "pos": "adj."
+  },
+  "activity": {
+    "def": "活動",
+    "ipa": "/ækˈtɪvəti/",
+    "trans": "active (形容詞)",
+    "col": "outdoor activities",
+    "ex": "The school offers many extracurricular activities.",
+    "pos": "n."
+  },
+  "actual": {
+    "def": "實際的、真實的",
+    "ipa": "/ˈæktʃuəl/",
+    "trans": "actually",
+    "col": "actual cost, actual situation",
+    "ex": "What was the actual cost of the project?",
+    "pos": "adj."
+  },
+  "add": {
+    "def": "增加、添加",
+    "ipa": "/æd/",
+    "trans": "addition, additional",
+    "col": "add up, add to",
+    "ex": "Please add some sugar to my coffee.",
+    "pos": "v."
+  },
+  "address": {
+    "def": "地址、演說、寫地址、向...演說",
+    "ipa": "/əˈdres/",
+    "trans": "addressee",
+    "col": "home address, change of address",
+    "ex": "What is your current address?",
+    "pos": "n./v."
+  },
+  "admire": {
+    "def": "欽佩、欣賞",
+    "ipa": "/ədˈmaɪə/",
+    "trans": "admiration, admirable",
+    "col": "admire someone for",
+    "ex": "I really admire your courage.",
+    "pos": "v."
+  },
+  "admit": {
+    "def": "承認、准許進入",
+    "ipa": "/ədˈmɪt/",
+    "trans": "admission",
+    "col": "admit a mistake",
+    "ex": "He admitted that he was wrong.",
+    "pos": "v."
+  },
+  "adopt": {
+    "def": "收養、採用",
+    "ipa": "/əˈdɒpt/",
+    "trans": "adoption",
+    "col": "adopt a child, adopt a plan",
+    "ex": "They decided to adopt a baby.",
+    "pos": "v."
+  },
+  "advance": {
+    "def": "進步、進展、前進、提前的",
+    "ipa": "/ədˈvɑːns/",
+    "trans": "advanced, advancement",
+    "col": "in advance, technical advance",
+    "ex": "We need to plan in advance.",
+    "pos": "n./v./adj."
+  },
+  "advantage": {
+    "def": "優勢、利益",
+    "ipa": "/ədˈvɑːntɪdʒ/",
+    "trans": "advantageous",
+    "col": "take advantage of",
+    "ex": "He has the advantage of being tall.",
+    "pos": "n."
+  },
+  "advertise": {
+    "def": "登廣告、宣傳",
+    "ipa": "/ˈædvətaɪz/",
+    "trans": "advertisement, advertising",
+    "col": "advertise for",
+    "ex": "They advertised for a new manager.",
+    "pos": "v."
+  },
+  "advice": {
+    "def": "建議、忠告",
+    "ipa": "/ədˈvaɪs/",
+    "trans": "advise (動詞)",
+    "col": "give advice, piece of advice",
+    "ex": "Can you give me some advice?",
+    "pos": "n."
+  },
+  "advise": {
+    "def": "建議、勸告",
+    "ipa": "/ədˈvaɪz/",
+    "trans": "advice (名詞), advisor",
+    "col": "advise someone to do",
+    "ex": "I advise you to stay at home.",
+    "pos": "v."
+  },
+  "affect": {
+    "def": "影響",
+    "ipa": "/əˈfekt/",
+    "trans": "effect (名詞), affection",
+    "col": "affect health",
+    "ex": "The weather will affect the crops.",
+    "pos": "v."
+  },
+  "afford": {
+    "def": "買得起、負擔得起",
+    "ipa": "/əˈfɔːd/",
+    "trans": "affordable",
+    "col": "can afford",
+    "ex": "I can't afford a new car.",
+    "pos": "v."
+  },
+  "afterwards": {
+    "def": "後來",
+    "ipa": "/ˈɑːftəwədz/",
+    "trans": "afterward",
+    "col": "soon afterwards",
+    "ex": "He died shortly afterwards.",
+    "pos": "adv."
+  },
+  "against": {
+    "def": "反對、對抗、倚靠",
+    "ipa": "/əˈɡenst/",
+    "trans": "opposition",
+    "col": "against the law, lean against",
+    "ex": "Are you for or against the plan?",
+    "pos": "prep."
+  },
+  "agree": {
+    "def": "同意、一致",
+    "ipa": "/əˈɡriː/",
+    "trans": "agreement, disagreeable",
+    "col": "agree with, agree on",
+    "ex": "I agree with you.",
+    "pos": "v."
+  },
+  "aim": {
+    "def": "目標、目的、瞄準、旨在",
+    "ipa": "/eɪm/",
+    "trans": "aimless",
+    "col": "aim at, take aim",
+    "ex": "Our main aim is to increase sales.",
+    "pos": "n./v."
+  },
+  "airline": {
+    "def": "航空公司",
+    "ipa": "/ˈeəlaɪn/",
+    "trans": "airliner",
+    "col": "international airline",
+    "ex": "Which airline are you flying with?",
+    "pos": "n."
+  },
+  "alarm": {
+    "def": "警報、鬧鐘、使驚恐",
+    "ipa": "/əˈlɑːm/",
+    "trans": "alarming",
+    "col": "alarm clock, raise the alarm",
+    "ex": "The news caused great alarm.",
+    "pos": "n./v."
+  },
+  "album": {
+    "def": "相簿、唱片專輯",
+    "ipa": "/ˈælbəm/",
+    "trans": "albums",
+    "col": "photo album, new album",
+    "ex": "I'm looking at my photo album.",
+    "pos": "n."
+  },
+  "alike": {
+    "def": "相似的、同樣地",
+    "ipa": "/əˈlaɪk/",
+    "trans": "likeness",
+    "col": "look alike",
+    "ex": "The two brothers are very much alike.",
+    "pos": "adj./adv."
+  },
+  "alive": {
+    "def": "活著的、活躍的",
+    "ipa": "/əˈlaɪv/",
+    "trans": "life, live",
+    "col": "stay alive, catch alive",
+    "ex": "He is still alive.",
+    "pos": "adj."
+  },
+  "allow": {
+    "def": "允許、給予",
+    "ipa": "/əˈlaʊ/",
+    "trans": "allowance",
+    "col": "allow for",
+    "ex": "Smoking is not allowed here.",
+    "pos": "v."
+  },
+  "alone": {
+    "def": "孤獨的、獨自地",
+    "ipa": "/əˈləʊn/",
+    "trans": "lonely",
+    "col": "leave alone, let alone",
+    "ex": "He lives alone.",
+    "pos": "adj./adv."
+  },
+  "aloud": {
+    "def": "大聲地",
+    "ipa": "/əˈlaʊd/",
+    "trans": "loudly",
+    "col": "read aloud",
+    "ex": "Please read the text aloud.",
+    "pos": "adv."
+  },
+  "alphabet": {
+    "def": "字母表",
+    "ipa": "/ˈælfəbet/",
+    "trans": "alphabetical",
+    "col": "Roman alphabet",
+    "ex": "There are 26 letters in the English alphabet.",
+    "pos": "n."
+  },
+  "altogether": {
+    "def": "完全、總共",
+    "ipa": "/ˌɔːltəˈɡeðə/",
+    "trans": "together",
+    "col": "altogether different",
+    "ex": "The party was altogether successful.",
+    "pos": "adv."
+  },
+  "amaze": {
+    "def": "使大為驚奇",
+    "ipa": "/əˈmeɪz/",
+    "trans": "amazing, amazement",
+    "col": "be amazed at",
+    "ex": "It amazes me how much she can eat.",
+    "pos": "v."
+  },
+  "ambition": {
+    "def": "野心、雄心",
+    "ipa": "/æmˈbɪʃn/",
+    "trans": "ambitious",
+    "col": "lifelong ambition",
+    "ex": "My ambition is to be a pilot.",
+    "pos": "n."
+  },
+  "amount": {
+    "def": "總額、量、合計",
+    "ipa": "/əˈmaʊnt/",
+    "trans": "amounts",
+    "col": "large amount of, total amount",
+    "ex": "We have a large amount of work to do.",
+    "pos": "n./v."
+  },
+  "amuse": {
+    "def": "使歡樂、娛樂",
+    "ipa": "/əˈmjuːz/",
+    "trans": "amusement, amusing",
+    "col": "amuse someone with",
+    "ex": "He amused us with his stories.",
+    "pos": "v."
+  },
+  "ancient": {
+    "def": "古代的、古老的",
+    "ipa": "/ˈeɪnʃənt/",
+    "trans": "antiquity",
+    "col": "ancient Greece",
+    "ex": "Rome is an ancient city.",
+    "pos": "adj."
+  },
+  "angle": {
+    "def": "角度、觀點",
+    "ipa": "/ˈæŋɡl/",
+    "trans": "angled",
+    "col": "right angle, from another angle",
+    "ex": "Look at the problem from a different angle.",
+    "pos": "n."
+  },
+  "ankle": {
+    "def": "腳踝",
+    "ipa": "/ˈæŋkl/",
+    "trans": "sprained ankle",
+    "col": "twist one's ankle",
+    "ex": "She sprained her ankle.",
+    "pos": "n."
+  },
+  "anniversary": {
+    "def": "週年紀念日",
+    "ipa": "/ˌænɪˈvɜːsəri/",
+    "trans": "annual",
+    "col": "wedding anniversary",
+    "ex": "Today is our tenth wedding anniversary.",
+    "pos": "n."
+  },
+  "announce": {
+    "def": "宣布、發布",
+    "ipa": "/əˈnaʊns/",
+    "trans": "announcement, announcer",
+    "col": "announce a plan",
+    "ex": "They announced their engagement.",
+    "pos": "v."
+  },
+  "annoy": {
+    "def": "使煩惱、騷擾",
+    "ipa": "/əˈnɔɪ/",
+    "trans": "annoyance, annoying",
+    "col": "annoy someone with",
+    "ex": "His behavior annoyed me.",
+    "pos": "v."
+  },
+  "anyhow": {
+    "def": "無論如何、不管怎樣",
+    "ipa": "/ˈenɪhaʊ/",
+    "trans": "anyway",
+    "col": "anyhow we must go",
+    "ex": "Anyhow, I'm going to try.",
+    "pos": "adv."
+  },
+  "anyway": {
+    "def": "無論如何",
+    "ipa": "/ˈenɪweɪ/",
+    "trans": "anyhow",
+    "col": "I'll do it anyway",
+    "ex": "I don't care, I'm going anyway.",
+    "pos": "adv."
+  },
+  "anywhere": {
+    "def": "在任何地方",
+    "ipa": "/ˈenɪweə/",
+    "trans": "somewhere",
+    "col": "anywhere else",
+    "ex": "You can sit anywhere you like.",
+    "pos": "adv."
+  },
+  "apart": {
+    "def": "分開的、相隔地",
+    "ipa": "/əˈpɑːt/",
+    "trans": "separate",
+    "col": "apart from, keep apart",
+    "ex": "The two houses are 100 meters apart.",
+    "pos": "adj./adv."
+  },
+  "ape": {
+    "def": "類人猿、模仿",
+    "ipa": "/eɪp/",
+    "trans": "aping",
+    "col": "great apes",
+    "ex": "Chimpanzees are a type of ape.",
+    "pos": "n./v."
+  },
+  "apologize": {
+    "def": "道歉",
+    "ipa": "/əˈpɒlədʒaɪz/",
+    "trans": "apology, apologetic",
+    "col": "apologize for",
+    "ex": "I apologize for being late.",
+    "pos": "v."
+  },
+  "appearance": {
+    "def": "外貌、出現",
+    "ipa": "/əˈpɪərəns/",
+    "trans": "appear (動詞)",
+    "col": "personal appearance",
+    "ex": "She is very proud of her appearance.",
+    "pos": "n."
+  },
+  "appetite": {
+    "def": "胃口、食慾",
+    "ipa": "/ˈæpɪtaɪt/",
+    "trans": "appetizer",
+    "col": "good appetite, lose one's appetite",
+    "ex": "He has a healthy appetite.",
+    "pos": "n."
+  },
+  "apply": {
+    "def": "申請、應用",
+    "ipa": "/əˈplaɪ/",
+    "trans": "application, applicant",
+    "col": "apply for a job",
+    "ex": "I've applied for a scholarship.",
+    "pos": "v."
+  },
+  "appoint": {
+    "def": "任命、約定",
+    "ipa": "/əˈpɔɪnt/",
+    "trans": "appointment",
+    "col": "appoint someone as",
+    "ex": "They appointed him as manager.",
+    "pos": "v."
+  },
+  "appointment": {
+    "def": "約會、任命",
+    "ipa": "/əˈpɔɪntmənt/",
+    "trans": "appoint (動詞)",
+    "col": "make an appointment",
+    "ex": "I have an appointment with the doctor at 3 p.m.",
+    "pos": "n."
+  },
+  "appreciate": {
+    "def": "欣賞、感激",
+    "ipa": "/əˈpriːʃieɪt/",
+    "trans": "appreciation, appreciative",
+    "col": "appreciate help",
+    "ex": "I really appreciate your help.",
+    "pos": "v."
+  },
+  "approach": {
+    "def": "接近、方法、接近、處理",
+    "ipa": "/əˈprəʊtʃ/",
+    "trans": "approachable",
+    "col": "new approach, approach to",
+    "ex": "Winter is approaching.",
+    "pos": "n./v."
+  },
+  "approve": {
+    "def": "批准、贊成",
+    "ipa": "/əˈpruːv/",
+    "trans": "approval",
+    "col": "approve of",
+    "ex": "My parents don't approve of me smoking.",
+    "pos": "v."
+  },
+  "apron": {
+    "def": "圍裙",
+    "ipa": "/ˈeɪprən/",
+    "trans": "aprons",
+    "col": "wear an apron",
+    "ex": "She put on her apron.",
+    "pos": "n."
+  },
+  "arch": {
+    "def": "拱門、拱形、使成拱形",
+    "ipa": "/ɑːtʃ/",
+    "trans": "arched",
+    "col": "triumphal arch",
+    "ex": "The bridge has five arches.",
+    "pos": "n./v."
+  },
+  "area": {
+    "def": "區域、面積",
+    "ipa": "/ˈeəriə/",
+    "trans": "areas",
+    "col": "local area, rural area",
+    "ex": "This is a quiet residential area.",
+    "pos": "n."
+  },
+  "argue": {
+    "def": "爭辯、主張",
+    "ipa": "/ˈɑːɡjuː/",
+    "trans": "argument, argumentative",
+    "col": "argue with someone",
+    "ex": "They are always arguing about money.",
+    "pos": "v."
+  },
+  "argument": {
+    "def": "爭議、論據",
+    "ipa": "/ˈɑːɡjumənt/",
+    "trans": "argue (動詞)",
+    "col": "heated argument",
+    "ex": "They had a long argument about where to go.",
+    "pos": "n."
+  },
+  "arise": {
+    "def": "出現、升起",
+    "ipa": "/əˈraɪz/",
+    "trans": "arose, arisen",
+    "col": "problems arise",
+    "ex": "A problem has arisen.",
+    "pos": "v."
+  },
+  "arm": {
+    "def": "手臂、武裝",
+    "ipa": "/ɑːm/",
+    "trans": "armed, army",
+    "col": "arm in arm, take up arms",
+    "ex": "He broke his left arm.",
+    "pos": "n./v."
+  },
+  "armchair": {
+    "def": "扶手椅",
+    "ipa": "/ˈɑːmtʃeə/",
+    "trans": "armchairs",
+    "col": "relax in an armchair",
+    "ex": "He sat in a comfortable armchair.",
+    "pos": "n."
+  },
+  "army": {
+    "def": "軍隊、大群",
+    "ipa": "/ˈɑːmi/",
+    "trans": "armies",
+    "col": "join the army",
+    "ex": "He joined the army after high school.",
+    "pos": "n."
+  },
+  "around": {
+    "def": "在各處、大約、環繞",
+    "ipa": "/əˈraʊnd/",
+    "trans": "round",
+    "col": "around the clock, all around",
+    "ex": "He traveled all around the world.",
+    "pos": "prep./adv."
+  },
+  "arrest": {
+    "def": "逮捕、拘留、阻止",
+    "ipa": "/əˈrest/",
+    "trans": "arrested",
+    "col": "under arrest, cardiac arrest",
+    "ex": "The police arrested the thief.",
+    "pos": "v./n."
+  },
+  "arrive": {
+    "def": "抵達、到達",
+    "ipa": "/əˈraɪv/",
+    "trans": "arrival",
+    "col": "arrive at, arrive in",
+    "ex": "The train arrived on time.",
+    "pos": "v."
+  },
+  "art": {
+    "def": "藝術、美術、技術",
+    "ipa": "/ɑːt/",
+    "trans": "artist, artistic",
+    "col": "work of art, fine arts",
+    "ex": "She is studying art history.",
+    "pos": "n."
+  },
+  "article": {
+    "def": "文章、物品、冠詞",
+    "ipa": "/ˈɑːtɪkl/",
+    "trans": "articles",
+    "col": "newspaper article, article of clothing",
+    "ex": "I read an interesting article yesterday.",
+    "pos": "n."
+  },
+  "artist": {
+    "def": "藝術家、畫家",
+    "ipa": "/ˈɑːtɪst/",
+    "trans": "artistic, artistry",
+    "col": "starving artist",
+    "ex": "He is a very talented artist.",
+    "pos": "n."
+  },
+  "as": {
+    "def": "如同、身為、當...時、像...一樣",
+    "ipa": "/æz/",
+    "trans": "whereas",
+    "col": "as if, such as, as well as",
+    "ex": "He works as a teacher.",
+    "pos": "conj./prep./adv."
+  },
+  "ash": {
+    "def": "灰、灰燼",
+    "ipa": "/æʃ/",
+    "trans": "ashy, ashes",
+    "col": "volcanic ash, cigarette ash",
+    "ex": "The house was burnt to ashes.",
+    "pos": "n."
+  },
+  "ashamed": {
+    "def": "羞愧的、慚愧的",
+    "ipa": "/əˈʃeɪmd/",
+    "trans": "shame",
+    "col": "be ashamed of",
+    "ex": "You should be ashamed of yourself.",
+    "pos": "adj."
+  },
+  "asleep": {
+    "def": "睡著的",
+    "ipa": "/əˈsliːp/",
+    "trans": "sleep (動詞)",
+    "col": "fall asleep, fast asleep",
+    "ex": "The baby is finally asleep.",
+    "pos": "adj."
+  },
+  "assistant": {
+    "def": "助手、助理、副的、輔助的",
+    "ipa": "/əˈsɪstənt/",
+    "trans": "assist, assistance",
+    "col": "shop assistant, personal assistant",
+    "ex": "He works as a research assistant.",
+    "pos": "n./adj."
+  },
+  "associate": {
+    "def": "聯想、夥伴、同事、副的",
+    "ipa": "/əˈsəʊʃieɪt/",
+    "trans": "association",
+    "col": "associate with",
+    "ex": "I always associate rain with sadness.",
+    "pos": "v./n./adj."
+  },
+  "assume": {
+    "def": "假設、擔當",
+    "ipa": "/əˈsjuːm/",
+    "trans": "assumption",
+    "col": "assume responsibility",
+    "ex": "Let's assume the news is true.",
+    "pos": "v."
+  },
+  "assure": {
+    "def": "向...保證、使放心",
+    "ipa": "/əˈʃʊə/",
+    "trans": "assurance, assuredly",
+    "col": "assure someone that",
+    "ex": "I can assure you that everything will be fine.",
+    "pos": "v."
+  },
+  "astonish": {
+    "def": "使大吃一驚",
+    "ipa": "/əˈstɒnɪʃ/",
+    "trans": "astonishment, astonishing",
+    "col": "be astonished at",
+    "ex": "She was astonished by the news.",
+    "pos": "v."
+  },
+  "athlete": {
+    "def": "運動員",
+    "ipa": "/ˈæθliːt/",
+    "trans": "athletic, athletics",
+    "col": "professional athlete",
+    "ex": "He is a world-class athlete.",
+    "pos": "n."
+  },
+  "atmosphere": {
+    "def": "大氣、氣氛",
+    "ipa": "/ˈætməsfɪə/",
+    "trans": "atmospheric",
+    "col": "friendly atmosphere",
+    "ex": "The restaurant has a great atmosphere.",
+    "pos": "n."
+  },
+  "attach": {
+    "def": "附上、繫上",
+    "ipa": "/əˈtætʃ/",
+    "trans": "attachment",
+    "col": "attach to, attach importance to",
+    "ex": "I attached a photo to the email.",
+    "pos": "v."
+  },
+  "attack": {
+    "def": "攻擊、抨擊",
+    "ipa": "/əˈtæk/",
+    "trans": "attacker",
+    "col": "heart attack, under attack",
+    "ex": "The army launched an attack at dawn.",
+    "pos": "n./v."
+  },
+  "attempt": {
+    "def": "企圖、嘗試",
+    "ipa": "/əˈtempt/",
+    "trans": "attempted",
+    "col": "make an attempt",
+    "ex": "He failed in his attempt to break the record.",
+    "pos": "n./v."
+  },
+  "attend": {
+    "def": "出席、參加、照料",
+    "ipa": "/əˈtend/",
+    "trans": "attendance, attendant",
+    "col": "attend a meeting, attend to",
+    "ex": "Over 500 people attended the lecture.",
+    "pos": "v."
+  },
+  "attention": {
+    "def": "注意、關心",
+    "ipa": "/əˈtenʃn/",
+    "trans": "attentive",
+    "col": "pay attention to, catch attention",
+    "ex": "Thank you for your attention.",
+    "pos": "n."
+  },
+  "attitude": {
+    "def": "態度、看法",
+    "ipa": "/ˈætɪtjuːd/",
+    "trans": "attitudinal",
+    "col": "positive attitude, attitude towards",
+    "ex": "What's your attitude towards the project?",
+    "pos": "n."
+  },
+  "attract": {
+    "def": "吸引、引起興趣",
+    "ipa": "/əˈtrækt/",
+    "trans": "attraction, attractive",
+    "col": "attract attention",
+    "ex": "The flower attracts many bees.",
+    "pos": "v."
+  },
+  "attractive": {
+    "def": "吸引人的、有魅力的",
+    "ipa": "/əˈtræktɪv/",
+    "trans": "attract (動詞), attraction",
+    "col": "attractive woman, very attractive",
+    "ex": "This is a very attractive offer.",
+    "pos": "adj."
+  },
+  "audience": {
+    "def": "觀眾、聽眾",
+    "ipa": "/ˈɔːdiəns/",
+    "trans": "auditorium",
+    "col": "large audience, audience reaction",
+    "ex": "The audience cheered for the performance.",
+    "pos": "n."
+  },
+  "author": {
+    "def": "作者、作家",
+    "ipa": "/ˈɔːθə/",
+    "trans": "authority, authorship",
+    "col": "famous author",
+    "ex": "He is the author of three books.",
+    "pos": "n."
+  },
+  "authority": {
+    "def": "當局、權威、權力",
+    "ipa": "/ɔːˈθɒrəti/",
+    "trans": "authorize",
+    "col": "local authority, position of authority",
+    "ex": "She is an authority on Chinese history.",
+    "pos": "n."
+  },
+  "automatic": {
+    "def": "自動的、無意識的",
+    "ipa": "/ˌɔːtəˈmætɪk/",
+    "trans": "automatically, automation",
+    "col": "automatic transmission",
+    "ex": "The car has an automatic gearbox.",
+    "pos": "adj."
+  },
+  "automobile": {
+    "def": "汽車",
+    "ipa": "/ˈɔːtəməbiːl/",
+    "trans": "automotive",
+    "col": "automobile industry",
+    "ex": "The automobile was a major invention.",
+    "pos": "n."
+  },
+  "available": {
+    "def": "可用的、有空的",
+    "ipa": "/əˈveɪləbl/",
+    "trans": "availability",
+    "col": "readily available, be available for",
+    "ex": "Is this seat available?",
+    "pos": "adj."
+  },
+  "average": {
+    "def": "平均、平均的、一般水平的、平均為",
+    "ipa": "/ˈævərɪdʒ/",
+    "trans": "averaging",
+    "col": "above average, on average",
+    "ex": "He is of average height.",
+    "pos": "n./adj./v."
+  },
+  "avoid": {
+    "def": "避免、避開",
+    "ipa": "/əˈvɔɪd/",
+    "trans": "avoidance, avoidable",
+    "col": "avoid trouble",
+    "ex": "You should avoid eating too much sugar.",
+    "pos": "v."
+  },
+  "awake": {
+    "def": "醒著的、喚醒、覺醒",
+    "ipa": "/əˈweɪk/",
+    "trans": "awaken, awakening",
+    "col": "wide awake, stay awake",
+    "ex": "I was wide awake all night.",
+    "pos": "adj./v."
+  },
+  "awaken": {
+    "def": "喚醒、激發",
+    "ipa": "/əˈweɪkən/",
+    "trans": "awake (形容詞)",
+    "col": "awaken interest",
+    "ex": "The noises awakened me.",
+    "pos": "v."
+  },
+  "award": {
+    "def": "獎勵、獎品、授予、頒發",
+    "ipa": "/əˈwɔːd/",
+    "trans": "awarded",
+    "col": "Academy Award, win an award",
+    "ex": "He won an award for bravery.",
+    "pos": "n./v."
+  },
+  "aware": {
+    "def": "知道的、察覺的",
+    "ipa": "/əˈweə/",
+    "trans": "awareness",
+    "col": "be aware of",
+    "ex": "Are you aware of the danger?",
+    "pos": "adj."
+  },
+  "away": {
+    "def": "遠離、去在那邊、不在場的、客場的",
+    "ipa": "/əˈweɪ/",
+    "trans": "way",
+    "col": "far away, go away",
+    "ex": "Go away and leave me alone.",
+    "pos": "adv./adj."
+  },
+  "awful": {
+    "def": "糟糕的、極壞的",
+    "ipa": "/ˈɔːfl/",
+    "trans": "awfully",
+    "col": "feel awful, awful weather",
+    "ex": "That's an awful thing to say.",
+    "pos": "adj."
+  },
+  "awkward": {
+    "def": "笨拙的、尷尬的",
+    "ipa": "/ˈɔːkwəd/",
+    "trans": "awkwardness",
+    "col": "awkward silence, feel awkward",
+    "ex": "There was an awkward silence after he spoke.",
+    "pos": "adj."
+  },
+  "baby": {
+    "def": "嬰兒、幼小的、過分寵愛",
+    "ipa": "/ˈbeɪbi/",
+    "trans": "babysit",
+    "col": "baby brother, newborn baby",
+    "ex": "The baby is crying.",
+    "pos": "n./adj./v."
+  },
+  "back": {
+    "def": "背部、後面、向後、在後面的、支持、後退",
+    "ipa": "/bæk/",
+    "trans": "backward, backing",
+    "col": "back and forth, back down",
+    "ex": "He hurt his back.",
+    "pos": "n./adv./adj./v."
+  },
+  "background": {
+    "def": "背景、經歷",
+    "ipa": "/ˈbækɡraʊnd/",
+    "trans": "backgrounds",
+    "col": "family background, in the background",
+    "ex": "She has a background in law.",
+    "pos": "n."
+  },
+  "backward": {
+    "def": "向後的、落後的、向後地",
+    "ipa": "/ˈbækwəd/",
+    "trans": "backwards",
+    "col": "backward country, step backward",
+    "ex": "He took a step backward.",
+    "pos": "adj./adv."
+  },
+  "bacon": {
+    "def": "培根",
+    "ipa": "/ˈbeɪkən/",
+    "trans": "rashers",
+    "col": "eggs and bacon",
+    "ex": "I like bacon for breakfast.",
+    "pos": "n."
+  },
+  "bacteria": {
+    "def": "細菌",
+    "ipa": "/bækˈtɪəriə/",
+    "trans": "bacterium (單數)",
+    "col": "harmful bacteria",
+    "ex": "Hand washing kills bacteria.",
+    "pos": "n."
+  },
+  "badly": {
+    "def": "壞地、嚴重地、非常",
+    "ipa": "/ˈbædli/",
+    "trans": "bad (形容詞)",
+    "col": "be badly hurt, want something badly",
+    "ex": "He was badly injured in the accident.",
+    "pos": "adv."
+  },
+  "baggage": {
+    "def": "行李",
+    "ipa": "/ˈbæɡɪdʒ/",
+    "trans": "luggage",
+    "col": "excess baggage",
+    "ex": "We checked our baggage at the airport.",
+    "pos": "n."
+  },
+  "bake": {
+    "def": "烘焙、烘烤",
+    "ipa": "/beɪk/",
+    "trans": "baker, bakery",
+    "col": "bake a cake",
+    "ex": "She is baking bread.",
+    "pos": "v."
+  },
+  "bakery": {
+    "def": "麵包店",
+    "ipa": "/ˈbeɪkəri/",
+    "trans": "bake (動詞)",
+    "col": "local bakery",
+    "ex": "The bakery sells fresh rolls.",
+    "pos": "n."
+  },
+  "balcony": {
+    "def": "陽台、劇院樓座",
+    "ipa": "/ˈbælkəni/",
+    "trans": "balconies",
+    "col": "on the balcony",
+    "ex": "The room has a balcony overlooking the garden.",
+    "pos": "n."
+  },
+  "ball": {
+    "def": "球、舞會、捏成球狀",
+    "ipa": "/bɔːl/",
+    "trans": "ballroom",
+    "col": "play ball, crystal ball",
+    "ex": "He kicked the ball over the fence.",
+    "pos": "n./v."
+  },
+  "balloon": {
+    "def": "氣球、像氣球般膨脹",
+    "ipa": "/bəˈluːn/",
+    "trans": "hot-air balloon",
+    "col": "helium balloon",
+    "ex": "The child let go of her balloon.",
+    "pos": "n./v."
+  },
+  "bamboo": {
+    "def": "竹子",
+    "ipa": "/ˌbæmˈbuː/",
+    "trans": "bamboos",
+    "col": "bamboo forest",
+    "ex": "Pandas eat bamboo.",
+    "pos": "n."
+  },
+  "ban": {
+    "def": "禁止、禁令",
+    "ipa": "/bæn/",
+    "trans": "banned",
+    "col": "ban on smoking, lift the ban",
+    "ex": "The government has banned the film.",
+    "pos": "v./n."
+  },
+  "banana": {
+    "def": "香蕉",
+    "ipa": "/bəˈnɑːnə/",
+    "trans": "bananas",
+    "col": "bunch of bananas",
+    "ex": "He ate a banana for lunch.",
+    "pos": "n."
+  },
+  "bandage": {
+    "def": "繃帶、用繃帶包紮",
+    "ipa": "/ˈbændɪdʒ/",
+    "trans": "bandaging",
+    "col": "apply a bandage",
+    "ex": "The nurse wrapped a bandage around his head.",
+    "pos": "n./v."
+  },
+  "bank": {
+    "def": "銀行、河岸、存款、築堤",
+    "ipa": "/bæŋk/",
+    "trans": "banker, banking",
+    "col": "river bank, bank account",
+    "ex": "I need to go to the bank.",
+    "pos": "n./v."
+  },
+  "bankrupt": {
+    "def": "破產的、破產者、使破產",
+    "ipa": "/ˈbæŋkrʌpt/",
+    "trans": "bankruptcy",
+    "col": "go bankrupt",
+    "ex": "The company went bankrupt.",
+    "pos": "adj./n./v."
+  },
+  "bar": {
+    "def": "酒吧、條、塊、阻礙、柵欄、阻攔、除...之外",
+    "ipa": "/bɑː/",
+    "trans": "barrier",
+    "col": "chocolate bar, behind bars",
+    "ex": "He works in a bar.",
+    "pos": "n./v./prep."
+  },
+  "barber": {
+    "def": "理髮師",
+    "ipa": "/ˈbɑːbə/",
+    "trans": "barbershop",
+    "col": "go to the barber",
+    "ex": "He went to the barber for a haircut.",
+    "pos": "n."
+  },
+  "bare": {
+    "def": "裸露的、赤裸的、露出、揭露",
+    "ipa": "/beə/",
+    "trans": "barely, bareness",
+    "col": "bare feet, bare walls",
+    "ex": "Don't walk on the cold floor with bare feet.",
+    "pos": "adj./v."
+  },
+  "barely": {
+    "def": "勉強、幾乎不",
+    "ipa": "/ˈbeəli/",
+    "trans": "bare (形容詞)",
+    "col": "barely enough, barely see",
+    "ex": "I can barely see you.",
+    "pos": "adv."
+  },
+  "bargain": {
+    "def": "討價還價、協議、廉價貨",
+    "ipa": "/ˈbɑːɡən/",
+    "trans": "bargaining",
+    "col": "real bargain, bargain for",
+    "ex": "This jacket is a real bargain.",
+    "pos": "n./v."
+  },
+  "bark": {
+    "def": "犬吠、樹皮、吠叫",
+    "ipa": "/bɑːk/",
+    "trans": "barking",
+    "col": "bark like a dog",
+    "ex": "The dog barked at the stranger.",
+    "pos": "v./n."
+  },
+  "barrel": {
+    "def": "桶、槍管、裝入桶內",
+    "ipa": "/ˈbærəl/",
+    "trans": "barreled",
+    "col": "oil barrel, beer barrel",
+    "ex": "The oil is stored in barrels.",
+    "pos": "n./v."
+  },
+  "barrier": {
+    "def": "障礙物、屏障",
+    "ipa": "/ˈbæriə/",
+    "trans": "barriers",
+    "col": "language barrier, trade barrier",
+    "ex": "Language can be a barrier to communication.",
+    "pos": "n."
+  },
+  "basin": {
+    "def": "臉盆、盆地、流域",
+    "ipa": "/ˈbeɪsn/",
+    "trans": "basins",
+    "col": "wash basin, river basin",
+    "ex": "Fill the basin with warm water.",
+    "pos": "n."
+  },
+  "basis": {
+    "def": "基礎、根據",
+    "ipa": "/ˈbeɪsɪs/",
+    "trans": "base, basic",
+    "col": "on a regular basis, provide a basis for",
+    "ex": "We meet on a regular basis.",
+    "pos": "n."
+  },
+  "basket": {
+    "def": "籃子、籃筐",
+    "ipa": "/ˈbɑːskɪt/",
+    "trans": "basketball",
+    "col": "picnic basket, fruit basket",
+    "ex": "She carried a basket of apples.",
+    "pos": "n."
+  },
+  "basketball": {
+    "def": "籃球",
+    "ipa": "/ˈbɑːskɪtbɔːl/",
+    "trans": "basket (名詞)",
+    "col": "play basketball",
+    "ex": "He is on the school basketball team.",
+    "pos": "n."
+  },
+  "bath": {
+    "def": "沐浴、浴缸、洗澡",
+    "ipa": "/bɑːθ/",
+    "trans": "bathe, bathroom",
+    "col": "take a bath, bubble bath",
+    "ex": "I'm going to take a bath.",
+    "pos": "n./v."
+  },
+  "bathe": {
+    "def": "洗澡、沐浴、游泳",
+    "ipa": "/beɪð/",
+    "trans": "bath (名詞), bathing",
+    "col": "bathe in the sea",
+    "ex": "She bathed her face in cold water.",
+    "pos": "v."
+  },
+  "bathroom": {
+    "def": "浴室、洗手間",
+    "ipa": "/ˈbɑːθruːm/",
+    "trans": "bath (名詞)",
+    "col": "in the bathroom",
+    "ex": "Where is the bathroom?",
+    "pos": "n."
+  },
+  "battery": {
+    "def": "電池",
+    "ipa": "/ˈbætəri/",
+    "trans": "batteries",
+    "col": "rechargeable battery",
+    "ex": "My phone is out of battery.",
+    "pos": "n."
+  },
+  "battle": {
+    "def": "戰鬥、戰役、鬥爭",
+    "ipa": "/ˈbætl/",
+    "trans": "battalion",
+    "col": "lose the battle, winning the battle",
+    "ex": "He died in the battle.",
+    "pos": "n./v."
+  },
+  "beach": {
+    "def": "海灘、使船擱淺",
+    "ipa": "/biːtʃ/",
+    "trans": "beaches",
+    "col": "sandy beach, on the beach",
+    "ex": "Let's go to the beach.",
+    "pos": "n./v."
+  },
+  "bead": {
+    "def": "珠子、滴",
+    "ipa": "/biːd/",
+    "trans": "beaded",
+    "col": "glass beads, beads of sweat",
+    "ex": "She wore a necklace of wooden beads.",
+    "pos": "n."
+  },
+  "beak": {
+    "def": "鳥喙、鷹鉤鼻",
+    "ipa": "/biːk/",
+    "trans": "beaked",
+    "col": "sharp beak",
+    "ex": "The bird has a powerful beak.",
+    "pos": "n."
+  },
+  "beam": {
+    "def": "光束、橫樑、微笑、發光",
+    "ipa": "/biːm/",
+    "trans": "beaming",
+    "col": "laser beam, beam of light",
+    "ex": "The sun beamed through the window.",
+    "pos": "n./v."
+  },
+  "bean": {
+    "def": "豆類、豆子",
+    "ipa": "/biːn/",
+    "trans": "beans",
+    "col": "coffee beans, green beans",
+    "ex": "Soybeans are a major crop.",
+    "pos": "n."
+  },
+  "bear": {
+    "def": "承受、生產、熊",
+    "ipa": "/beə/",
+    "trans": "bore, borne, birth",
+    "col": "bear in mind, Teddy bear",
+    "ex": "She cannot bear the pain.",
+    "pos": "v./n."
+  },
+  "beard": {
+    "def": "鬍鬚",
+    "ipa": "/bɪəd/",
+    "trans": "bearded",
+    "col": "shave off a beard",
+    "ex": "He has a thick gray beard.",
+    "pos": "n."
+  },
+  "beast": {
+    "def": "野獸、殘暴的人",
+    "ipa": "/biːst/",
+    "trans": "beastly",
+    "col": "wild beast",
+    "ex": "The lion is the king of beasts.",
+    "pos": "n."
+  },
+  "beat": {
+    "def": "跳動、敲打、擊敗、節奏、敲擊聲",
+    "ipa": "/biːt/",
+    "trans": "beaten, beating",
+    "col": "heart beat, beat about the bush",
+    "ex": "She beat me at tennis.",
+    "pos": "v./n."
+  },
+  "beautiful": {
+    "def": "美麗的、精彩的",
+    "ipa": "/ˈbjuːtɪfl/",
+    "trans": "beauty, beautifully",
+    "col": "beautiful sunset, very beautiful",
+    "ex": "She is a beautiful girl.",
+    "pos": "adj."
+  },
+  "beauty": {
+    "def": "美、美貌、美人",
+    "ipa": "/ˈbjuːti/",
+    "trans": "beautiful, beautify",
+    "col": "natural beauty, beauty shop",
+    "ex": "The island is famous for its natural beauty.",
+    "pos": "n."
+  },
+  "beaver": {
+    "def": "河狸、海狸、勤奮工作者、忙於",
+    "ipa": "/ˈbiːvə/",
+    "trans": "beavering",
+    "col": "work like a beaver",
+    "ex": "The beaver is building a dam.",
+    "pos": "n./v."
+  },
+  "because": {
+    "def": "因為",
+    "ipa": "/bɪˈkəz/",
+    "trans": "cause",
+    "col": "because of",
+    "ex": "I'm late because of the traffic.",
+    "pos": "conj./prep."
+  },
+  "become": {
+    "def": "變成、變得、適合",
+    "ipa": "/bɪˈkʌm/",
+    "trans": "became",
+    "col": "become a doctor",
+    "ex": "He became very famous.",
+    "pos": "v."
+  },
+  "bed": {
+    "def": "床、河床、使入睡、鋪設",
+    "ipa": "/bed/",
+    "trans": "bedroom, bedding",
+    "col": "go to bed, in bed",
+    "ex": "I'm tired and I'm going to bed.",
+    "pos": "n./v."
+  },
+  "bedroom": {
+    "def": "臥室",
+    "ipa": "/ˈbedruːm/",
+    "trans": "beds",
+    "col": "master bedroom",
+    "ex": "She is sleeping in her bedroom.",
+    "pos": "n."
+  },
+  "bee": {
+    "def": "蜜蜂、忙碌的人",
+    "ipa": "/biː/",
+    "trans": "beehive, beeswax",
+    "col": "busy as a bee, honey bee",
+    "ex": "The bee is gathering nectar.",
+    "pos": "n."
+  },
+  "beef": {
+    "def": "牛肉、力量、抱怨、發牢騷",
+    "ipa": "/biːf/",
+    "trans": "beefy",
+    "col": "roast beef, ground beef",
+    "ex": "We had roast beef for dinner.",
+    "pos": "n./v."
+  },
+  "beer": {
+    "def": "啤酒",
+    "ipa": "/bɪə/",
+    "trans": "beers",
+    "col": "draft beer, bottle of beer",
+    "ex": "He ordered a glass of beer.",
+    "pos": "n."
+  },
+  "beetle": {
+    "def": "甲蟲、（像甲蟲般）急行",
+    "ipa": "/ˈbiːtl/",
+    "trans": "beetles",
+    "col": "dung beetle",
+    "ex": "I saw a small green beetle in the garden.",
+    "pos": "n./v."
+  },
+  "beforehand": {
+    "def": "預先地、提前地",
+    "ipa": "/bɪˈfɔːhænd/",
+    "trans": "before",
+    "col": "plan beforehand",
+    "ex": "I appreciate you telling me that beforehand.",
+    "pos": "adv."
+  },
+  "beg": {
+    "def": "乞討、懇求",
+    "ipa": "/beɡ/",
+    "trans": "beggar, begged",
+    "col": "beg for mercy, beg a favor",
+    "ex": "He begged her for another chance.",
+    "pos": "v."
+  },
+  "beggar": {
+    "def": "乞丐、窮人、使淪為乞丐",
+    "ipa": "/ˈbeɡə/",
+    "trans": "beg (動詞)",
+    "col": "homeless beggar",
+    "ex": "The beggar asked for some small change.",
+    "pos": "n./v."
+  },
+  "begin": {
+    "def": "開始",
+    "ipa": "/bɪˈɡɪn/",
+    "trans": "began, begun, beginning",
+    "col": "begin with, newly begun",
+    "ex": "Wait for me to begin.",
+    "pos": "v."
+  },
+  "beginner": {
+    "def": "初學者",
+    "ipa": "/bɪˈɡɪnə/",
+    "trans": "begin (動詞)",
+    "col": "absolute beginner",
+    "ex": "This course is suitable for beginners.",
+    "pos": "n."
+  },
+  "beginning": {
+    "def": "開始、開端、最初的",
+    "ipa": "/bɪˈɡɪnɪŋ/",
+    "trans": "begin (動詞)",
+    "col": "at the beginning of",
+    "ex": "In the beginning, God created the earth.",
+    "pos": "n./adj."
+  },
+  "behave": {
+    "def": "行為舉止、表現",
+    "ipa": "/bɪˈheɪv/",
+    "trans": "behavior, behavioral",
+    "col": "behave well",
+    "ex": "You must behave yourself.",
+    "pos": "v."
+  },
+  "behavior": {
+    "def": "行為、舉止",
+    "ipa": "/bɪˈheɪvjə/",
+    "trans": "behave (動詞)",
+    "col": "good behavior, human behavior",
+    "ex": "The child was rewarded for his good behavior.",
+    "pos": "n."
+  },
+  "behind": {
+    "def": "在...後面、背後地、背後、臀部",
+    "ipa": "/bɪˈhaɪnd/",
+    "trans": "hinder",
+    "col": "behind the scenes, behind schedule",
+    "ex": "The sun went behind a cloud.",
+    "pos": "prep./adv./n."
+  },
+  "belief": {
+    "def": "信念、相信、信仰",
+    "ipa": "/bɪˈliːf/",
+    "trans": "believe (動詞)",
+    "col": "belief in God, strong belief",
+    "ex": "Religious beliefs are very personal.",
+    "pos": "n."
+  },
+  "believe": {
+    "def": "相信、信仰",
+    "ipa": "/bɪˈliːv/",
+    "trans": "believer, believable",
+    "col": "make-believe, believe in",
+    "ex": "I believe you.",
+    "pos": "v."
+  },
+  "bell": {
+    "def": "鈴、鐘、使像鈴般響",
+    "ipa": "/bel/",
+    "trans": "belfry",
+    "col": "door bell, ring a bell",
+    "ex": "I rang the bell, but no one answered.",
+    "pos": "n./v."
+  },
+  "belong": {
+    "def": "屬於、為...的一員",
+    "ipa": "/bɪˈlɒŋ/",
+    "trans": "belongings",
+    "col": "belong to",
+    "ex": "This book belongs to me.",
+    "pos": "v."
+  },
+  "below": {
+    "def": "在...下面、在下面",
+    "ipa": "/bɪˈləʊ/",
+    "trans": "low",
+    "col": "below average, below zero",
+    "ex": "The temperature is below freezing.",
+    "pos": "prep./adv."
+  },
+  "belt": {
+    "def": "腰帶、帶、地帶、繫上皮帶",
+    "ipa": "/belt/",
+    "trans": "seatbelt",
+    "col": "seat belt, green belt",
+    "ex": "You must wear a seat belt in the car.",
+    "pos": "n./v."
+  },
+  "bench": {
+    "def": "長凳、長椅、法官席",
+    "ipa": "/bentʃ/",
+    "trans": "benches",
+    "col": "park bench",
+    "ex": "We sat on a park bench.",
+    "pos": "n."
+  },
+  "bend": {
+    "def": "彎曲、屈服、彎曲、轉彎",
+    "ipa": "/bend/",
+    "trans": "bent, bender",
+    "col": "bend over, around the bend",
+    "ex": "The road bends to the left.",
+    "pos": "v./n."
+  },
+  "beneath": {
+    "def": "在...底下、在此之下",
+    "ipa": "/bɪˈniːθ/",
+    "trans": "under",
+    "col": "beneath the surface",
+    "ex": "The boat sank beneath the waves.",
+    "pos": "prep./adv."
+  },
+  "beneficial": {
+    "def": "有益的、有利的",
+    "ipa": "/ˌbenɪˈfɪʃl/",
+    "trans": "benefit (名詞)",
+    "col": "beneficial to health",
+    "ex": "Exercising is beneficial to your health.",
+    "pos": "adj."
+  },
+  "benefit": {
+    "def": "利益、好處、保險金、有助於、獲益",
+    "ipa": "/ˈbenɪfɪt/",
+    "trans": "beneficial, beneficiary",
+    "col": "benefit from, for the benefit of",
+    "ex": "I've had the benefit of a good education.",
+    "pos": "n./v."
+  },
+  "berry": {
+    "def": "漿果、採漿果",
+    "ipa": "/ˈberi/",
+    "trans": "berries",
+    "col": "strawberry, blueberry",
+    "ex": "The birds are eating the red berries.",
+    "pos": "n./v."
+  },
+  "beside": {
+    "def": "在...旁邊",
+    "ipa": "/bɪˈsaɪd/",
+    "trans": "besides (區分)",
+    "col": "beside the point",
+    "ex": "She sat beside me.",
+    "pos": "prep."
+  },
+  "besides": {
+    "def": "此外、而且、除...之外",
+    "ipa": "/bɪˈsaɪdz/",
+    "trans": "beside (區分)",
+    "col": "besides that",
+    "ex": "I have no other friends besides you.",
+    "pos": "adv./prep."
+  },
+  "best": {
+    "def": "最好的（地）、最多的（地）、最大量、打敗",
+    "ipa": "/best/",
+    "trans": "good, better",
+    "col": "at best, do one's best",
+    "ex": "She is my best friend.",
+    "pos": "adj./adv./n./v."
+  },
+  "bet": {
+    "def": "下注、打賭、賭金",
+    "ipa": "/bet/",
+    "trans": "better (分詞)",
+    "col": "bet on, place a bet",
+    "ex": "I bet he'll be late again.",
+    "pos": "v./n."
+  },
+  "better": {
+    "def": "更好的（地）、改進、勝過、更好者",
+    "ipa": "/ˈbetə/",
+    "trans": "good, best",
+    "col": "had better, get better",
+    "ex": "I hope you feel better soon.",
+    "pos": "adj./adv./v./n."
+  },
+  "between": {
+    "def": "在...之間、之間、中間地",
+    "ipa": "/bɪˈtwiːn/",
+    "trans": "interspace",
+    "col": "between you and me",
+    "ex": "Is there a train between London and Oxford?",
+    "pos": "prep./adv."
+  },
+  "beyond": {
+    "def": "在...那一邊、超出...、在那邊、遠處",
+    "ipa": "/bɪˈjɒnd/",
+    "trans": "yonder",
+    "col": "beyond belief, beyond control",
+    "ex": "The town is just beyond those hills.",
+    "pos": "prep./adv."
+  },
+  "bicycle/bike": {
+    "def": "腳踏車、騎腳踏車",
+    "ipa": "/ˈbaɪsɪkl/ /baɪk/",
+    "trans": "bicyclist",
+    "col": "ride a bike, motor bike",
+    "ex": "I go to school by bicycle.",
+    "pos": "n./v."
+  },
+  "bill": {
+    "def": "帳單、法案、鈔票、鳥嘴、給...開帳單",
+    "ipa": "/bɪl/",
+    "trans": "billing",
+    "col": "pay the bill, dollar bill",
+    "ex": "The waiter brought the bill.",
+    "pos": "n./v."
+  },
+  "billion": {
+    "def": "十億、無數",
+    "ipa": "/ˈbɪljən/",
+    "trans": "billions",
+    "col": "billionaire",
+    "ex": "The population of China is over one billion.",
+    "pos": "n."
+  },
+  "biology": {
+    "def": "生物學",
+    "ipa": "/baɪˈɒlədʒi/",
+    "trans": "biologist, biological",
+    "col": "marine biology",
+    "ex": "She is a student of biology.",
+    "pos": "n."
+  },
+  "bird": {
+    "def": "鳥、禽",
+    "ipa": "/bɜːd/",
+    "trans": "birdie",
+    "col": "early bird, bird's-eye view",
+    "ex": "The bird is singing in the tree.",
+    "pos": "n."
+  },
+  "birth": {
+    "def": "出生、分娩、起源",
+    "ipa": "/bɜːθ/",
+    "trans": "birthday, born",
+    "col": "give birth to, birth certificate",
+    "ex": "She gave birth to a healthy baby boy.",
+    "pos": "n."
+  },
+  "birthday": {
+    "def": "生日",
+    "ipa": "/ˈbɜːθdeɪ/",
+    "trans": "birth (名詞)",
+    "col": "Happy Birthday",
+    "ex": "When is your birthday?",
+    "pos": "n."
+  },
+  "biscuit": {
+    "def": "餅乾",
+    "ipa": "/ˈbɪskɪt/",
+    "trans": "cracker",
+    "col": "chocolate biscuit",
+    "ex": "Would you like a biscuit with your coffee?",
+    "pos": "n."
+  },
+  "bit": {
+    "def": "一小塊、一點點",
+    "ipa": "/bɪt/",
+    "trans": "bitty",
+    "col": "a bit, bit by bit",
+    "ex": "Wait a bit.",
+    "pos": "n."
+  },
+  "bite": {
+    "def": "咬、叮、咬傷、一小口",
+    "ipa": "/baɪt/",
+    "trans": "bit, bitten",
+    "col": "bite off",
+    "ex": "The dog bit him on the leg.",
+    "pos": "v./n."
+  },
+  "bitter": {
+    "def": "苦的、苦澀的",
+    "ipa": "/ˈbɪtə/",
+    "trans": "bitterness, bitterly",
+    "col": "bitter pill, bitter taste",
+    "ex": "This coffee tastes very bitter.",
+    "pos": "adj."
+  },
+  "black": {
+    "def": "黑色的、黑暗的、黑種人的、黑色、使變黑",
+    "ipa": "/blæk/",
+    "trans": "blacken, blackness",
+    "col": "black coffee, in the black",
+    "ex": "She was wearing a black dress.",
+    "pos": "adj./n./v."
+  },
+  "blackboard": {
+    "def": "黑板",
+    "ipa": "/ˈblækbɔːd/",
+    "trans": "chalkboard",
+    "col": "write on the blackboard",
+    "ex": "The teacher wrote the words on the blackboard.",
+    "pos": "n."
+  },
+  "blame": {
+    "def": "責備、責怪、過失、責任",
+    "ipa": "/bleɪm/",
+    "trans": "blameless",
+    "col": "be to blame, blame someone for",
+    "ex": "He blamed me for the accident.",
+    "pos": "v./n."
+  },
+  "blank": {
+    "def": "空白的、茫然的、空白處、空格、使模糊",
+    "ipa": "/blæŋk/",
+    "trans": "blankly",
+    "col": "blank space, fill in the blanks",
+    "ex": "Leave the last page blank.",
+    "pos": "adj./n./v."
+  },
+  "blanket": {
+    "def": "毛毯、覆蓋層、覆蓋、面面俱到的",
+    "ipa": "/ˈblæŋkɪt/",
+    "trans": "blanketing",
+    "col": "electric blanket",
+    "ex": "It was cold, so I put another blanket on the bed.",
+    "pos": "n./v./adj."
+  },
+  "blast": {
+    "def": "爆炸、衝擊波、強風、炸毀、抨擊",
+    "ipa": "/blɑːst/",
+    "trans": "blasting",
+    "col": "blast off, at full blast",
+    "ex": "The explosion was caused by a gas blast.",
+    "pos": "n./v."
+  },
+  "bless": {
+    "def": "祝福、保佑、保佑",
+    "ipa": "/bles/",
+    "trans": "blessed, blessing",
+    "col": "God bless you",
+    "ex": "The priest blessed the crowd.",
+    "pos": "v."
+  },
+  "blind": {
+    "def": "盲的、盲目的、百葉窗、遮掩、使失明",
+    "ipa": "/blaɪnd/",
+    "trans": "blindness, blindly",
+    "col": "blind date, blind alley",
+    "ex": "She is blind in one eye.",
+    "pos": "adj./n./v."
+  },
+  "block": {
+    "def": "大樓、街區、塊、障礙、阻擋、封鎖",
+    "ipa": "/blɒk/",
+    "trans": "blockage",
+    "col": "apartment block, mental block",
+    "ex": "The road was blocked by a fallen tree.",
+    "pos": "n./v."
+  },
+  "blood": {
+    "def": "血液、血統",
+    "ipa": "/blʌd/",
+    "trans": "bleed, bloody",
+    "col": "blood pressure, blood type",
+    "ex": "He lost a lot of blood in the accident.",
+    "pos": "n."
+  },
+  "bloody": {
+    "def": "流血的、殘酷的",
+    "ipa": "/ˈblʌdi/",
+    "trans": "blood (名詞)",
+    "col": "bloody battle",
+    "ex": "He had a bloody nose.",
+    "pos": "adj."
+  },
+  "bloom": {
+    "def": "開花、花朵、全盛期",
+    "ipa": "/bluːm/",
+    "trans": "blooming",
+    "col": "in full bloom",
+    "ex": "The roses are in bloom.",
+    "pos": "n./v."
+  },
+  "blossom": {
+    "def": "花、開花、興旺",
+    "ipa": "/ˈblɒsəm/",
+    "trans": "blossomed",
+    "col": "cherry blossom",
+    "ex": "The apple trees are in blossom.",
+    "pos": "n./v."
+  },
+  "blow": {
+    "def": "吹、吹響、毆打、打擊、吹氣聲",
+    "ipa": "/bləʊ/",
+    "trans": "blew, blown",
+    "col": "blow out, blow up",
+    "ex": "The wind is blowing hard.",
+    "pos": "v./n."
+  },
+  "blue": {
+    "def": "藍色的、憂鬱的、藍色、使變藍",
+    "ipa": "/bluː/",
+    "trans": "blueness",
+    "col": "feeling blue, dark blue",
+    "ex": "She has blue eyes.",
+    "pos": "adj./n./v."
+  },
+  "board": {
+    "def": "木板、董事會、伙食、登上、寄宿",
+    "ipa": "/bɔːd/",
+    "trans": "boarding",
+    "col": "on board, notice board",
+    "ex": "He is on the board of directors.",
+    "pos": "n./v."
+  },
+  "boast": {
+    "def": "自誇、吹嘘",
+    "ipa": "/bəʊst/",
+    "trans": "boastful",
+    "col": "boast about",
+    "ex": "She is always boasting about her children.",
+    "pos": "v./n."
+  },
+  "boat": {
+    "def": "船、小船、划船",
+    "ipa": "/bəʊt/",
+    "trans": "boating",
+    "col": "fishing boat, in the same boat",
+    "ex": "We went for a boat ride.",
+    "pos": "n./v."
+  },
+  "body": {
+    "def": "身體、主體、屍體、給...實體",
+    "ipa": "/ˈbɒdi/",
+    "trans": "bodily",
+    "col": "body language, main body",
+    "ex": "Regular exercise is good for the body.",
+    "pos": "n./v."
+  },
+  "boil": {
+    "def": "煮費、沸騰、疔、瘡",
+    "ipa": "/bɔɪl/",
+    "trans": "boiling, boiler",
+    "col": "boil over, boiling point",
+    "ex": "Is the water boiling yet?",
+    "pos": "v./n."
+  },
+  "bold": {
+    "def": "大膽的、粗體的",
+    "ipa": "/bəʊld/",
+    "trans": "boldness, boldly",
+    "col": "bold move",
+    "ex": "It was a bold decision.",
+    "pos": "adj."
+  },
+  "bomb": {
+    "def": "炸彈、爆炸、轟炸",
+    "ipa": "/bɒm/",
+    "trans": "bomber, bombing",
+    "col": "time bomb, hydrogen bomb",
+    "ex": "A bomb exploded in the city center.",
+    "pos": "n./v."
+  },
+  "bond": {
+    "def": "連結、債券、契約、使連結",
+    "ipa": "/bɒnd/",
+    "trans": "bonding",
+    "col": "family bond, government bond",
+    "ex": "There is a close bond between the two sisters.",
+    "pos": "n./v."
+  },
+  "bone": {
+    "def": "骨頭、移除骨頭",
+    "ipa": "/bəʊn/",
+    "trans": "bony",
+    "col": "broken bone, bone marrow",
+    "ex": "He broke a bone in his leg.",
+    "pos": "n./v."
+  },
+  "book": {
+    "def": "書、卷、預訂、登記、帳簿的",
+    "ipa": "/bʊk/",
+    "trans": "booklet, booking",
+    "col": "book a flight, pocket book",
+    "ex": "He is reading a book.",
+    "pos": "n./v./adj."
+  },
+  "bookcase": {
+    "def": "書櫃",
+    "ipa": "/ˈbʊkkeɪs/",
+    "trans": "bookshelf",
+    "col": "books in the bookcase",
+    "ex": "He put the books back in the bookcase.",
+    "pos": "n."
+  },
+  "border": {
+    "def": "邊界、邊緣、接壤、裝邊",
+    "ipa": "/ˈbɔːdə/",
+    "trans": "bordered",
+    "col": "cross the border",
+    "ex": "They live near the border.",
+    "pos": "n./v."
+  },
+  "bored": {
+    "def": "感到無聊的",
+    "ipa": "/bɔːd/",
+    "trans": "bore (動詞), boring",
+    "col": "get bored",
+    "ex": "I'm bored. Let's do something.",
+    "pos": "adj."
+  },
+  "boring": {
+    "def": "令人無聊的",
+    "ipa": "/ˈbɔːrɪŋ/",
+    "trans": "bore (動詞), bored",
+    "col": "boring job",
+    "ex": "The movie was very boring.",
+    "pos": "adj."
+  },
+  "born": {
+    "def": "出生的、天生的",
+    "ipa": "/bɔːn/",
+    "trans": "birth (名詞)",
+    "col": "be born in",
+    "ex": "I was born in 1990.",
+    "pos": "adj."
+  },
+  "borrow": {
+    "def": "借入",
+    "ipa": "/ˈbɒrəʊ/",
+    "trans": "borrower, borrowing",
+    "col": "borrow from",
+    "ex": "Can I borrow your pen?",
+    "pos": "v."
+  },
+  "boss": {
+    "def": "老闆、首領、指揮、做主",
+    "ipa": "/bɒs/",
+    "trans": "bossy",
+    "col": "big boss",
+    "ex": "Ask your boss for a raise.",
+    "pos": "n./v."
+  },
+  "both": {
+    "def": "兩者（都）、並、不但...而且",
+    "ipa": "/bəʊθ/",
+    "trans": "twain",
+    "col": "both of them",
+    "ex": "Both my parents are teachers.",
+    "pos": "pron./adj./adv."
+  },
+  "bother": {
+    "def": "打擾、煩惱、麻煩、煩人的人",
+    "ipa": "/ˈbɒðə/",
+    "trans": "bothersome",
+    "col": "bother with, don't bother",
+    "ex": "I'm sorry to bother you.",
+    "pos": "v./n."
+  },
+  "bottle": {
+    "def": "瓶子、裝入瓶中",
+    "ipa": "/ˈbɒtl/",
+    "trans": "bottled",
+    "col": "water bottle, baby bottle",
+    "ex": "He drank a whole bottle of water.",
+    "pos": "n./v."
+  },
+  "bottom": {
+    "def": "底部、臀部、底部的、到達底部",
+    "ipa": "/ˈbɒtəm/",
+    "trans": "bottomless",
+    "col": "at the bottom of",
+    "ex": "Sign your name at the bottom of the page.",
+    "pos": "n./adj./v."
+  },
+  "bounce": {
+    "def": "彈起、蹦、反彈（力）",
+    "ipa": "/baʊns/",
+    "trans": "bouncy",
+    "col": "bounce back",
+    "ex": "The ball bounced off the wall.",
+    "pos": "v./n."
+  },
+  "bound": {
+    "def": "必定的、受約束的、範圍、界限、彈跳",
+    "ipa": "/baʊnd/",
+    "trans": "boundary",
+    "col": "bound to, out of bounds",
+    "ex": "You are bound to succeed.",
+    "pos": "adj./n./v."
+  },
+  "bow": {
+    "def": "鞠躬、彎腰、弓、蝴蝶結",
+    "ipa": "/baʊ/ (v.) /bəʊ/ (n.)",
+    "trans": "bowing",
+    "col": "bow tie, take a bow",
+    "ex": "He gave a polite bow.",
+    "pos": "v./n."
+  },
+  "bowl": {
+    "def": "碗、球、滾球、打保齡球",
+    "ipa": "/bəʊl/",
+    "trans": "bowls, bowling",
+    "col": "sugar bowl, soup bowl",
+    "ex": "He ate a bowl of soup.",
+    "pos": "n./v."
+  },
+  "box": {
+    "def": "箱子、盒子、拳擊、裝箱",
+    "ipa": "/bɒks/",
+    "trans": "boxing, boxer",
+    "col": "post office box, gearbox",
+    "ex": "She put the jewelry in a small box.",
+    "pos": "n./v."
+  },
+  "boy": {
+    "def": "男孩",
+    "ipa": "/bɔɪ/",
+    "trans": "boyfriend, boyhood",
+    "col": "old boy",
+    "ex": "He is a good boy.",
+    "pos": "n."
+  },
+  "brain": {
+    "def": "大腦、智力、猛擊...的頭部",
+    "ipa": "/breɪn/",
+    "trans": "brainy",
+    "col": "brain drain, human brain",
+    "ex": "The brain is the most complex organ.",
+    "pos": "n./v."
+  },
+  "brake": {
+    "def": "煞車、制動器、煞車、減速",
+    "ipa": "/breɪk/",
+    "trans": "braking",
+    "col": "apply the brakes, emergency brake",
+    "ex": "He hit the brakes to avoid the accident.",
+    "pos": "n./v."
+  },
+  "branch": {
+    "def": "分枝、分公司、分科、發枝、分岔",
+    "ipa": "/brɑːntʃ/",
+    "trans": "branched",
+    "col": "local branch, olive branch",
+    "ex": "The tree has many branches.",
+    "pos": "n./v."
+  },
+  "brand": {
+    "def": "品牌、商標、烙印、打上品牌",
+    "ipa": "/brænd/",
+    "trans": "branding",
+    "col": "brand name, world-famous brand",
+    "ex": "Which brand of tea do you prefer?",
+    "pos": "n./v."
+  },
+  "brass": {
+    "def": "黃銅、銅管樂器",
+    "ipa": "/brɑːs/",
+    "trans": "brassy",
+    "col": "brass band",
+    "ex": "The door handle is made of brass.",
+    "pos": "n."
+  },
+  "brave": {
+    "def": "勇敢的、華麗的、冒險、勇敢的人",
+    "ipa": "/breɪv/",
+    "trans": "bravery, bravely",
+    "col": "brave the elements",
+    "ex": "He is a brave man.",
+    "pos": "adj./v./n."
+  },
+  "bread": {
+    "def": "麵包、生計、在...上塗麵包屑",
+    "ipa": "/bred/",
+    "trans": "breadbasket",
+    "col": "slice of bread, white bread",
+    "ex": "I like to eat bread for breakfast.",
+    "pos": "n./v."
+  },
+  "break": {
+    "def": "打破、折斷、休息、中斷、破曉",
+    "ipa": "/breɪk/",
+    "trans": "broke, broken, breakage",
+    "col": "take a break, coffee break",
+    "ex": "He broke the window with a ball.",
+    "pos": "v./n."
+  },
+  "breakfast": {
+    "def": "早餐、吃早餐",
+    "ipa": "/ˈbrekfəst/",
+    "trans": "breakfasts",
+    "col": "have breakfast",
+    "ex": "What did you have for breakfast?",
+    "pos": "n./v."
+  },
+  "breast": {
+    "def": "胸部、乳房、挺胸面對",
+    "ipa": "/brest/",
+    "trans": "breastbone",
+    "col": "breast cancer, chicken breast",
+    "ex": "The baby was at its mother's breast.",
+    "pos": "n./v."
+  },
+  "breath": {
+    "def": "氣息、呼吸",
+    "ipa": "/breθ/",
+    "trans": "breathe (動詞), breathless",
+    "col": "take a deep breath, out of breath",
+    "ex": "He took a deep breath before speaking.",
+    "pos": "n."
+  },
+  "breathe": {
+    "def": "呼吸、呼出",
+    "ipa": "/briːð/",
+    "trans": "breath (名詞), breathing",
+    "col": "breathe in, breathe out",
+    "ex": "It's hard to breathe in this smoke.",
+    "pos": "v."
+  },
+  "breeze": {
+    "def": "微風、輕而易舉的事、輕快地走",
+    "ipa": "/briːz/",
+    "trans": "breezy",
+    "col": "gentle breeze, sea breeze",
+    "ex": "A light breeze was blowing.",
+    "pos": "n./v."
+  },
+  "brick": {
+    "def": "磚塊、積木、用磚圍砌",
+    "ipa": "/brɪk/",
+    "trans": "bricks",
+    "col": "brick wall, red brick",
+    "ex": "The house is made of red brick.",
+    "pos": "n./v."
+  },
+  "bride": {
+    "def": "新娘",
+    "ipa": "/braɪd/",
+    "trans": "bridal, bridegroom",
+    "col": "blushing bride",
+    "ex": "The bride looked beautiful in her white dress.",
+    "pos": "n."
+  },
+  "bridge": {
+    "def": "橋、橋樑、架橋於、渡過",
+    "ipa": "/brɪdʒ/",
+    "trans": "bridging",
+    "col": "build a bridge, suspension bridge",
+    "ex": "We walked across the bridge.",
+    "pos": "n./v."
+  },
+  "brief": {
+    "def": "簡短的、短暫的、摘要、簡報、向...簡報",
+    "ipa": "/briːf/",
+    "trans": "briefly, brevity",
+    "col": "brief meeting, in brief",
+    "ex": "He gave a brief speech.",
+    "pos": "adj./n./v."
+  },
+  "bright": {
+    "def": "明亮的、聰明的、明亮地",
+    "ipa": "/braɪt/",
+    "trans": "brighten, brightness",
+    "col": "bright light, bright student",
+    "ex": "The stars are very bright tonight.",
+    "pos": "adj./adv."
+  },
+  "brilliant": {
+    "def": "燦爛的、卓越的",
+    "ipa": "/ˈbrɪliənt/",
+    "trans": "brilliance, brilliantly",
+    "col": "brilliant idea, brilliant career",
+    "ex": "He is a brilliant scientist.",
+    "pos": "adj."
+  },
+  "bring": {
+    "def": "帶來、引起、引進",
+    "ipa": "/brɪŋ/",
+    "trans": "brought, bringer",
+    "col": "bring up, bring about",
+    "ex": "Can you bring me a glass of water?",
+    "pos": "v."
+  },
+  "broad": {
+    "def": "寬廣的、廣泛的、寬闊地",
+    "ipa": "/brɔːd/",
+    "trans": "broaden, breadth",
+    "col": "broad daylight, broad shoulders",
+    "ex": "The river is very broad here.",
+    "pos": "adj./adv."
+  },
+  "broadcast": {
+    "def": "廣播、播放、廣播節目、播音的",
+    "ipa": "/ˈbrɔːdkɑːst/",
+    "trans": "broadcaster, broadcasting",
+    "col": "live broadcast, radio broadcast",
+    "ex": "The news is broadcast every hour.",
+    "pos": "v./n./adj."
+  },
+  "brother": {
+    "def": "兄弟、同胞",
+    "ipa": "/ˈbrʌðə/",
+    "trans": "brothers, brotherly",
+    "col": "elder brother, younger brother",
+    "ex": "My brother is a doctor.",
+    "pos": "n."
+  },
+  "brown": {
+    "def": "棕色的、褐色的、棕色、褐色、使變褐色",
+    "ipa": "/braʊn/",
+    "trans": "brownish",
+    "col": "brown hair, brown bread",
+    "ex": "She has brown eyes.",
+    "pos": "adj./n./v."
+  },
+  "brush": {
+    "def": "刷子、畫筆、刷、掠過",
+    "ipa": "/brʌʃ/",
+    "trans": "brushed, brushing",
+    "col": "brush your teeth, hair brush",
+    "ex": "Don't forget to brush your teeth.",
+    "pos": "n./v."
+  },
+  "bubble": {
+    "def": "氣泡、泡沫、沸騰、冒泡",
+    "ipa": "/ˈbʌbl/",
+    "trans": "bubbly",
+    "col": "soap bubbles, economic bubble",
+    "ex": "Kids love blowing bubbles.",
+    "pos": "n./v."
+  },
+  "bucket": {
+    "def": "水桶、大量、傾盆而下",
+    "ipa": "/ˈbʌkɪt/",
+    "trans": "buckets",
+    "col": "mop and bucket, bucket list",
+    "ex": "He filled the bucket with water.",
+    "pos": "n./v."
+  },
+  "bud": {
+    "def": "芽、花蕾、發芽",
+    "ipa": "/bʌd/",
+    "trans": "budding",
+    "col": "in bud",
+    "ex": "The roses are in bud.",
+    "pos": "n./v."
+  },
+  "budget": {
+    "def": "預算、預算案、編列預算、廉價的",
+    "ipa": "/ˈbʌdʒɪt/",
+    "trans": "budgetary",
+    "col": "annual budget, on a budget",
+    "ex": "We are traveling on a tight budget.",
+    "pos": "n./v./adj."
+  },
+  "buffet": {
+    "def": "自助餐、級櫃、打擊、搏鬥",
+    "ipa": "/ˈbʌfeɪ/ (n.) /ˈbʌfɪt/ (v.)",
+    "trans": "buffeted",
+    "col": "buffet dinner, open buffet",
+    "ex": "Dinner will be a cold buffet.",
+    "pos": "n./v."
+  },
+  "bug": {
+    "def": "昆蟲、漏洞、竊聽器、打擾、竊聽",
+    "ipa": "/bʌɡ/",
+    "trans": "buggy, bugged",
+    "col": "computer bug, stomach bug",
+    "ex": "There's a bug in the software.",
+    "pos": "n./v."
+  },
+  "build": {
+    "def": "建造、建築、體型、體格",
+    "ipa": "/bɪld/",
+    "trans": "built, builder, building",
+    "col": "build up, well-built",
+    "ex": "They are building a new house.",
+    "pos": "v./n."
+  },
+  "building": {
+    "def": "建築物、大樓",
+    "ipa": "/ˈbɪldɪŋ/",
+    "trans": "build (動詞)",
+    "col": "office building, public building",
+    "ex": "He works in an office building.",
+    "pos": "n."
+  },
+  "bulb": {
+    "def": "燈泡、球莖",
+    "ipa": "/bʌlb/",
+    "trans": "bulbs",
+    "col": "light bulb",
+    "ex": "The light bulb has burned out.",
+    "pos": "n."
+  },
+  "bull": {
+    "def": "公牛、（像公牛般）強推",
+    "ipa": "/bʊl/",
+    "trans": "bullock",
+    "col": "bull market, bull fight",
+    "ex": "The bull was charging at him.",
+    "pos": "n./v."
+  },
+  "bullet": {
+    "def": "子彈",
+    "ipa": "/ˈbʊlɪt/",
+    "trans": "bulletproof",
+    "col": "silver bullet, stray bullet",
+    "ex": "The bullet hit the target.",
+    "pos": "n."
+  },
+  "bump": {
+    "def": "碰撞、撞擊聲、腫塊、碰撞、顛簸",
+    "ipa": "/bʌmp/",
+    "trans": "bumpy",
+    "col": "goose bumps, bump into",
+    "ex": "I bumped into an old friend yesterday.",
+    "pos": "v./n."
+  },
+  "bunch": {
+    "def": "串、束、一群、成串、集結",
+    "ipa": "/bʌntʃ/",
+    "trans": "bunches",
+    "col": "bunch of flowers, bunch of grapes",
+    "ex": "He bought a bunch of flowers for his mother.",
+    "pos": "n./v."
+  },
+  "bundle": {
+    "def": "捆、束、包袱、捆紮、急行",
+    "ipa": "/ˈbʌndl/",
+    "trans": "bundled",
+    "col": "bundle of joy, bundle up",
+    "ex": "She was carrying a bundle of clothes.",
+    "pos": "n./v."
+  },
+  "burden": {
+    "def": "負擔、重任、使負擔",
+    "ipa": "/ˈbɜːdn/",
+    "trans": "burdensome",
+    "col": "heavy burden, financial burden",
+    "ex": "I don't want to be a burden to my family.",
+    "pos": "n./v."
+  },
+  "bureau": {
+    "def": "局、司、署、處",
+    "ipa": "/ˈbjʊərəʊ/",
+    "trans": "bureaucracy",
+    "col": "travel bureau, Federal Bureau of Investigation",
+    "ex": "He works for the travel bureau.",
+    "pos": "n."
+  },
+  "burn": {
+    "def": "燃燒、燒傷、灼熱感",
+    "ipa": "/bɜːn/",
+    "trans": "burnt, burned, burning",
+    "col": "burn down, burn out",
+    "ex": "The building was burning.",
+    "pos": "v./n."
+  },
+  "burst": {
+    "def": "爆裂、衝、炸裂、突然發作",
+    "ipa": "/bɜːst/",
+    "trans": "bursting",
+    "col": "burst into tears, burst out laughing",
+    "ex": "The balloon burst.",
+    "pos": "v./n."
+  },
+  "bury": {
+    "def": "埋葬、掩埋、隱藏",
+    "ipa": "/ˈberi/",
+    "trans": "burial, buried",
+    "col": "bury the hatchet",
+    "ex": "He was buried in the local cemetery.",
+    "pos": "v."
+  },
+  "bus": {
+    "def": "巴士、公車、乘公車",
+    "ipa": "/bʌs/",
+    "trans": "buses, busing",
+    "col": "bus stop, bus station",
+    "ex": "I go to work by bus.",
+    "pos": "n./v."
+  },
+  "bush": {
+    "def": "灌木、矮樹叢",
+    "ipa": "/bʊʃ/",
+    "trans": "bushes, bushy",
+    "col": "burn the bush",
+    "ex": "The bird disappeared into the bush.",
+    "pos": "n."
+  },
+  "business": {
+    "def": "商業、生意、事務",
+    "ipa": "/ˈbɪznəs/",
+    "trans": "businessman, businesswoman",
+    "col": "on business, none of your business",
+    "ex": "How's business?",
+    "pos": "n."
+  },
+  "busy": {
+    "def": "忙碌的、繁忙的、使忙碌",
+    "ipa": "/ˈbɪzi/",
+    "trans": "busily, business",
+    "col": "busy street, get busy",
+    "ex": "He is very busy right now.",
+    "pos": "adj./v."
+  },
+  "cabin": {
+    "def": "小木屋、船艙、客艙",
+    "ipa": "/ˈkæbɪn/",
+    "trans": "cabinet",
+    "col": "log cabin, cabin crew",
+    "ex": "He lives in a small cabin in the woods.",
+    "pos": "n."
+  },
+  "cabinet": {
+    "def": "櫥櫃、內閣、內閣的",
+    "ipa": "/ˈkæbɪnət/",
+    "trans": "cabin (名詞)",
+    "col": "kitchen cabinet, shadow cabinet",
+    "ex": "The files are in the filing cabinet.",
+    "pos": "n./adj."
+  },
+  "cable": {
+    "def": "電纜、纜繩、電報、發電報",
+    "ipa": "/ˈkeɪbl/",
+    "trans": "cabling",
+    "col": "cable TV, undersea cable",
+    "ex": "The machine is connected by a cable.",
+    "pos": "n./v."
+  },
+  "cage": {
+    "def": "籠子、牢房、把...關進籠子",
+    "ipa": "/keɪdʒ/",
+    "trans": "caged",
+    "col": "bird cage",
+    "ex": "The lions are in a cage.",
+    "pos": "n./v."
+  },
+  "cake": {
+    "def": "蛋糕、塊狀物、結塊、塗抹",
+    "ipa": "/keɪk/",
+    "trans": "cupcake",
+    "col": "piece of cake, birthday cake",
+    "ex": "She baked a chocolate cake.",
+    "pos": "n./v."
+  },
+  "calculate": {
+    "def": "計算、估算、預計",
+    "ipa": "/ˈkælkjuleɪt/",
+    "trans": "calculation, calculator",
+    "col": "calculate the cost",
+    "ex": "We need to calculate the total area.",
+    "pos": "v."
+  },
+  "calculator": {
+    "def": "計算機",
+    "ipa": "/ˈkælkjuleɪtə/",
+    "trans": "calculate (動詞)",
+    "col": "pocket calculator",
+    "ex": "I used a calculator to do my math homework.",
+    "pos": "n."
+  },
+  "calendar": {
+    "def": "日曆、曆法、日程表",
+    "ipa": "/ˈkælɪndə/",
+    "trans": "calendrical",
+    "col": "lunar calendar, social calendar",
+    "ex": "I marked the date on the calendar.",
+    "pos": "n."
+  },
+  "call": {
+    "def": "呼叫、打電話、命名、呼喚、通話、訪問",
+    "ipa": "/kɔːl/",
+    "trans": "caller, calling",
+    "col": "call off, call for, phone call",
+    "ex": "Give me a call when you arrive.",
+    "pos": "v./n."
+  },
+  "calm": {
+    "def": "平靜的、鎮靜的、平靜、使安靜",
+    "ipa": "/kɑːm/",
+    "trans": "calmly, calmness",
+    "col": "keep calm, calm down",
+    "ex": "The sea was very calm.",
+    "pos": "adj./n./v."
+  },
+  "camera": {
+    "def": "照相機、攝影機",
+    "ipa": "/ˈkæmərə/",
+    "trans": "cameraman",
+    "col": "digital camera, on camera",
+    "ex": "I took many photos with my new camera.",
+    "pos": "n."
+  },
+  "camp": {
+    "def": "營地、陣營、露營、紮營",
+    "ipa": "/kæmp/",
+    "trans": "camping, camper",
+    "col": "summer camp, concentration camp",
+    "ex": "We set up camp near the river.",
+    "pos": "n./v."
+  },
+  "campaign": {
+    "def": "活動、戰役、開展活動",
+    "ipa": "/kæmˈpeɪn/",
+    "trans": "campaigning",
+    "col": "election campaign, advertising campaign",
+    "ex": "We are starting a campaign to save the library.",
+    "pos": "n./v."
+  },
+  "campus": {
+    "def": "（大學、學院）校園",
+    "ipa": "/ˈkæmpəs/",
+    "trans": "campuses",
+    "col": "on campus, off campus",
+    "ex": "The new library is on the campus.",
+    "pos": "n."
+  },
+  "can": {
+    "def": "能、可以、可能、罐頭、把...裝罐",
+    "ipa": "/kæn/ (aux.) /kæn/ (n.)",
+    "trans": "canned, cannery",
+    "col": "tin can, can opener",
+    "ex": "I can speak English.",
+    "pos": "aux./n./v."
+  },
+  "cancel": {
+    "def": "取消、撤銷、廢除",
+    "ipa": "/ˈkænsl/",
+    "trans": "cancellation",
+    "col": "cancel a flight",
+    "ex": "The meeting has been cancelled.",
+    "pos": "v."
+  },
+  "cancer": {
+    "def": "癌症、毒瘤",
+    "ipa": "/ˈkænsə/",
+    "trans": "cancerous",
+    "col": "lung cancer, cure for cancer",
+    "ex": "He is fighting against cancer.",
+    "pos": "n."
+  },
+  "candidate": {
+    "def": "候選人、應試者",
+    "ipa": "/ˈkændɪdət/",
+    "trans": "candidacy",
+    "col": "presidential candidate",
+    "ex": "She is a candidate for the city council.",
+    "pos": "n."
+  },
+  "candle": {
+    "def": "蠟燭",
+    "ipa": "/ˈkændl/",
+    "trans": "candlestick",
+    "col": "blow out a candle",
+    "ex": "We lit a candle when the lights went out.",
+    "pos": "n."
+  },
+  "candy": {
+    "def": "糖果、把...製成糖果、結晶",
+    "ipa": "/ˈkændi/",
+    "trans": "candied",
+    "col": "cotton candy",
+    "ex": "The children love candy.",
+    "pos": "n./v."
+  },
+  "cane": {
+    "def": "手杖、藤條、手杖、用藤編織、用杖擊",
+    "ipa": "/keɪn/",
+    "trans": "sugar cane",
+    "col": "walking cane, sugar cane",
+    "ex": "He walks with a cane.",
+    "pos": "n./v."
+  },
+  "canoe": {
+    "def": "獨木舟、划獨木舟",
+    "ipa": "/kəˈnuː/",
+    "trans": "canoeing",
+    "col": "paddling a canoe",
+    "ex": "We traveled down the river by canoe.",
+    "pos": "n./v."
+  },
+  "canvas": {
+    "def": "帆布、油畫布",
+    "ipa": "/ˈkænvəs/",
+    "trans": "canvasses",
+    "col": "canvas bag",
+    "ex": "The artist painted on a large canvas.",
+    "pos": "n."
+  },
+  "cap": {
+    "def": "帽子、蓋子、頂端、覆蓋、限制",
+    "ipa": "/kæp/",
+    "trans": "capped",
+    "col": "bottle cap, thinking cap",
+    "ex": "He was wearing a baseball cap.",
+    "pos": "n./v."
+  },
+  "capable": {
+    "def": "有能力的、足以勝任的",
+    "ipa": "/ˈkeɪpəbl/",
+    "trans": "capability, capably",
+    "col": "be capable of",
+    "ex": "I'm sure he is capable of doing the job.",
+    "pos": "adj."
+  },
+  "capacity": {
+    "def": "容量、能力、身分、容積的",
+    "ipa": "/kəˈpæsəti/",
+    "trans": "capacious",
+    "col": "full capacity, storage capacity",
+    "ex": "The stadium has a capacity of 50,000.",
+    "pos": "n./adj."
+  },
+  "cape": {
+    "def": "披肩、斗篷、海角、岬",
+    "ipa": "/keɪp/",
+    "trans": "capes",
+    "col": "Cape of Good Hope",
+    "ex": "She wore a red cape.",
+    "pos": "n."
+  },
+  "capital": {
+    "def": "首都、資本、大寫字母、首要的、大寫的",
+    "ipa": "/ˈkæpɪtl/",
+    "trans": "capitalism, capitalize",
+    "col": "capital city, capital punishment",
+    "ex": "Paris is the capital of France.",
+    "pos": "n./adj."
+  },
+  "captain": {
+    "def": "隊長、船長、上尉、領袖、指揮",
+    "ipa": "/ˈkæptɪn/",
+    "trans": "captaincy",
+    "col": "team captain, sea captain",
+    "ex": "The captain of the team was very proud.",
+    "pos": "n./v."
+  },
+  "caption": {
+    "def": "標題、字幕、為...加標題",
+    "ipa": "/ˈkæpʃn/",
+    "trans": "captioned",
+    "col": "photo caption",
+    "ex": "Look at the caption under the picture.",
+    "pos": "n./v."
+  },
+  "car": {
+    "def": "汽車、車廂",
+    "ipa": "/kɑː/",
+    "trans": "sports car, cable car",
+    "col": "by car, driving a car",
+    "ex": "Is that your car?",
+    "pos": "n."
+  },
+  "carbon": {
+    "def": "碳",
+    "ipa": "/ˈkɑːbən/",
+    "trans": "carbonic",
+    "col": "carbon dioxide, carbon footprint",
+    "ex": "All life forms are based on carbon.",
+    "pos": "n."
+  },
+  "card": {
+    "def": "卡片、紙牌、給...開卡片、梳理",
+    "ipa": "/kɑːd/",
+    "trans": "cardboard",
+    "col": "credit card, postcard, playing cards",
+    "ex": "He paid by credit card.",
+    "pos": "n./v."
+  },
+  "care": {
+    "def": "照顧、關心、在意、照顧、在意",
+    "ipa": "/keə/",
+    "trans": "careful, careless, caring",
+    "col": "take care of, care for",
+    "ex": "Who will take care of the dog?",
+    "pos": "n./v."
+  },
+  "career": {
+    "def": "職業、生涯、猛衝",
+    "ipa": "/kəˈrɪə/",
+    "trans": "careers",
+    "col": "career path, professional career",
+    "ex": "He chose a career in medicine.",
+    "pos": "n./v."
+  },
+  "careful": {
+    "def": "小心的、仔細的",
+    "ipa": "/ˈkeəfl/",
+    "trans": "carefully, carefulness",
+    "col": "be careful with",
+    "ex": "Be careful with that knife.",
+    "pos": "adj."
+  },
+  "chapter": {
+    "def": "章、章節、把...分成章節",
+    "ipa": "/ˈtʃæptə/",
+    "trans": "chapters",
+    "col": "new chapter, Chapter One",
+    "ex": "Please read the first three chapters.",
+    "pos": "n./v."
+  },
+  "character": {
+    "def": "性格、特徵、角色、字元、描寫...的特性",
+    "ipa": "/ˈkærəktə/",
+    "trans": "characteristic, characterize",
+    "col": "main character, strong character",
+    "ex": "He is a man of good character.",
+    "pos": "n./v."
+  },
+  "charge": {
+    "def": "費用、控告、電荷、收費、控告、充電",
+    "ipa": "/tʃɑːdʒ/",
+    "trans": "charger, chargeable",
+    "col": "in charge of, free of charge, service charge",
+    "ex": "How much do you charge for a haircut?",
+    "pos": "n./v."
+  },
+  "charity": {
+    "def": "慈善、施捨、慈善機構",
+    "ipa": "/ˈtʃærəti/",
+    "trans": "charitable",
+    "col": "charity event, for charity",
+    "ex": "The money will be given to charity.",
+    "pos": "n."
+  },
+  "chart": {
+    "def": "圖表、航海圖、繪製圖表、記錄",
+    "ipa": "/tʃɑːt/",
+    "trans": "charts",
+    "col": "pie chart, flow chart",
+    "ex": "The sales figures are shown in the chart.",
+    "pos": "n./v."
+  },
+  "chase": {
+    "def": "追逐、追趕、追捕",
+    "ipa": "/tʃeɪs/",
+    "trans": "chased",
+    "col": "chase after",
+    "ex": "The cat was chasing a mouse.",
+    "pos": "v./n."
+  },
+  "chat": {
+    "def": "閒談、聊天",
+    "ipa": "/tʃæt/",
+    "trans": "chatty, chatter",
+    "col": "have a chat, chat room",
+    "ex": "I had a long chat with my friend yesterday.",
+    "pos": "v./n."
+  },
+  "cheap": {
+    "def": "便宜的、低劣的、便宜地",
+    "ipa": "/tʃiːp/",
+    "trans": "cheaply, cheapness",
+    "col": "cheap price, dirt cheap",
+    "ex": "This watch was very cheap.",
+    "pos": "adj./adv."
+  },
+  "cheat": {
+    "def": "欺騙、作弊、詐騙、騙子",
+    "ipa": "/tʃiːt/",
+    "trans": "cheater",
+    "col": "cheat on an exam",
+    "ex": "He was caught cheating in the test.",
+    "pos": "v./n."
+  },
+  "check": {
+    "def": "檢查、支票、阻止、格紋、檢查、阻止",
+    "ipa": "/tʃek/",
+    "trans": "checker, checkout",
+    "col": "check in, check out, double check",
+    "ex": "Please check your answers carefully.",
+    "pos": "v./n."
+  },
+  "cheek": {
+    "def": "臉頰、厚臉皮",
+    "ipa": "/tʃiːk/",
+    "trans": "cheeky",
+    "col": "rosy cheeks",
+    "ex": "She kissed him on the cheek.",
+    "pos": "n."
+  },
+  "cheerful": {
+    "def": "愉快的、快樂的",
+    "ipa": "/ˈtʃɪəfl/",
+    "trans": "cheerfully, cheerfulness",
+    "col": "cheerful smile, feeling cheerful",
+    "ex": "She is always very cheerful.",
+    "pos": "adj."
+  },
+  "cheese": {
+    "def": "起司、乳酪",
+    "ipa": "/tʃiːz/",
+    "trans": "cheesecake",
+    "col": "blue cheese, cream cheese",
+    "ex": "I'd like some cheese and crackers.",
+    "pos": "n."
+  },
+  "chemical": {
+    "def": "化學的、化學製品",
+    "ipa": "/ˈkemɪkl/",
+    "trans": "chemist, chemistry",
+    "col": "chemical reaction, chemical weapon",
+    "ex": "These vegetables are free from chemicals.",
+    "pos": "adj./n."
+  },
+  "chemist": {
+    "def": "化學家、藥劑師、藥妝店",
+    "ipa": "/ˈkemɪst/",
+    "trans": "chemistry, chemical",
+    "col": "analytical chemist",
+    "ex": "He is a famous organic chemist.",
+    "pos": "n."
+  },
+  "chemistry": {
+    "def": "化學、化學作用、吸引力",
+    "ipa": "/ˈkemɪstri/",
+    "trans": "chemical, chemist",
+    "col": "organic chemistry",
+    "ex": "I enjoyed studying chemistry at school.",
+    "pos": "n."
+  },
+  "cherry": {
+    "def": "櫻桃、櫻桃樹、櫻桃色的",
+    "ipa": "/ˈtʃeri/",
+    "trans": "cherries",
+    "col": "cherry blossom, cherry pie",
+    "ex": "The cherries are ripe now.",
+    "pos": "n./adj."
+  },
+  "chess": {
+    "def": "西洋棋",
+    "ipa": "/tʃes/",
+    "trans": "chessboard",
+    "col": "play chess",
+    "ex": "Do you know how to play chess?",
+    "pos": "n."
+  },
+  "chest": {
+    "def": "胸膛、大箱子、櫥櫃",
+    "ipa": "/tʃest/",
+    "trans": "chestnut",
+    "col": "chest pain, treasure chest",
+    "ex": "He has a very broad chest.",
+    "pos": "n."
+  },
+  "chew": {
+    "def": "咀嚼、深思、咀嚼、咀嚼物",
+    "ipa": "/tʃuː/",
+    "trans": "chewy, chewing",
+    "col": "chewing gum",
+    "ex": "You should chew your food well.",
+    "pos": "v./n."
+  },
+  "chick": {
+    "def": "小雞、小鳥",
+    "ipa": "/tʃɪk/",
+    "trans": "chicken",
+    "col": "baby chicks",
+    "ex": "The chicks are hatching.",
+    "pos": "n."
+  },
+  "chief": {
+    "def": "首領、長官、主要的、首席的、主要地",
+    "ipa": "/tʃiːf/",
+    "trans": "chiefly",
+    "col": "editor-in-chief, chief executive",
+    "ex": "The chief reason for his success is hard work.",
+    "pos": "n./adj./adv."
+  },
+  "childhood": {
+    "def": "童年",
+    "ipa": "/ˈtʃaɪldhʊd/",
+    "trans": "child (名詞)",
+    "col": "happy childhood",
+    "ex": "I spent my childhood in the country.",
+    "pos": "n."
+  },
+  "chill": {
+    "def": "寒冷、寒戰、使變冷、使受挫、寒冷的",
+    "ipa": "/tʃɪl/",
+    "trans": "chilly",
+    "col": "chill out, catch a chill",
+    "ex": "There was a chill in the air.",
+    "pos": "n./v./adj."
+  },
+  "chimney": {
+    "def": "煙囪",
+    "ipa": "/ˈtʃɪmni/",
+    "trans": "chimneys",
+    "col": "smoke from the chimney",
+    "ex": "Smoke was rising from the chimney.",
+    "pos": "n."
+  },
+  "chin": {
+    "def": "下巴、聊天、向...聊天",
+    "ipa": "/tʃɪn/",
+    "trans": "chins",
+    "col": "double chin",
+    "ex": "He rubbed his chin thoughtfully.",
+    "pos": "n./v."
+  },
+  "china": {
+    "def": "瓷器",
+    "ipa": "/ˈtʃaɪnə/",
+    "trans": "porcelain",
+    "col": "bone china",
+    "ex": "Be careful with that china plate.",
+    "pos": "n."
+  },
+  "chip": {
+    "def": "碎片、晶片、炸薯條、削下、切尖",
+    "ipa": "/tʃɪp/",
+    "trans": "chipping, chipper",
+    "col": "computer chip, potato chips",
+    "ex": "This computer uses a high-speed chip.",
+    "pos": "n./v."
+  },
+  "chocolate": {
+    "def": "巧克力、巧克力糖、巧克力的",
+    "ipa": "/ˈtʃɒklət/",
+    "trans": "chocolates",
+    "col": "milk chocolate, dark chocolate",
+    "ex": "I love eating chocolate.",
+    "pos": "n./adj."
+  },
+  "choice": {
+    "def": "選擇、挑選、精選的",
+    "ipa": "/tʃɔɪs/",
+    "trans": "choose (動詞)",
+    "col": "make a choice, by choice",
+    "ex": "You have no choice but to wait.",
+    "pos": "n./adj."
+  },
+  "choir": {
+    "def": "合唱團",
+    "ipa": "/ˈkwaɪə/",
+    "trans": "choral",
+    "col": "church choir",
+    "ex": "He sings in the school choir.",
+    "pos": "n."
+  },
+  "choke": {
+    "def": "窒息、阻塞、嗆到、窒息、阻風門",
+    "ipa": "/tʃəʊk/",
+    "trans": "choking",
+    "col": "choke to death",
+    "ex": "The smoke made me choke.",
+    "pos": "v./n."
+  },
+  "choose": {
+    "def": "選擇、選定",
+    "ipa": "/tʃuːz/",
+    "trans": "chose, chosen, choice",
+    "col": "choose from, nothing to choose from",
+    "ex": "You must choose between the two.",
+    "pos": "v."
+  },
+  "chop": {
+    "def": "切、砍、排骨、切碎",
+    "ipa": "/tʃɒp/",
+    "trans": "chopper, choppy",
+    "col": "pork chop, chop up",
+    "ex": "Chop the carrots into small pieces.",
+    "pos": "v./n."
+  },
+  "chorus": {
+    "def": "合唱、合唱隊、副歌、齊聲說、合唱",
+    "ipa": "/ˈkɔːrəs/",
+    "trans": "choral",
+    "col": "dawn chorus, in chorus",
+    "ex": "Everyone joined in the chorus.",
+    "pos": "n./v."
+  },
+  "Christian": {
+    "def": "基督徒、基督教的",
+    "ipa": "/ˈkrɪstʃən/",
+    "trans": "Christianity",
+    "col": "Christian name",
+    "ex": "He is a devout Christian.",
+    "pos": "n./adj."
+  },
+  "Christmas": {
+    "def": "聖誕節",
+    "ipa": "/ˈkrɪsməs/",
+    "trans": "Noel",
+    "col": "Merry Christmas, Christmas Eve",
+    "ex": "We decorate the tree at Christmas.",
+    "pos": "n."
+  },
+  "chubby": {
+    "def": "圓胖的、豐滿的",
+    "ipa": "/ˈtʃʌbi/",
+    "trans": "plump",
+    "col": "chubby cheeks",
+    "ex": "The baby has chubby little legs.",
+    "pos": "adj."
+  },
+  "church": {
+    "def": "教堂、教會",
+    "ipa": "/tʃɜːtʃ/",
+    "trans": "churchman",
+    "col": "go to church",
+    "ex": "There is a small church in the village.",
+    "pos": "n."
+  },
+  "cigar": {
+    "def": "雪茄",
+    "ipa": "/sɪˈɡɑː/",
+    "trans": "cigarette",
+    "col": "smoke a cigar",
+    "ex": "He likes to smoke a cigar after dinner.",
+    "pos": "n."
+  },
+  "cigarette": {
+    "def": "香菸",
+    "ipa": "/ˌsɪɡəˈret/",
+    "trans": "cigar (名詞)",
+    "col": "light a cigarette",
+    "ex": "He is trying to quit smoking cigarettes.",
+    "pos": "n."
+  },
+  "cinema": {
+    "def": "電影院、電影業",
+    "ipa": "/ˈsɪnəmə/",
+    "trans": "cinematic",
+    "col": "go to the cinema",
+    "ex": "Let's go to the cinema tonight.",
+    "pos": "n."
+  },
+  "circle": {
+    "def": "圓圈、界、社會圈、圈出、環繞",
+    "ipa": "/ˈsɜːkl/",
+    "trans": "circular, circulate",
+    "col": "inner circle, social circle",
+    "ex": "The children sat in a circle.",
+    "pos": "n./v."
+  },
+  "circulate": {
+    "def": "循環、傳播、流傳",
+    "ipa": "/ˈsɜːkjəleɪt/",
+    "trans": "circulation",
+    "col": "circulate rumors",
+    "ex": "Blood circulates through the body.",
+    "pos": "v."
+  },
+  "circulation": {
+    "def": "循環、流通、發行量",
+    "ipa": "/ˌsɜːkjəˈleɪʃn/",
+    "trans": "circulate (動詞)",
+    "col": "blood circulation, in circulation",
+    "ex": "The newspaper has a large circulation.",
+    "pos": "n."
+  },
+  "circumstance": {
+    "def": "環境、情況、境遇",
+    "ipa": "/ˈsɜːkəmstəns/",
+    "trans": "circumstantial",
+    "col": "under the circumstances",
+    "ex": "He was a victim of circumstance.",
+    "pos": "n."
+  },
+  "circus": {
+    "def": "馬戲團、圓形廣場",
+    "ipa": "/ˈsɜːkəs/",
+    "trans": "circuses",
+    "col": "traveling circus",
+    "ex": "The kids loved the circus.",
+    "pos": "n."
+  },
+  "citizen": {
+    "def": "公民、市民",
+    "ipa": "/ˈsɪtɪzn/",
+    "trans": "citizenship",
+    "col": "senior citizen, good citizen",
+    "ex": "He is a British citizen.",
+    "pos": "n."
+  },
+  "civil": {
+    "def": "民事的、國民的、禮貌的",
+    "ipa": "/ˈsɪvl/",
+    "trans": "civilized, civilian",
+    "col": "civil rights, civil war",
+    "ex": "The two countries were at civil war.",
+    "pos": "adj."
+  },
+  "civilize": {
+    "def": "使文明、開化、教導",
+    "ipa": "/ˈsɪvəlaɪz/",
+    "trans": "civilization, civilized",
+    "col": "civilizing influence",
+    "ex": "The goal is to civilize the society.",
+    "pos": "v."
+  },
+  "claim": {
+    "def": "要求、聲稱、權利、索賠、要求、聲稱",
+    "ipa": "/kleɪm/",
+    "trans": "claimant",
+    "col": "claim responsibility, insurance claim",
+    "ex": "He claimed that he had seen a UFO.",
+    "pos": "v./n."
+  },
+  "clap": {
+    "def": "拍手、鼓掌、拍手聲、霹靂聲",
+    "ipa": "/klæp/",
+    "trans": "clapping",
+    "col": "clap one's hands",
+    "ex": "The audience clapped loudly.",
+    "pos": "v./n."
+  },
+  "clarify": {
+    "def": "澄清、說明",
+    "ipa": "/ˈklærəfaɪ/",
+    "trans": "clarification, clarity",
+    "col": "clarify a point",
+    "ex": "Could you clarify what you mean?",
+    "pos": "v."
+  },
+  "clash": {
+    "def": "衝突、不協調、碰撞聲、衝突、發出撞擊聲",
+    "ipa": "/klæʃ/",
+    "trans": "clashing",
+    "col": "clash of cultures",
+    "ex": "The two armies clashed at dawn.",
+    "pos": "n./v."
+  },
+  "classical": {
+    "def": "古典的、傳統的",
+    "ipa": "/ˈklæsɪkl/",
+    "trans": "classic, classify",
+    "col": "classical music, classical education",
+    "ex": "He prefers classical music to pop music.",
+    "pos": "adj."
+  },
+  "classify": {
+    "def": "分類、歸類",
+    "ipa": "/ˈklæsɪfaɪ/",
+    "trans": "classification",
+    "col": "classify into",
+    "ex": "Whales are classified as mammals.",
+    "pos": "v."
+  },
+  "clatter": {
+    "def": "嘩啦聲、 noisy talk、發出嘩啦聲、喋喋不休",
+    "ipa": "/ˈklætə/",
+    "trans": "clattering",
+    "col": "clatter of dishes",
+    "ex": "The dishes clattered on the floor.",
+    "pos": "n./v."
+  },
+  "claw": {
+    "def": "爪、螯、用爪抓、挖",
+    "ipa": "/klɔː/",
+    "trans": "clawed",
+    "col": "cat's claws",
+    "ex": "The crab has powerful claws.",
+    "pos": "n./v."
+  },
+  "clay": {
+    "def": "黏土、泥土",
+    "ipa": "/kleɪ/",
+    "trans": "clayey",
+    "col": "clay pot, modeling clay",
+    "ex": "The potter made a bowl out of clay.",
+    "pos": "n."
+  },
+  "clerk": {
+    "def": "店員、辦事員、職員",
+    "ipa": "/klɜːk/",
+    "trans": "clerical",
+    "col": "bank clerk, office clerk",
+    "ex": "The clerk was very helpful.",
+    "pos": "n."
+  },
+  "clever": {
+    "def": "聰明的、靈巧的",
+    "ipa": "/ˈklevə/",
+    "trans": "cleverly, cleverness",
+    "col": "clever idea",
+    "ex": "She is a very clever girl.",
+    "pos": "adj."
+  },
+  "click": {
+    "def": "卡嗒聲、點擊、發出卡嗒聲、點擊",
+    "ipa": "/klɪk/",
+    "trans": "clicking",
+    "col": "double click",
+    "ex": "Click the mouse to open the file.",
+    "pos": "n./v."
+  },
+  "client": {
+    "def": "客戶、顧客",
+    "ipa": "/ˈklaɪənt/",
+    "trans": "clientele",
+    "col": "regular client",
+    "ex": "He has a lot of regular clients.",
+    "pos": "n."
+  },
+  "cliff": {
+    "def": "懸崖、峭壁",
+    "ipa": "/klɪf/",
+    "trans": "cliffhanger",
+    "col": "chalk cliffs",
+    "ex": "The house stands on the edge of a cliff.",
+    "pos": "n."
+  },
+  "climate": {
+    "def": "氣候、風氣",
+    "ipa": "/ˈklaɪmət/",
+    "trans": "climatic",
+    "col": "tropical climate, climate change",
+    "ex": "The island has a warm, dry climate.",
+    "pos": "n."
+  },
+  "climb": {
+    "def": "攀登、爬、上昇",
+    "ipa": "/klaɪm/",
+    "trans": "climber, climbing",
+    "col": "climb up, social climber",
+    "ex": "He likes to climb mountains.",
+    "pos": "v./n."
+  },
+  "clinic": {
+    "def": "診所、臨床教學",
+    "ipa": "/ˈklɪnɪk/",
+    "trans": "clinical",
+    "col": "dental clinic, health clinic",
+    "ex": "She went to the local health clinic.",
+    "pos": "n."
+  },
+  "dad/daddy": {
+    "def": "爸爸",
+    "ipa": "/dæd/ /ˈdædi/",
+    "trans": "dad's",
+    "col": "hi dad, dear daddy",
+    "ex": "My dad is a very kind man.",
+    "pos": "n."
+  },
+  "daily": {
+    "def": "每日的、日常的、每日、天天、日報",
+    "ipa": "/ˈdeɪli/",
+    "trans": "day",
+    "col": "daily life, daily routine, daily newspaper",
+    "ex": "I exercise on a daily basis.",
+    "pos": "adj./adv./n."
+  },
+  "dairy": {
+    "def": "乳製品、牛奶場、乳製品的",
+    "ipa": "/ˈdeəri/",
+    "trans": "dairies",
+    "col": "dairy products, dairy farm",
+    "ex": "I avoid dairy because I'm lactose intolerant.",
+    "pos": "n./adj."
+  },
+  "dam": {
+    "def": "水壩、障礙、築壩、控制",
+    "ipa": "/dæm/",
+    "trans": "dammed",
+    "col": "build a dam, Hoover Dam",
+    "ex": "The dam provides electricity for the city.",
+    "pos": "n./v."
+  },
+  "damage": {
+    "def": "損害、賠償金、損害、毀壞",
+    "ipa": "/ˈdæmɪdʒ/",
+    "trans": "damaged, damaging",
+    "col": "cause damage, severe damage",
+    "ex": "The storm caused a lot of damage to the crops.",
+    "pos": "n./v."
+  },
+  "damn": {
+    "def": "該死、咒罵、毫無價值、極其、譴責",
+    "ipa": "/dæm/",
+    "trans": "damned",
+    "col": "damn it, not worth a damn",
+    "ex": "I don't give a damn what they think.",
+    "pos": "int./n./adv./v."
+  },
+  "damp": {
+    "def": "潮濕的、潮濕、使潮濕、使沮喪",
+    "ipa": "/dæmp/",
+    "trans": "dampness",
+    "col": "damp cloth, damp weather",
+    "ex": "Wipe the surface with a damp cloth.",
+    "pos": "adj./n./v."
+  },
+  "dance": {
+    "def": "跳舞、舞會、跳舞、跳躍",
+    "ipa": "/dɑːns/",
+    "trans": "dancer, dancing",
+    "col": "let's dance, folk dance",
+    "ex": "She loves to dance.",
+    "pos": "n./v."
+  },
+  "dancer": {
+    "def": "舞者",
+    "ipa": "/ˈdɑːnsə/",
+    "trans": "dance (動詞)",
+    "col": "professional dancer, ballet dancer",
+    "ex": "She is a very talented dancer.",
+    "pos": "n."
+  },
+  "danger": {
+    "def": "危險、威脅",
+    "ipa": "/ˈdeɪndʒə/",
+    "trans": "dangerous",
+    "col": "in danger, out of danger",
+    "ex": "The bridge is in danger of collapsing.",
+    "pos": "n."
+  },
+  "dangerous": {
+    "def": "危險的",
+    "ipa": "/ˈdeɪndʒərəs/",
+    "trans": "danger (名詞), dangerously",
+    "col": "dangerous situation, extremely dangerous",
+    "ex": "It's dangerous to walk alone at night.",
+    "pos": "adj."
+  },
+  "dare": {
+    "def": "大膽、竟敢、挑戰、激將、挑戰",
+    "ipa": "/deə/",
+    "trans": "daring",
+    "col": "I dare say, How dare you!",
+    "ex": "I don't dare to ask him.",
+    "pos": "aux./v./n."
+  },
+  "dark": {
+    "def": "黑暗的、深色的、黑暗、暗處",
+    "ipa": "/dɑːk/",
+    "trans": "darken, darkness",
+    "col": "after dark, dark blue",
+    "ex": "It's getting dark outside.",
+    "pos": "adj./n."
+  },
+  "darkness": {
+    "def": "黑暗、陰鬱",
+    "ipa": "/ˈdɑːknəs/",
+    "trans": "dark (形容詞)",
+    "col": "total darkness",
+    "ex": "The room was in total darkness.",
+    "pos": "n."
+  },
+  "darling": {
+    "def": "親愛的、心愛的人、親愛的",
+    "ipa": "/ˈdɑːlɪŋ/",
+    "trans": "darlings",
+    "col": "little darling",
+    "ex": "Goodbye, my darling.",
+    "pos": "n./adj."
+  },
+  "dash": {
+    "def": "猛衝、破折號、急奔、毀滅",
+    "ipa": "/dæʃ/",
+    "trans": "dashed",
+    "col": "make a dash for, 100-meter dash",
+    "ex": "He made a dash for the bus.",
+    "pos": "n./v."
+  },
+  "data": {
+    "def": "資料、數據",
+    "ipa": "/ˈdeɪtə/",
+    "trans": "database",
+    "col": "collect data, mobile data",
+    "ex": "We are still collecting more data.",
+    "pos": "n."
+  },
+  "date": {
+    "def": "日期、約會、棗、標註日期、約會",
+    "ipa": "/deɪt/",
+    "trans": "dated",
+    "col": "out of date, up to date",
+    "ex": "What's the date today?",
+    "pos": "n./v."
+  },
+  "daughter": {
+    "def": "女兒",
+    "ipa": "/ˈdɔːtə/",
+    "trans": "daughterly",
+    "col": "only daughter",
+    "ex": "She is our youngest daughter.",
+    "pos": "n."
+  },
+  "dawn": {
+    "def": "黎明、開端、破曉、開始",
+    "ipa": "/dɔːn/",
+    "trans": "dawning",
+    "col": "at dawn, before dawn",
+    "ex": "We set off at dawn.",
+    "pos": "n./v."
+  },
+  "day": {
+    "def": "天、白天",
+    "ipa": "/deɪ/",
+    "trans": "daily",
+    "col": "day by day, all day",
+    "ex": "Have a nice day!",
+    "pos": "n."
+  },
+  "dead": {
+    "def": "死的、沒命的、完全地、死者",
+    "ipa": "/ded/",
+    "trans": "death, deadly",
+    "col": "dead body, dead end",
+    "ex": "He was found dead in his bed.",
+    "pos": "adj./adv./n."
+  },
+  "deadline": {
+    "def": "截止期限",
+    "ipa": "/ˈdedlaɪn/",
+    "trans": "deadlines",
+    "col": "meet a deadline, miss a deadline",
+    "ex": "The deadline for the project is Friday.",
+    "pos": "n."
+  },
+  "deaf": {
+    "def": "聾的、不願聽的",
+    "ipa": "/def/",
+    "trans": "deafness",
+    "col": "stone deaf, turn a deaf ear",
+    "ex": "He has been deaf since birth.",
+    "pos": "adj."
+  },
+  "deal": {
+    "def": "交易、大量、處理、給予、分配",
+    "ipa": "/diːl/",
+    "trans": "dealer, dealing",
+    "col": "deal with, big deal, make a deal",
+    "ex": "Let's make a deal.",
+    "pos": "n./v."
+  },
+  "dear": {
+    "def": "親愛的、昂貴的、親愛的、親愛的人、貴地",
+    "ipa": "/dɪə/",
+    "trans": "dearly",
+    "col": "Dear Sir, oh dear",
+    "ex": "My dear friend, how are you?",
+    "pos": "adj./int./n./adv."
+  },
+  "death": {
+    "def": "死亡、毀滅",
+    "ipa": "/deθ/",
+    "trans": "dead, die, deadly",
+    "col": "death penalty, put to death",
+    "ex": "He was saddened by the death of his cat.",
+    "pos": "n."
+  },
+  "debate": {
+    "def": "辯論、爭論、辯論、思考",
+    "ipa": "/dɪˈbeɪt/",
+    "trans": "debater",
+    "col": "public debate, heated debate",
+    "ex": "There has been much debate over the issue.",
+    "pos": "n./v."
+  },
+  "debt": {
+    "def": "債務、欠債",
+    "ipa": "/det/",
+    "trans": "debtor",
+    "col": "in debt, national debt",
+    "ex": "He is in deep debt.",
+    "pos": "n."
+  },
+  "decade": {
+    "def": "十年",
+    "ipa": "/ˈdekeɪd/",
+    "trans": "decades",
+    "col": "over the last decade",
+    "ex": "He has lived here for a decade.",
+    "pos": "n."
+  },
+  "decay": {
+    "def": "腐朽、衰退、使腐爛、使衰落",
+    "ipa": "/dɪˈkeɪ/",
+    "trans": "decaying",
+    "col": "tooth decay",
+    "ex": "The house was in a state of decay.",
+    "pos": "n./v."
+  },
+  "deceive": {
+    "def": "欺騙、蒙蔽",
+    "ipa": "/dɪˈsiːv/",
+    "trans": "deception, deceit",
+    "col": "deceive oneself",
+    "ex": "She tried to deceive him, but he found out.",
+    "pos": "v."
+  },
+  "December": {
+    "def": "十二月",
+    "ipa": "/dɪˈsembə/",
+    "trans": "Dec.",
+    "col": "in December",
+    "ex": "Christmas is in December.",
+    "pos": "n."
+  },
+  "decide": {
+    "def": "決定、下決心",
+    "ipa": "/dɪˈsaɪd/",
+    "trans": "decision, decisive",
+    "col": "decide to do",
+    "ex": "I can't decide which one to buy.",
+    "pos": "v."
+  },
+  "decision": {
+    "def": "決定、決心、果斷",
+    "ipa": "/dɪˈsɪʒn/",
+    "trans": "decide (動詞)",
+    "col": "make a decision, final decision",
+    "ex": "It was a very difficult decision.",
+    "pos": "n."
+  },
+  "deck": {
+    "def": "甲板、層、（紙牌）一副、裝飾、打倒",
+    "ipa": "/dek/",
+    "trans": "decked",
+    "col": "on deck, double-decker",
+    "ex": "The passengers were sunbathing on the deck.",
+    "pos": "n./v."
+  },
+  "declare": {
+    "def": "宣布、聲明、申報",
+    "ipa": "/dɪˈkleə/",
+    "trans": "declaration",
+    "col": "declare war, nothing to declare",
+    "ex": "I declare the meeting open.",
+    "pos": "v."
+  },
+  "decline": {
+    "def": "下降、衰退、婉言拒絕、下降、下傾",
+    "ipa": "/dɪˈklaɪn/",
+    "trans": "declining",
+    "col": "gradual decline, decline an invitation",
+    "ex": "The population is in decline.",
+    "pos": "v./n."
+  },
+  "decorate": {
+    "def": "裝飾、修飾",
+    "ipa": "/ˈdekəreɪt/",
+    "trans": "decoration, decorative",
+    "col": "decorate a room",
+    "ex": "We are decorating the house for Christmas.",
+    "pos": "v."
+  },
+  "decoration": {
+    "def": "裝飾、裝飾品、勳章",
+    "ipa": "/ˌdekəˈreɪʃn/",
+    "trans": "decorate (動詞)",
+    "col": "interior decoration, Christmas decoration",
+    "ex": "They are putting up the decorations.",
+    "pos": "n."
+  },
+  "decrease": {
+    "def": "減少、降低",
+    "ipa": "/dɪˈkriːs/",
+    "trans": "decreasing",
+    "col": "decrease in sales",
+    "ex": "There has been a decrease in the number of smokers.",
+    "pos": "v./n."
+  },
+  "dedicate": {
+    "def": "奉獻、致力於、題獻",
+    "ipa": "/ˈdedɪkeɪt/",
+    "trans": "dedication",
+    "col": "dedicate to",
+    "ex": "She dedicated her life to helping others.",
+    "pos": "v."
+  },
+  "deep": {
+    "def": "深的、深奧的、深沉地、深處",
+    "ipa": "/diːp/",
+    "trans": "deepen, deeply",
+    "col": "deep sleep, deep breath",
+    "ex": "The water is very deep here.",
+    "pos": "adj./adv./n."
+  },
+  "deer": {
+    "def": "鹿",
+    "ipa": "/dɪə/",
+    "trans": "reindeer",
+    "col": "wild deer",
+    "ex": "We saw several deer in the forest.",
+    "pos": "n."
+  },
+  "defeat": {
+    "def": "擊敗、挫敗、戰敗、失敗",
+    "ipa": "/dɪˈfiːt/",
+    "trans": "defeated",
+    "col": "admit defeat, crushing defeat",
+    "ex": "The team suffered a heavy defeat.",
+    "pos": "v./n."
+  },
+  "defect": {
+    "def": "缺陷、不足、背叛、叛逃",
+    "ipa": "/ˈdiːfekt/ (n.) /dɪˈfekt/ (v.)",
+    "trans": "defective",
+    "col": "birth defect, technical defect",
+    "ex": "The car was recalled due to a defect.",
+    "pos": "n./v."
+  },
+  "defence/defense": {
+    "def": "防禦、辯護、防務",
+    "ipa": "/dɪˈfens/",
+    "trans": "defend (動詞)",
+    "col": "self-defense, defensive",
+    "ex": "He acted in self-defense.",
+    "pos": "n."
+  },
+  "defend": {
+    "def": "保衛、辯護",
+    "ipa": "/dɪˈfend/",
+    "trans": "defense, defender",
+    "col": "defend a title, defend oneself",
+    "ex": "We must defend our country.",
+    "pos": "v."
+  },
+  "defendant": {
+    "def": "被告",
+    "ipa": "/dɪˈfendənt/",
+    "trans": "defend (動詞)",
+    "col": "the case for the defendant",
+    "ex": "The defendant pleaded not guilty.",
+    "pos": "n."
+  },
+  "defensive": {
+    "def": "防禦的、自衛的、防禦",
+    "ipa": "/dɪˈfensɪv/",
+    "trans": "defend (動詞)",
+    "col": "defensive play",
+    "ex": "He's very defensive about his work.",
+    "pos": "adj./n."
+  },
+  "define": {
+    "def": "定義、界定、解釋",
+    "ipa": "/dɪˈfaɪn/",
+    "trans": "definition",
+    "col": "define a term",
+    "ex": "It's difficult to define the concept of beauty.",
+    "pos": "v."
+  },
+  "definite": {
+    "def": "明確的、確定的",
+    "ipa": "/ˈdefɪnət/",
+    "trans": "definitely, definition",
+    "col": "definite answer",
+    "ex": "We need a definite answer by tomorrow.",
+    "pos": "adj."
+  },
+  "definitely": {
+    "def": "明確地、肯定地",
+    "ipa": "/ˈdefɪnətli/",
+    "trans": "definite (形容詞)",
+    "col": "definitely not",
+    "ex": "I will definitely be there.",
+    "pos": "adv."
+  },
+  "definition": {
+    "def": "定義、清晰度",
+    "ipa": "/ˌdefɪˈnɪʃn/",
+    "trans": "define (動詞)",
+    "col": "dictionary definition, high definition",
+    "ex": "What's the definition of this word?",
+    "pos": "n."
+  },
+  "degree": {
+    "def": "度數、學位、程度",
+    "ipa": "/dɪˈɡriː/",
+    "trans": "degrees",
+    "col": "university degree, by degrees",
+    "ex": "Water boils at 100 degrees Celsius.",
+    "pos": "n."
+  },
+  "delay": {
+    "def": "延遲、延期、延誤、耽擱",
+    "ipa": "/dɪˈleɪ/",
+    "trans": "delayed",
+    "col": "delay of game, without delay",
+    "ex": "The flight was delayed due to bad weather.",
+    "pos": "v./n."
+  },
+  "delegate": {
+    "def": "代表、授權、派...為代表",
+    "ipa": "/ˈdelɪɡət/ (n.) /ˈdelɪɡeɪt/ (v.)",
+    "trans": "delegation",
+    "col": "conference delegate",
+    "ex": "She was chosen as a delegate to the convention.",
+    "pos": "n./v."
+  },
+  "deliberate": {
+    "def": "故意的、慎重的、商討、深思熟慮",
+    "ipa": "/dɪˈlɪbərət/ (adj.) /dɪˈlɪbəreɪt/ (v.)",
+    "trans": "deliberately",
+    "col": "deliberate lie",
+    "ex": "It was a deliberate attempt to mislead us.",
+    "pos": "adj./v."
+  },
+  "delicate": {
+    "def": "脆弱的、精緻的、敏閱的",
+    "ipa": "/ˈdelɪkət/",
+    "trans": "delicately, delicacy",
+    "col": "delicate skin, delicate situation",
+    "ex": "The child is in delicate health.",
+    "pos": "adj."
+  },
+  "delicious": {
+    "def": "美味的",
+    "ipa": "/dɪˈlɪʃəs/",
+    "trans": "delight",
+    "col": "delicious meal, smell delicious",
+    "ex": "The cake looks delicious.",
+    "pos": "adj."
+  },
+  "delight": {
+    "def": "高興、樂事、使高興、欣喜",
+    "ipa": "/dɪˈlaɪt/",
+    "trans": "delightful",
+    "col": "take delight in, to one's delight",
+    "ex": "To my delight, I passed the exam.",
+    "pos": "n./v."
+  },
+  "delightful": {
+    "def": "愉快的、令人高興的",
+    "ipa": "/dɪˈlaɪtf(ə)l/",
+    "trans": "delight (名詞)",
+    "col": "delightful evening",
+    "ex": "We had a delightful evening.",
+    "pos": "adj."
+  },
+  "deliver": {
+    "def": "遞送、發表、交付",
+    "ipa": "/dɪˈlɪvə/",
+    "trans": "delivery, deliverer",
+    "col": "deliver a speech, cash on delivery",
+    "ex": "Can you deliver the package to my office?",
+    "pos": "v."
+  },
+  "delivery": {
+    "def": "遞送、投遞、分娩、演講風格",
+    "ipa": "/dɪˈlɪvəri/",
+    "trans": "deliver (動詞)",
+    "col": "home delivery, fast delivery",
+    "ex": "The delivery will arrive tomorrow.",
+    "pos": "n."
+  },
+  "demand": {
+    "def": "要求、需求、強烈要求、需要",
+    "ipa": "/dɪˈmɑːnd/",
+    "trans": "demanding",
+    "col": "in demand, supply and demand",
+    "ex": "There is a great demand for organic food.",
+    "pos": "n./v."
+  },
+  "democracy": {
+    "def": "民主、民主國家",
+    "ipa": "/dɪˈmɒkrəsi/",
+    "trans": "democratic, democrat",
+    "col": "parliamentary democracy",
+    "ex": "We believe in the principles of democracy.",
+    "pos": "n."
+  },
+  "democratic": {
+    "def": "民主的、民主政體的",
+    "ipa": "/ˌdeməˈkrætɪk/",
+    "trans": "democracy (名詞)",
+    "col": "Democratic Party",
+    "ex": "The country is a democratic republic.",
+    "pos": "adj."
+  },
+  "demonstrate": {
+    "def": "證明、示範、舉行遊行示威",
+    "ipa": "/ˈdemənstreɪt/",
+    "trans": "demonstration",
+    "col": "demonstrate skills",
+    "ex": "He demonstrated how to use the new machine.",
+    "pos": "v."
+  },
+  "demonstration": {
+    "def": "示範、證明、遊行示威",
+    "ipa": "/ˌdemənˈstreɪʃn/",
+    "trans": "demonstrate (動詞)",
+    "col": "cooking demonstration, anti-war demonstration",
+    "ex": "There was a demonstration against the new tax.",
+    "pos": "n."
+  },
+  "dense": {
+    "def": "稠密的、濃厚的、愚笨的",
+    "ipa": "/dens/",
+    "trans": "density",
+    "col": "dense forest, dense fog",
+    "ex": "We walked through a dense forest.",
+    "pos": "adj."
+  },
+  "density": {
+    "def": "密度、濃度",
+    "ipa": "/ˈdensəti/",
+    "trans": "dense (形容詞)",
+    "col": "population density",
+    "ex": "The city has a high population density.",
+    "pos": "n."
+  },
+  "dental": {
+    "def": "牙齒的、牙科的",
+    "ipa": "/ˈdentl/",
+    "trans": "dentist",
+    "col": "dental clinic, dental care",
+    "ex": "She has to go to the dental clinic.",
+    "pos": "adj."
+  },
+  "dentist": {
+    "def": "牙醫",
+    "ipa": "/ˈdentɪst/",
+    "trans": "dental (形容詞)",
+    "col": "go to the dentist",
+    "ex": "I have an appointment with the dentist tomorrow.",
+    "pos": "n."
+  },
+  "deny": {
+    "def": "否認、拒絕、拒絕給予",
+    "ipa": "/dɪˈnaɪ/",
+    "trans": "denial",
+    "col": "deny rumors, deny access",
+    "ex": "He denied that he had stolen the money.",
+    "pos": "v."
+  },
+  "depart": {
+    "def": "離去、出發、違反",
+    "ipa": "/dɪˈpɑːt/",
+    "trans": "departure",
+    "col": "depart from",
+    "ex": "The train departs at 3 p.m.",
+    "pos": "v."
+  },
+  "department": {
+    "def": "部門、系、局",
+    "ipa": "/dɪˈpɑːtmənt/",
+    "trans": "departmental",
+    "col": "department store, sales department",
+    "ex": "He works in the accounting department.",
+    "pos": "n."
+  },
+  "departure": {
+    "def": "離開、出發、變更",
+    "ipa": "/dɪˈpɑːtʃə/",
+    "trans": "depart (動詞)",
+    "col": "departure time, flight departure",
+    "ex": "They are waiting in the departure lounge.",
+    "pos": "n."
+  },
+  "depend": {
+    "def": "依賴、取決於、信賴",
+    "ipa": "/dɪˈpend/",
+    "trans": "dependent, dependence",
+    "col": "depend on, it depends",
+    "ex": "Success depends on hard work.",
+    "pos": "v."
+  },
+  "dependence": {
+    "def": "依賴、信任",
+    "ipa": "/dɪˈpendəns/",
+    "trans": "depend (動詞), dependent",
+    "col": "drug dependence",
+    "ex": "His dependence on his parents is worrying.",
+    "pos": "n."
+  },
+  "dependent": {
+    "def": "依賴的、取決於...的、家眷、侍從",
+    "ipa": "/dɪˈpendənt/",
+    "trans": "depend (動詞), independent",
+    "col": "be dependent on",
+    "ex": "She is still financially dependent on her parents.",
+    "pos": "adj./n."
+  },
+  "deposit": {
+    "def": "存款、押金、沈積、存放、沈積、支付（押金）",
+    "ipa": "/dɪˈpɒzɪt/",
+    "trans": "depositor",
+    "col": "make a deposit, security deposit",
+    "ex": "You need to pay a deposit on the car.",
+    "pos": "n./v."
+  },
+  "depress": {
+    "def": "使沮喪、使蕭條、壓低",
+    "ipa": "/dɪˈpres/",
+    "trans": "depression, depressed",
+    "col": "depress the market",
+    "ex": "The bad news depressed everyone.",
+    "pos": "v."
+  },
+  "depressed": {
+    "def": "感到沮喪的、蕭條的",
+    "ipa": "/dɪˈprest/",
+    "trans": "depress (動詞), depression",
+    "col": "be depressed about",
+    "ex": "He felt very depressed after losing his job.",
+    "pos": "adj."
+  },
+  "depression": {
+    "def": "沮喪、憂鬱症、經濟大蕭條、低氣壓",
+    "ipa": "/dɪˈpreʃn/",
+    "trans": "depress (動詞)",
+    "col": "clinical depression, the Great Depression",
+    "ex": "She suffers from severe depression.",
+    "pos": "n."
+  },
+  "depth": {
+    "def": "深度、深處、強度、完整",
+    "ipa": "/depθ/",
+    "trans": "deep (形容詞)",
+    "col": "in depth, out of one's depth",
+    "ex": "The lake has a depth of 20 meters.",
+    "pos": "n."
+  },
+  "derive": {
+    "def": "源於、提取",
+    "ipa": "/dɪˈraɪv/",
+    "trans": "derivative, derivation",
+    "col": "derive from",
+    "ex": "Many English words are derived from Latin.",
+    "pos": "v."
+  },
+  "describe": {
+    "def": "描述、形容、畫（圖形）",
+    "ipa": "/dɪˈskraɪb/",
+    "trans": "description, descriptive",
+    "col": "describe someone as",
+    "ex": "Can you describe the man you saw?",
+    "pos": "v."
+  },
+  "description": {
+    "def": "描述、形容、種類",
+    "ipa": "/dɪˈskrɪpʃn/",
+    "trans": "describe (動詞)",
+    "col": "job description, physical description",
+    "ex": "I gave a detailed description of the accident.",
+    "pos": "n."
+  },
+  "deserve": {
+    "def": "應得、值得",
+    "ipa": "/dɪˈzɜːv/",
+    "trans": "deserving",
+    "col": "deserve a prize",
+    "ex": "You deserve a rest after all that hard work.",
+    "pos": "v."
+  },
+  "design": {
+    "def": "設計、圖樣、企圖、設計、計劃",
+    "ipa": "/dɪˈzaɪn/",
+    "trans": "designer",
+    "col": "fashion design, graphic design",
+    "ex": "The building was designed by a famous architect.",
+    "pos": "n./v."
+  },
+  "designer": {
+    "def": "設計師、陰謀家",
+    "ipa": "/dɪˈzaɪnə/",
+    "trans": "design (名詞)",
+    "col": "fashion designer, interior designer",
+    "ex": "She works as a fashion designer in Paris.",
+    "pos": "n."
+  },
+  "desirable": {
+    "def": "值得擁有的、理想的、吸引人的",
+    "ipa": "/dɪˈzaɪərəbl/",
+    "trans": "desire (名詞)",
+    "col": "desirable result",
+    "ex": "It's desirable to have some work experience.",
+    "pos": "adj."
+  },
+  "desire": {
+    "def": "渴望、慾望、渴求、期望",
+    "ipa": "/dɪˈzaɪə/",
+    "trans": "desirous, desirable",
+    "col": "desire for, earnest desire",
+    "ex": "She has a strong desire to travel.",
+    "pos": "n./v."
+  },
+  "desk": {
+    "def": "書桌、辦公桌、服務台",
+    "ipa": "/desk/",
+    "trans": "desktop",
+    "col": "reception desk, help desk",
+    "ex": "I'm sitting at my desk.",
+    "pos": "n."
+  },
+  "desktop": {
+    "def": "桌面（電腦）、桌上型的",
+    "ipa": "/ˈdesktɒp/",
+    "trans": "desk (名詞)",
+    "col": "desktop computer",
+    "ex": "I prefer a desktop computer to a laptop.",
+    "pos": "n./adj."
+  },
+  "despair": {
+    "def": "絕望、絕望、喪失信心",
+    "ipa": "/dɪˈspeə/",
+    "trans": "desperate",
+    "col": "in despair",
+    "ex": "He gave up in despair.",
+    "pos": "n./v."
+  },
+  "desperate": {
+    "def": "絕望的、拼命的、極度渴望的",
+    "ipa": "/ˈdespərət/",
+    "trans": "desperately, desperation",
+    "col": "desperate situation, be desperate for",
+    "ex": "The situation is desperate.",
+    "pos": "adj."
+  },
+  "despite": {
+    "def": "儘管、不管",
+    "ipa": "/dɪˈspaɪt/",
+    "trans": "spite",
+    "col": "despite the fact that",
+    "ex": "They enjoyed the picnic despite the rain.",
+    "pos": "prep."
+  },
+  "dessert": {
+    "def": "甜點",
+    "ipa": "/dɪˈzɜːt/",
+    "trans": "desert (區分)",
+    "col": "have dessert",
+    "ex": "Would you like some dessert?",
+    "pos": "n."
+  },
+  "destination": {
+    "def": "目的地、終點",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "trans": "destiny",
+    "col": "final destination",
+    "ex": "Rome is a popular tourist destination.",
+    "pos": "n."
+  },
+  "destiny": {
+    "def": "命運、天命",
+    "ipa": "/ˈdestəni/",
+    "trans": "destination",
+    "col": "manifest destiny",
+    "ex": "He felt that it was his destiny to succeed.",
+    "pos": "n."
+  },
+  "destroy": {
+    "def": "破壞、毀滅、殺死",
+    "ipa": "/dɪˈstrɔɪ/",
+    "trans": "destruction, destructive",
+    "col": "destroy confidence",
+    "ex": "The earthquake destroyed the entire city.",
+    "pos": "v."
+  },
+  "detail": {
+    "def": "細節、詳情、詳述、分派",
+    "ipa": "/ˈdiːteɪl/ (n.) /dɪˈteɪl/ (v.)",
+    "trans": "detailed",
+    "col": "in detail, go into detail",
+    "ex": "Please give me all the details.",
+    "pos": "n./v."
+  },
+  "detailed": {
+    "def": "詳細的、精細的",
+    "ipa": "/ˈdiːteɪld/",
+    "trans": "detail (名詞)",
+    "col": "detailed report",
+    "ex": "He gave a detailed account of the events.",
+    "pos": "adj."
+  },
+  "detect": {
+    "def": "偵測、察覺、發現",
+    "ipa": "/dɪˈtekt/",
+    "trans": "detector, detective",
+    "col": "detect problems",
+    "ex": "The machine can detect small amounts of radiation.",
+    "pos": "v."
+  },
+  "detective": {
+    "def": "偵探、警探、偵探的",
+    "ipa": "/dɪˈtektɪv/",
+    "trans": "detect (動詞)",
+    "col": "police detective, private detective",
+    "ex": "The detective is investigating the case.",
+    "pos": "n./adj."
+  },
+  "detergent": {
+    "def": "清潔劑、洗滌劑",
+    "ipa": "/dɪˈtɜːdʒənt/",
+    "trans": "deterge",
+    "col": "laundry detergent",
+    "ex": "Use a mild detergent to wash the organic silk.",
+    "pos": "n."
+  },
+  "determination": {
+    "def": "決心、決定、測定",
+    "ipa": "/dɪˌtɜːmɪˈneɪʃn/",
+    "trans": "determine (動詞)",
+    "col": "with determination, full of determination",
+    "ex": "She was full of determination to succeed.",
+    "pos": "n."
+  },
+  "determine": {
+    "def": "決定、測定、下決心",
+    "ipa": "/dɪˈtɜːmɪn/",
+    "trans": "determination, determined",
+    "col": "determine the cause",
+    "ex": "We need to determine the cause of the fire.",
+    "pos": "v."
+  },
+  "determined": {
+    "def": "下定決心的、果斷的",
+    "ipa": "/dɪˈtɜːmɪnd/",
+    "trans": "determine (動詞)",
+    "col": "be determined to",
+    "ex": "I'm determined to win the competition.",
+    "pos": "adj."
+  },
+  "develop": {
+    "def": "發展、開發、沖洗（照片）、患（病）",
+    "ipa": "/dɪˈveləp/",
+    "trans": "development, developer",
+    "col": "develop skills, develop photos",
+    "ex": "The economy is developing rapidly.",
+    "pos": "v."
+  },
+  "development": {
+    "def": "發展、開發、研製、進展",
+    "ipa": "/dɪˈveləpmənt/",
+    "trans": "develop (動詞)",
+    "col": "sustainable development, research and development",
+    "ex": "Exercise is important for the development of muscles.",
+    "pos": "n."
+  },
+  "device": {
+    "def": "裝置、設備、策略",
+    "ipa": "/dɪˈvaɪs/",
+    "trans": "devise (動詞)",
+    "col": "electronic device, labor-saving device",
+    "ex": "A thermometer is a device for measuring temperature.",
+    "pos": "n."
+  },
+  "devil": {
+    "def": "魔鬼、惡棍、折磨、戲弄",
+    "ipa": "/ˈdevl/",
+    "trans": "devilish",
+    "col": "speak of the devil, a poor devil",
+    "ex": "He's a little devil sometimes.",
+    "pos": "n./v."
+  },
+  "devise": {
+    "def": "設計、發明、遺贈、遺贈",
+    "ipa": "/dɪˈvaɪz/",
+    "trans": "device (名詞)",
+    "col": "devise a plan",
+    "ex": "She devised a new method for teaching math.",
+    "pos": "v./n."
+  },
+  "devote": {
+    "def": "奉獻、致力於",
+    "ipa": "/dɪˈvəʊt/",
+    "trans": "devotion, devoted",
+    "col": "devote time to",
+    "ex": "He devoted his life to music.",
+    "pos": "v."
+  },
+  "devotion": {
+    "def": "熱愛、奉獻、祈禱",
+    "ipa": "/dɪˈvəʊʃn/",
+    "trans": "devote (動詞)",
+    "col": "religious devotion",
+    "ex": "His devotion to his family is admirable.",
+    "pos": "n."
+  },
+  "dew": {
+    "def": "露水、露水般潔淨的東西、形成露水、打濕",
+    "ipa": "/djuː/",
+    "trans": "dewy",
+    "col": "morning dew",
+    "ex": "The grass was wet with dew.",
+    "pos": "n./v."
+  },
+  "diagram": {
+    "def": "圖表、圖解、用圖表表示",
+    "ipa": "/ˈdaɪəɡræm/",
+    "trans": "diagrammatic",
+    "col": "circuit diagram",
+    "ex": "Look at the diagram on page 20.",
+    "pos": "n./v."
+  },
+  "dial": {
+    "def": "刻度盤、撥號盤、撥號",
+    "ipa": "/ˈdaɪəl/",
+    "trans": "dialing",
+    "col": "direct dial",
+    "ex": "Please dial 9 for an outside line.",
+    "pos": "n./v."
+  },
+  "dialog(ue)": {
+    "def": "對話、對白、進行對話",
+    "ipa": "/ˈdaɪəlɒɡ/",
+    "trans": "dialogic",
+    "col": "internal dialogue",
+    "ex": "The play has some witty dialogue.",
+    "pos": "n./v."
+  },
+  "diamond": {
+    "def": "鑽石、菱形、棒球場",
+    "ipa": "/ˈdaɪəmənd/",
+    "trans": "diamonds",
+    "col": "diamond ring, rough diamond",
+    "ex": "She is wearing a diamond necklace.",
+    "pos": "n."
+  },
+  "diary": {
+    "def": "日記、日誌",
+    "ipa": "/ˈdaɪəri/",
+    "trans": "diarist",
+    "col": "keep a diary, personal diary",
+    "ex": "I write in my diary every night.",
+    "pos": "n."
+  },
+  "dictate": {
+    "def": "口述、命令、支配、底稿、指令",
+    "ipa": "/dɪkˈteɪt/",
+    "trans": "dictation, dictator",
+    "col": "dictate a letter",
+    "ex": "She dictated the letter to her secretary.",
+    "pos": "v./n."
+  },
+  "dictation": {
+    "def": "口述、聽寫、命令",
+    "ipa": "/dɪkˈteɪʃn/",
+    "trans": "dictate (動詞)",
+    "col": "take dictation",
+    "ex": "The teacher gave the class a dictation.",
+    "pos": "n."
+  },
+  "dictator": {
+    "def": "獨裁者",
+    "ipa": "/dɪkˈteɪtə/",
+    "trans": "dictate (動詞)",
+    "col": "military dictator",
+    "ex": "The country is ruled by a dictator.",
+    "pos": "n."
+  },
+  "dictionary": {
+    "def": "字典、辭典",
+    "ipa": "/ˈdɪkʃənri/",
+    "trans": "dictionaries",
+    "col": "pocket dictionary, look up in a dictionary",
+    "ex": "I need to check the word in the dictionary.",
+    "pos": "n."
+  },
+  "die": {
+    "def": "死、渴望、凋謝、骰子、沖模",
+    "ipa": "/daɪ/",
+    "trans": "death, dead, dying",
+    "col": "die of, die for, never say die",
+    "ex": "He died of old age.",
+    "pos": "v./n."
+  },
+  "diet": {
+    "def": "飲食、節食、飲食的、節食",
+    "ipa": "/ˈdaɪət/",
+    "trans": "dietary, dietician",
+    "col": "balanced diet, go on a diet",
+    "ex": "A healthy diet is important for good health.",
+    "pos": "n./adj./v."
+  },
+  "differ": {
+    "def": "不同、意見分歧",
+    "ipa": "/ˈdɪfə/",
+    "trans": "different, difference",
+    "col": "differ from",
+    "ex": "The two brothers differ in their opinions.",
+    "pos": "v."
+  },
+  "difference": {
+    "def": "差別、差額、爭執",
+    "ipa": "/ˈdɪfrəns/",
+    "trans": "different (形容詞)",
+    "col": "tell the difference, make a difference",
+    "ex": "What's the difference between the two?",
+    "pos": "n."
+  },
+  "different": {
+    "def": "不同的、個別的",
+    "ipa": "/ˈdɪfrənt/",
+    "trans": "difference (名詞), differently",
+    "col": "different from, in many different ways",
+    "ex": "He is different from his brother.",
+    "pos": "adj."
+  },
+  "difficult": {
+    "def": "困難的、難相處的",
+    "ipa": "/ˈdɪfɪkəlt/",
+    "trans": "difficulty",
+    "col": "difficult task, find it difficult to",
+    "ex": "It's difficult to learn a new language.",
+    "pos": "adj."
+  },
+  "difficulty": {
+    "def": "困難、難題、艱辛",
+    "ipa": "/ˈdɪfɪkəlti/",
+    "trans": "difficult (形容詞)",
+    "col": "with difficulty, experience difficulty",
+    "ex": "She did it without any difficulty.",
+    "pos": "n."
+  },
+  "dig": {
+    "def": "挖掘、探究、戳、挖出、戳",
+    "ipa": "/dɪɡ/",
+    "trans": "digger, dug",
+    "col": "dig up, dig for",
+    "ex": "They are digging a hole in the ground.",
+    "pos": "v./n."
+  },
+  "digest": {
+    "def": "消化、吸收、摘要、文摘",
+    "ipa": "/daɪˈdʒest/ (v.) /ˈdaɪdʒest/ (n.)",
+    "trans": "digestion, digestive",
+    "col": "digest information, Reader's Digest",
+    "ex": "It takes time to digest heavy food.",
+    "pos": "v./n."
+  },
+  "digestion": {
+    "def": "消化、領悟",
+    "ipa": "/daɪˈdʒestʃən/",
+    "trans": "digest (動詞)",
+    "col": "good digestion",
+    "ex": "Walking after meals aids digestion.",
+    "pos": "n."
+  },
+  "digital": {
+    "def": "數位化的、數字的、數位鐘錶",
+    "ipa": "/ˈdɪdʒɪtl/",
+    "trans": "digitize",
+    "col": "digital camera, digital clock",
+    "ex": "I bought a new digital watch.",
+    "pos": "adj./n."
+  },
+  "dignity": {
+    "def": "尊嚴、莊重、高位",
+    "ipa": "/ˈdɪɡnəti/",
+    "trans": "dignified",
+    "col": "with dignity, human dignity",
+    "ex": "She maintained her dignity in spite of the insults.",
+    "pos": "n."
+  },
+  "diligence": {
+    "def": "勤勉",
+    "ipa": "/ˈdɪlɪdʒəns/",
+    "trans": "diligent",
+    "col": "rewarded for diligence",
+    "ex": "His success was due to his hard work and diligence.",
+    "pos": "n."
+  },
+  "diligent": {
+    "def": "勤勉的、用功的",
+    "ipa": "/ˈdɪlɪdʒənt/",
+    "trans": "diligence (名詞), diligently",
+    "col": "diligent student",
+    "ex": "She is a very diligent worker.",
+    "pos": "adj."
+  },
+  "dim": {
+    "def": "暗淡的、模糊的、使變暗、變模糊",
+    "ipa": "/dɪm/",
+    "trans": "dimly, dimness",
+    "col": "dim light, take a dim view of",
+    "ex": "The light was very dim.",
+    "pos": "adj./v."
+  },
+  "dime": {
+    "def": "（美加）一角硬幣",
+    "ipa": "/daɪm/",
+    "trans": "dimes",
+    "col": "a dime a dozen",
+    "ex": "He doesn't have a dime to his name.",
+    "pos": "n."
+  },
+  "dine": {
+    "def": "進餐、宴請",
+    "ipa": "/daɪn/",
+    "trans": "dinner, dining",
+    "col": "dine out, dining room",
+    "ex": "We dined at a small Italian restaurant.",
+    "pos": "v."
+  },
+  "dinner": {
+    "def": "晚餐、宴會",
+    "ipa": "/ˈdɪnə/",
+    "trans": "dine (動詞)",
+    "col": "have dinner, Christmas dinner",
+    "ex": "What's for dinner?",
+    "pos": "n."
+  },
+  "dinosaur": {
+    "def": "恐龍、過時的人事物",
+    "ipa": "/ˈdaɪnəsɔː/",
+    "trans": "dinosaurs",
+    "col": "extinct dinosaur",
+    "ex": "Dinosaurs lived millions of years ago.",
+    "pos": "n."
+  },
+  "dip": {
+    "def": "浸、蘸、下沉、洗澡、下降",
+    "ipa": "/dɪp/",
+    "trans": "dipping",
+    "col": "dip into, dip in",
+    "ex": "She dipped her toe into the water.",
+    "pos": "v./n."
+  },
+  "diploma": {
+    "def": "文憑、畢業證書、發給文憑",
+    "ipa": "/dɪˈpləʊmə/",
+    "trans": "diplomas",
+    "col": "high school diploma",
+    "ex": "She received her diploma last week.",
+    "pos": "n./v."
+  },
+  "diplomat": {
+    "def": "外交官、處事圓滑的人",
+    "ipa": "/ˈdɪpləmæt/",
+    "trans": "diplomacy, diplomatic",
+    "col": "career diplomat",
+    "ex": "A good diplomat should be very patient.",
+    "pos": "n."
+  },
+  "diplomatic": {
+    "def": "外交的、策略的",
+    "ipa": "/ˌdɪpləˈmætɪk/",
+    "trans": "diplomat (名詞), diplomatically",
+    "col": "diplomatic relations, diplomatic immunity",
+    "ex": "We need to find a diplomatic way to say no.",
+    "pos": "adj."
+  },
+  "direct": {
+    "def": "直接的、坦率的、指示、導向、直接地",
+    "ipa": "/dəˈrekt/ (adj./v.) /daɪˈrekt/ (adv.)",
+    "trans": "direction, director",
+    "col": "direct flight, direct sunlight",
+    "ex": "Could you direct me to the station?",
+    "pos": "adj./v./adv."
+  },
+  "direction": {
+    "def": "方向、趨勢、指令、說明書",
+    "ipa": "/dəˈrekʃn/",
+    "trans": "direct (動詞)",
+    "col": "opposite direction, sense of direction",
+    "ex": "Which direction are we heading in?",
+    "pos": "n."
+  },
+  "directly": {
+    "def": "直接地、立即地、馬上",
+    "ipa": "/dəˈrektli/",
+    "trans": "direct (形容詞)",
+    "col": "directly involved",
+    "ex": "I'll be with you directly.",
+    "pos": "adv."
+  },
+  "director": {
+    "def": "董事、經理、導演、指導者",
+    "ipa": "/dəˈrektə/",
+    "trans": "direct (動詞)",
+    "col": "film director, managing director",
+    "ex": "He is the director of a large company.",
+    "pos": "n."
+  },
+  "dirt": {
+    "def": "污垢、泥土、卑鄙的話",
+    "ipa": "/dɜːt/",
+    "trans": "dirty",
+    "col": "pay dirt, treat as dirt",
+    "ex": "The car was covered in dirt.",
+    "pos": "n."
+  },
+  "dirty": {
+    "def": "髒的、卑劣的、使變髒",
+    "ipa": "/ˈdɜːti/",
+    "trans": "dirt (名詞), dirtiness",
+    "col": "dirty laundry, dirty trick",
+    "ex": "Don't touch me with your dirty hands.",
+    "pos": "adj./v."
+  },
+  "disability": {
+    "def": "殘疾、無能",
+    "ipa": "/ˌdɪsəˈbɪləti/",
+    "trans": "disable",
+    "col": "learning disability",
+    "ex": "She has a physical disability.",
+    "pos": "n."
+  },
+  "disable": {
+    "def": "使殘廢、使無效",
+    "ipa": "/dɪsˈeɪbl/",
+    "trans": "disability, disabled",
+    "col": "disable an alarm",
+    "ex": "The accident disabled him for life.",
+    "pos": "v."
+  },
+  "disadvantage": {
+    "def": "不利、缺失、損害",
+    "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+    "trans": "disadvantaged",
+    "col": "at a disadvantage",
+    "ex": "One disadvantage of the plan is its high cost.",
+    "pos": "n."
+  },
+  "disagree": {
+    "def": "不同意、不符",
+    "ipa": "/ˌdɪsəˈɡriː/",
+    "trans": "disagreement",
+    "col": "disagree with",
+    "ex": "I disagree with you entirely.",
+    "pos": "v."
+  },
+  "disagreement": {
+    "def": "不同意、不和、分歧",
+    "ipa": "/ˌdɪsəˈɡriːmənt/",
+    "trans": "disagree (動詞)",
+    "col": "minor disagreement",
+    "ex": "There was a sharp disagreement between the two officials.",
+    "pos": "n."
+  },
+  "disappear": {
+    "def": "消失、失蹤",
+    "ipa": "/ˌdɪsəˈpɪə/",
+    "trans": "disappearance",
+    "col": "disappear from sight",
+    "ex": "The sun disappeared behind the clouds.",
+    "pos": "v."
+  },
+  "disappoint": {
+    "def": "使失望、挫敗",
+    "ipa": "/ˌdɪsəˈpɔɪnt/",
+    "trans": "disappointment, disappointed",
+    "col": "don't disappoint me",
+    "ex": "I'm sorry to disappoint you, but I can't come.",
+    "pos": "v."
+  },
+  "disappointed": {
+    "def": "感到失望的",
+    "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+    "trans": "disappoint (動詞)",
+    "col": "be disappointed with",
+    "ex": "She was disappointed with her exam results.",
+    "pos": "adj."
+  },
+  "disappointment": {
+    "def": "失望、掃興的人事物",
+    "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+    "trans": "disappoint (動詞)",
+    "col": "to one's disappointment",
+    "ex": "His failure was a great disappointment to his parents.",
+    "pos": "n."
+  },
+  "disapproval": {
+    "def": "不贊成、不滿",
+    "ipa": "/ˌdɪsəˈpruːvl/",
+    "trans": "disapprove",
+    "col": "shout of disapproval",
+    "ex": "She showed her disapproval by shaking her head.",
+    "pos": "n."
+  },
+  "disapprove": {
+    "def": "不贊成、不滿意",
+    "ipa": "/ˌdɪsəˈpruːv/",
+    "trans": "disapproval",
+    "col": "disapprove of",
+    "ex": "My parents disapprove of my boyfriend.",
+    "pos": "v."
+  },
+  "disaster": {
+    "def": "災難、大禍",
+    "ipa": "/dɪˈzɑːstə/",
+    "trans": "disastrous",
+    "col": "natural disaster",
+    "ex": "The floods were a major disaster.",
+    "pos": "n."
+  },
+  "disc/disk": {
+    "def": "光碟、圓盤、磁碟",
+    "ipa": "/dɪsk/",
+    "trans": "discs",
+    "col": "compact disc, hard disk",
+    "ex": "Save the file onto a disk.",
+    "pos": "n."
+  },
+  "discard": {
+    "def": "拋棄、丟棄、丟棄物、被拋棄者",
+    "ipa": "/dɪˈskɑːd/",
+    "trans": "discarded",
+    "col": "discard old clothes",
+    "ex": "He discarded his old laptop.",
+    "pos": "v./n."
+  },
+  "discern": {
+    "def": "辨別、看出",
+    "ipa": "/dɪˈsɜːn/",
+    "trans": "discerning",
+    "col": "discern the truth",
+    "ex": "It was difficult to discern any difference between the two copies.",
+    "pos": "v."
+  },
+  "discharge": {
+    "def": "排放、解僱、履行、卸貨、排放面、放電",
+    "ipa": "/dɪsˈtʃɑːdʒ/ (v.) /ˈdɪstʃɑːdʒ/ (n.)",
+    "trans": "discharging",
+    "col": "honorably discharge",
+    "ex": "The factory was fined for discharging chemicals into the river.",
+    "pos": "v./n."
+  },
+  "discipline": {
+    "def": "紀律、訓練、學科、訓練、處罰",
+    "ipa": "/ˈdɪsəplɪn/",
+    "trans": "disciplinary",
+    "col": "strict discipline, academic discipline",
+    "ex": "School discipline is very important.",
+    "pos": "n./v."
+  },
+  "disconnect": {
+    "def": "切斷、斷開",
+    "ipa": "/ˌdɪskəˈnekt/",
+    "trans": "disconnection",
+    "col": "disconnect power",
+    "ex": "The phone was disconnected because the bill hadn't been paid.",
+    "pos": "v."
+  },
+  "discontinue": {
+    "def": "中止、停止",
+    "ipa": "/ˌdɪskənˈtɪnjuː/",
+    "trans": "discontinuation",
+    "col": "discontinued line",
+    "ex": "Production of this model has been discontinued.",
+    "pos": "v."
+  },
+  "discount": {
+    "def": "折扣、貼現、打折、低估、打折的",
+    "ipa": "/ˈdɪskaʊnt/ (n./v.)",
+    "trans": "discounting",
+    "col": "get a discount, student discount",
+    "ex": "Students are entitled to a 10% discount.",
+    "pos": "n./v./adj."
+  },
+  "discourage": {
+    "def": "使沮喪、阻止、勸阻",
+    "ipa": "/dɪˈskʌrɪdʒ/",
+    "trans": "discouragement",
+    "col": "discourage from doing",
+    "ex": "The bad weather discouraged us from going out.",
+    "pos": "v."
+  },
+  "discover": {
+    "def": "發現、發覺、顯示",
+    "ipa": "/dɪˈskʌvə/",
+    "trans": "discovery",
+    "col": "discover the truth",
+    "ex": "Columbus discovered America in 1492.",
+    "pos": "v."
+  },
+  "discovery": {
+    "def": "發現、發覺、被發現的事物",
+    "ipa": "/dɪˈskʌvəri/",
+    "trans": "discover (動詞)",
+    "col": "make a discovery, scientific discovery",
+    "ex": "The discovery of oil brought wealth to the region.",
+    "pos": "n."
+  },
+  "discuss": {
+    "def": "討論、商議",
+    "ipa": "/dɪˈskʌs/",
+    "trans": "discussion",
+    "col": "discuss something with someone",
+    "ex": "We need to discuss the plan before we start.",
+    "pos": "v."
+  },
+  "discussion": {
+    "def": "討論、談論、論述",
+    "ipa": "/dɪˈskʌʃn/",
+    "trans": "discuss (動詞)",
+    "col": "under discussion, panel discussion",
+    "ex": "The matter is still under discussion.",
+    "pos": "n."
+  },
+  "disease": {
+    "def": "疾病、弊端",
+    "ipa": "/dɪˈziːz/",
+    "trans": "diseased",
+    "col": "infectious disease, heart disease",
+    "ex": "He is suffering from a rare heart disease.",
+    "pos": "n."
+  },
+  "disguise": {
+    "def": "偽裝、掩飾、假裝物、掩蔽、假裝、掩飾",
+    "ipa": "/dɪsˈɡaɪz/",
+    "trans": "disguised",
+    "col": "blessing in disguise, in disguise",
+    "ex": "He disguised himself as a policeman.",
+    "pos": "n./v."
+  },
+  "disgust": {
+    "def": "厭惡、反感、使厭惡、使反感",
+    "ipa": "/dɪsˈɡʌst/",
+    "trans": "disgusting, disgusted",
+    "col": "in disgust, to one's disgust",
+    "ex": "The smell of the old food filled him with disgust.",
+    "pos": "n./v."
+  },
+  "dishonest": {
+    "def": "不誠實的、欺詐的",
+    "ipa": "/dɪsˈɒnɪst/",
+    "trans": "honesty, dishonestly",
+    "col": "dishonest behavior",
+    "ex": "It's dishonest to lie about your age.",
+    "pos": "adj."
+  },
+  "dislike": {
+    "def": "不喜歡、厭惡、不喜愛、反感",
+    "ipa": "/dɪsˈlaɪk/",
+    "trans": "disliking",
+    "col": "take a dislike to",
+    "ex": "I dislike lazy people.",
+    "pos": "v./n."
+  },
+  "dismiss": {
+    "def": "解僱、開除、遣散、駁回",
+    "ipa": "/dɪsˈmɪs/",
+    "trans": "dismissal",
+    "col": "dismiss a case, dismiss from work",
+    "ex": "She was dismissed from her job for being late.",
+    "pos": "v."
+  },
+  "disorder": {
+    "def": "混亂、騷亂、不適、疾病、使混亂",
+    "ipa": "/dɪsˈɔːdə/",
+    "trans": "disordered",
+    "col": "mental disorder, in disorder",
+    "ex": "The room was in a state of complete disorder.",
+    "pos": "n./v."
+  },
+  "display": {
+    "def": "顯示、陳列、展示、螢幕、表現、誇示",
+    "ipa": "/dɪˈspleɪ/",
+    "trans": "displayed",
+    "col": "on display, computer display",
+    "ex": "The new products are on display in the window.",
+    "pos": "v./n."
+  },
+  "displease": {
+    "def": "使不快、使生氣",
+    "ipa": "/dɪsˈpliːz/",
+    "trans": "displeasure, displeased",
+    "col": "displease someone",
+    "ex": "The decision displeased many people.",
+    "pos": "v."
+  },
+  "disposal": {
+    "def": "處理、棄置、處置權",
+    "ipa": "/dɪˈspəʊzl/",
+    "trans": "dispose (動詞)",
+    "col": "waste disposal, at someone's disposal",
+    "ex": "The safe disposal of nuclear waste is a major problem.",
+    "pos": "n."
+  },
+  "dispose": {
+    "def": "處理、配置、使傾向於",
+    "ipa": "/dɪˈspəʊz/",
+    "trans": "disposal, disposable",
+    "col": "dispose of",
+    "ex": "Please dispose of your trash in the bins provided.",
+    "pos": "v."
+  },
+  "dispute": {
+    "def": "爭執、糾紛、爭論、質疑",
+    "ipa": "/dɪˈspjuːt/ (n.) /dɪˈspjuːt/ (v.)",
+    "trans": "disputable",
+    "col": "in dispute, beyond dispute",
+    "ex": "The two countries are in a bitter dispute over the border.",
+    "pos": "n./v."
+  },
+  "dissolve": {
+    "def": "溶解、融化、解散、終止",
+    "ipa": "/dɪˈzɒlv/",
+    "trans": "dissolution",
+    "col": "dissolve in water",
+    "ex": "Sugar dissolves in water.",
+    "pos": "v."
+  },
+  "distance": {
+    "def": "距離、遠處、疏遠、遠離",
+    "ipa": "/ˈdɪstəns/",
+    "trans": "distant",
+    "col": "in the distance, long distance",
+    "ex": "What's the distance between the two cities?",
+    "pos": "n./v."
+  },
+  "distant": {
+    "def": "遙遠的、冷淡的、疏遠的",
+    "ipa": "/ˈdɪstənt/",
+    "trans": "distance (名詞)",
+    "col": "distant future, distant mountain",
+    "ex": "In the distant future, people might live on Mars.",
+    "pos": "adj."
+  },
+  "distinct": {
+    "def": "明顯的、截然不同的",
+    "ipa": "/dɪˈstɪŋkt/",
+    "trans": "distinction, distinctly",
+    "col": "distinct possibility",
+    "ex": "There's a distinct possibility that it will rain.",
+    "pos": "adj."
+  },
+  "distinguish": {
+    "def": "區別、辨認、使傑出",
+    "ipa": "/dɪˈstɪŋɡwɪʃ/",
+    "trans": "distinguishable, distinguished",
+    "col": "distinguish A from B",
+    "ex": "It's difficult to distinguish between the two colors.",
+    "pos": "v."
+  },
+  "distinguished": {
+    "def": "卓越的、傑出的、高貴的",
+    "ipa": "/dɪˈstɪŋɡwɪʃt/",
+    "trans": "distinguish (動詞)",
+    "col": "distinguished guest",
+    "ex": "He is a distinguished scientist.",
+    "pos": "adj."
+  },
+  "distribute": {
+    "def": "分配、分發、分布",
+    "ipa": "/dɪˈstrɪbjuːt/",
+    "trans": "distribution, distributor",
+    "col": "distribute flyers",
+    "ex": "The food was distributed to the poor.",
+    "pos": "v."
+  },
+  "distribution": {
+    "def": "分配、發給、分布、銷售額",
+    "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+    "trans": "distribute (動詞)",
+    "col": "wealth distribution, normal distribution",
+    "ex": "The distribution of wealth is unequal.",
+    "pos": "n."
+  },
+  "district": {
+    "def": "地區、區域、行政區、把...分區",
+    "ipa": "/ˈdɪstrɪkt/",
+    "trans": "districts",
+    "col": "business district, voting district",
+    "ex": "He lives in the business district of the city.",
+    "pos": "n./v."
+  },
+  "disturb": {
+    "def": "打擾、擾亂、使不安",
+    "ipa": "/dɪˈstɜːb/",
+    "trans": "disturbance",
+    "col": "disturb the peace",
+    "ex": "Do not disturb me when I'm working.",
+    "pos": "v."
+  },
+  "ditch": {
+    "def": "溝渠、壕溝、在...開溝、拋棄、墜機",
+    "ipa": "/dɪtʃ/",
+    "trans": "ditched",
+    "col": "drainage ditch",
+    "ex": "The car went into a ditch.",
+    "pos": "n./v."
+  },
+  "dive": {
+    "def": "跳水、潛水、俯衝、跳水、潛水、低級酒吧",
+    "ipa": "/daɪv/",
+    "trans": "diver, diving",
+    "col": "scuba diving, sky diving",
+    "ex": "He likes to dive into the swimming pool.",
+    "pos": "v./n."
+  },
+  "divide": {
+    "def": "分開、劃分、除以、分歧、分水嶺",
+    "ipa": "/dɪˈvaɪd/",
+    "trans": "division, divisible",
+    "col": "divide into, divide and conquer",
+    "ex": "The cake was divided into eight pieces.",
+    "pos": "v./n."
+  },
+  "divine": {
+    "def": "神聖的、非凡的、牧師、占卜、預測",
+    "ipa": "/dɪˈvaɪn/",
+    "trans": "divinity, divinely",
+    "col": "divine intervention",
+    "ex": "The sunset was truly divine.",
+    "pos": "adj./n./v."
+  },
+  "division": {
+    "def": "分開、分配、部門、除法、分歧",
+    "ipa": "/dɪˈvɪʒn/",
+    "trans": "divide (動詞)",
+    "col": "division of labor, basic division",
+    "ex": "The company has four main divisions.",
+    "pos": "n."
+  },
+  "divorce": {
+    "def": "離婚、脫離、與...離婚、使脫離、離婚的",
+    "ipa": "/dɪˈvɔːs/",
+    "trans": "divorced",
+    "col": "get a divorce",
+    "ex": "They decided to get a divorce.",
+    "pos": "n./v./adj."
+  },
+  "dizzy": {
+    "def": "頭暈的、眼花繚亂的、使頭暈",
+    "ipa": "/ˈdɪzi/",
+    "trans": "dizziness",
+    "col": "feel dizzy",
+    "ex": "The smell of the paint made me feel dizzy.",
+    "pos": "adj./v."
+  },
+  "do": {
+    "def": "做、幹、進行、足夠、合適、聚會",
+    "ipa": "/duː/",
+    "trans": "did, done, doing",
+    "col": "do homework, do business, do one's best",
+    "ex": "What are you doing?",
+    "pos": "v./aux./n."
+  },
+  "dock": {
+    "def": "碼頭、船塢、被告席、靠碼頭、扣（工資）",
+    "ipa": "/dɒk/",
+    "trans": "docker",
+    "col": "dry dock",
+    "ex": "The ship is in the dock.",
+    "pos": "n./v."
+  },
+  "doctor/dr.": {
+    "def": "醫生、博士、授與博士學位、篡改",
+    "ipa": "/ˈdɒktə/",
+    "trans": "doctoral, doctorate",
+    "col": "go to the doctor, medical doctor",
+    "ex": "She is a doctor at the local hospital.",
+    "pos": "n./v."
+  },
+  "document": {
+    "def": "文件、文獻、紀錄片、記錄、證實",
+    "ipa": "/ˈdɒkjumənt/ (n.) /ˈdɒkjument/ (v.)",
+    "trans": "documentation, documentary",
+    "col": "legal document, original document",
+    "ex": "Please sign this document.",
+    "pos": "n./v."
+  },
+  "documentary": {
+    "def": "紀錄片、紀實的、文獻的",
+    "ipa": "/ˌdɒkjumˈentri/",
+    "trans": "document (名詞)",
+    "col": "TV documentary",
+    "ex": "I watched a documentary about lions last night.",
+    "pos": "n./adj."
+  },
+  "dog": {
+    "def": "狗、卑鄙小人、跟蹤、追捕",
+    "ipa": "/dɒɡ/",
+    "trans": "doggy, dogged",
+    "col": "pet dog, dog tired, hot dog",
+    "ex": "He is taking the dog for a walk.",
+    "pos": "n./v."
+  },
+  "doll": {
+    "def": "娃娃、漂亮的女子、打扮",
+    "ipa": "/dɒl/",
+    "trans": "dolly",
+    "col": "rag doll, baby doll",
+    "ex": "She used to play with dolls.",
+    "pos": "n./v."
+  },
+  "dollar": {
+    "def": "（貨幣單位）元、金錢",
+    "ipa": "/ˈdɒlə/",
+    "trans": "dollars",
+    "col": "US dollar, dollar sign",
+    "ex": "It costs ten dollars.",
+    "pos": "n."
+  },
+  "dolphin": {
+    "def": "海豚",
+    "ipa": "/ˈdɒlfɪn/",
+    "trans": "dolphins",
+    "col": "trained dolphin",
+    "ex": "Dolphins are very intelligent animals.",
+    "pos": "n."
+  },
+  "domestic": {
+    "def": "家庭的、國內的、馴養的、僕人",
+    "ipa": "/dəˈmestɪk/",
+    "trans": "domesticity",
+    "col": "domestic market, domestic flight, domestic violence",
+    "ex": "He enjoys domestic life.",
+    "pos": "adj./n."
+  },
+  "dominant": {
+    "def": "佔優勢的、支配的、顯性的",
+    "ipa": "/ˈdɒmɪnənt/",
+    "trans": "dominate (動詞), dominance",
+    "col": "dominant position",
+    "ex": "English is the dominant language in international business.",
+    "pos": "adj."
+  },
+  "dominate": {
+    "def": "支配、控制、在...中佔首要地位、俯瞰",
+    "ipa": "/ˈdɒmɪneɪt/",
+    "trans": "dominant, domination",
+    "col": "dominate the market",
+    "ex": "The tall building dominates the city skyline.",
+    "pos": "v."
+  },
+  "donkey": {
+    "def": "驢子、笨笨的人",
+    "ipa": "/ˈdɒŋki/",
+    "trans": "donkeys",
+    "col": "as stubborn as a donkey",
+    "ex": "The donkey was carrying a heavy load.",
+    "pos": "n."
+  },
+  "door": {
+    "def": "門、門戶",
+    "ipa": "/dɔː/",
+    "trans": "doorstep, doorway",
+    "col": "next door, outdoor, indoor",
+    "ex": "Please open the door.",
+    "pos": "n."
+  },
+  "dormitory/dorm": {
+    "def": "宿舍",
+    "ipa": "/ˈdɔːmɪtri/",
+    "trans": "dorms",
+    "col": "school dormitory",
+    "ex": "I live in a university dormitory.",
+    "pos": "n."
+  },
+  "dosage": {
+    "def": "劑量、用量",
+    "ipa": "/ˈdəʊsɪdʒ/",
+    "trans": "dose (名詞)",
+    "col": "correct dosage",
+    "ex": "The doctor will decide the dosage.",
+    "pos": "n."
+  },
+  "dose": {
+    "def": "一劑、一份、給...服藥、配藥",
+    "ipa": "/dəʊs/",
+    "trans": "dosage",
+    "col": "lethal dose, double dose",
+    "ex": "Take one dose of this medicine every four hours.",
+    "pos": "n./v."
+  },
+  "dot": {
+    "def": "點、小點、小圓點、加點於、散佈、打點",
+    "ipa": "/dɒt/",
+    "trans": "dotted, dotty",
+    "col": "polka dot, on the dot",
+    "ex": "He arrived at 10 o'clock on the dot.",
+    "pos": "n./v."
+  },
+  "double": {
+    "def": "兩倍的、雙重的、兩倍、使加倍、加倍地、雙人房間",
+    "ipa": "/ˈdʌbl/",
+    "trans": "doubly",
+    "col": "double room, double check, double standard",
+    "ex": "I'll take a double espresso.",
+    "pos": "adj./n./v./adv."
+  },
+  "doubt": {
+    "def": "懷疑、不確定、懷疑、不相信",
+    "ipa": "/daʊt/",
+    "trans": "doubtful, doubtless",
+    "col": "no doubt, in doubt, without doubt",
+    "ex": "There is no doubt that he's telling the truth.",
+    "pos": "n./v."
+  },
+  "doubtful": {
+    "def": "懷疑的、不確定的",
+    "ipa": "/ˈdaʊtfl/",
+    "trans": "doubt (名詞), doubtfully",
+    "col": "doubtful result",
+    "ex": "I'm doubtful whether he can finish the task.",
+    "pos": "adj."
+  },
+  "doughnut/donut": {
+    "def": "甜甜圈",
+    "ipa": "/ˈdəʊnʌt/",
+    "trans": "donuts",
+    "col": "chocolate doughnut",
+    "ex": "I had a coffee and a doughnut for breakfast.",
+    "pos": "n."
+  },
+  "down": {
+    "def": "向下、在下面、落下的、向下地、沿著...向下、羽毛、軟毛、擊倒、吞下",
+    "ipa": "/daʊn/",
+    "trans": "downward",
+    "col": "downstairs, sit down, get down",
+    "ex": "She sat down on the chair.",
+    "pos": "adv./prep./adj./n./v."
+  },
+  "downstairs": {
+    "def": "在樓下、向樓下、樓下的、樓下",
+    "ipa": "/ˌdaʊnˈsteəz/",
+    "trans": "upstairs",
+    "col": "be downstairs",
+    "ex": "He's waiting for you downstairs.",
+    "pos": "adv./adj./n."
+  },
+  "downward(s)": {
+    "def": "向下的、下降的、向下地",
+    "ipa": "/ˈdaʊnwəd/",
+    "trans": "upward",
+    "col": "downward trend",
+    "ex": "The path led downward to the valley.",
+    "pos": "adj./adv."
+  },
+  "dozen": {
+    "def": "一打、十二個",
+    "ipa": "/ˈdʌzn/",
+    "trans": "dozens",
+    "col": "a dozen eggs, by the dozen",
+    "ex": "I'd like a dozen red roses, please.",
+    "pos": "n."
+  },
+  "draft": {
+    "def": "草稿、草案、徵兵、通風、起草、徵兵、草稿的",
+    "ipa": "/drɑːft/",
+    "trans": "drafty, drafter",
+    "col": "rough draft, first draft",
+    "ex": "This is just a rough draft of the report.",
+    "pos": "n./v./adj."
+  },
+  "drag": {
+    "def": "拖、拉、緩慢移動、阻力、令人厭煩的人事物",
+    "ipa": "/dræɡ/",
+    "trans": "dragging",
+    "col": "drag and drop",
+    "ex": "He dragged the heavy suitcase across the floor.",
+    "pos": "v./n."
+  },
+  "dragon": {
+    "def": "龍、嚴厲的人",
+    "ipa": "/ˈdræɡən/",
+    "trans": "dragonfly",
+    "col": "dragon boat, year of the dragon",
+    "ex": "The knight fought a dragon.",
+    "pos": "n."
+  },
+  "drain": {
+    "def": "排水、耗盡、排水管、消耗、排水",
+    "ipa": "/dreɪn/",
+    "trans": "drainage",
+    "col": "brain drain, down the drain",
+    "ex": "The water drained away slowly.",
+    "pos": "v./n."
+  },
+  "drama": {
+    "def": "戲劇、戲劇性、戲劇文學",
+    "ipa": "/ˈdrɑːmə/",
+    "trans": "dramatic, dramatist",
+    "col": "TV drama, modern drama",
+    "ex": "She is studying drama at college.",
+    "pos": "n."
+  },
+  "dramatic": {
+    "def": "戲劇性的、引人注目的",
+    "ipa": "/drəˈmætɪk/",
+    "trans": "drama (名詞), dramatically",
+    "col": "dramatic change, dramatic result",
+    "ex": "The results of the election were dramatic.",
+    "pos": "adj."
+  },
+  "drawer": {
+    "def": "抽屜、繪製者",
+    "ipa": "/drɔː/",
+    "trans": "drawers",
+    "col": "top drawer",
+    "ex": "The keys are in the desk drawer.",
+    "pos": "n."
+  },
+  "drawing": {
+    "def": "圖畫、製圖、抽籤",
+    "ipa": "/ˈdrɔːɪŋ/",
+    "trans": "draw (動詞)",
+    "col": "pencil drawing, drawing board",
+    "ex": "That's a beautiful drawing of a cat.",
+    "pos": "n."
+  },
+  "dread": {
+    "def": "恐懼、害怕、恐懼、可怕的",
+    "ipa": "/dred/",
+    "trans": "dreadful",
+    "col": "dread doing",
+    "ex": "I dread having to tells her the news.",
+    "pos": "v./n./adj."
+  },
+  "dreadful": {
+    "def": "可怕的、極糟的",
+    "ipa": "/ˈdredfl/",
+    "trans": "dread (動詞), dreadfully",
+    "col": "dreadful weather",
+    "ex": "We had some dreadful weather last week.",
+    "pos": "adj."
+  },
+  "dream": {
+    "def": "夢、夢想、做夢、想像、夢見",
+    "ipa": "/driːm/",
+    "trans": "dreamy, dreamer",
+    "col": "sweet dreams, bad dream, follow your dream",
+    "ex": "What was your dream last night?",
+    "pos": "n./v."
+  },
+  "dress": {
+    "def": "連衣裙、服裝、穿衣、裝飾、穿著打扮的",
+    "ipa": "/dres/",
+    "trans": "dresser, dressing",
+    "col": "get dressed, evening dress, dress up",
+    "ex": "She was wearing a beautiful red dress.",
+    "pos": "n./v./adj."
+  },
+  "dresser": {
+    "def": "衣櫃、梳妝台、穿衣者",
+    "ipa": "/ˈdresə/",
+    "trans": "dress (動詞)",
+    "col": "kitchen dresser",
+    "ex": "I put my socks in the top drawer of the dresser.",
+    "pos": "n."
+  },
+  "dressing": {
+    "def": "穿衣、調味醬、敷料",
+    "ipa": "/ˈdresɪŋ/",
+    "trans": "dress (動詞)",
+    "col": "salad dressing",
+    "ex": "I like French dressing on my salad.",
+    "pos": "n."
+  },
+  "drift": {
+    "def": "漂流、趨勢、大意、漂流、堆積",
+    "ipa": "/drɪft/",
+    "trans": "drifter",
+    "col": "drift apart, snow drift",
+    "ex": "The boat drifted slowly out to sea.",
+    "pos": "n./v."
+  },
+  "drill": {
+    "def": "鑽、鑽頭、操練、鑽孔、操練",
+    "ipa": "/drɪl/",
+    "trans": "drilling",
+    "col": "fire drill, electric drill",
+    "ex": "He used a drill to make a hole in the wall.",
+    "pos": "n./v."
+  },
+  "drink": {
+    "def": "喝、飲水、飲料、酒、喝",
+    "ipa": "/drɪŋk/",
+    "trans": "drinker, drinking",
+    "col": "soft drink, drink to",
+    "ex": "What would you like to drink?",
+    "pos": "v./n."
+  },
+  "drip": {
+    "def": "滴、滴下、滴水聲",
+    "ipa": "/drɪp/",
+    "trans": "dripping",
+    "col": "drip dry",
+    "ex": "Water was dripping from the ceiling.",
+    "pos": "v./n."
+  },
+  "drive": {
+    "def": "駕駛、驅動、推動、駕駛路程、幹勁",
+    "ipa": "/draɪv/",
+    "trans": "driver, driven",
+    "col": "drive someone mad, test drive",
+    "ex": "He is learning to drive a car.",
+    "pos": "v./n."
+  },
+  "driver": {
+    "def": "駕駛員、司機、驅動程序",
+    "ipa": "/ˈdraɪvə/",
+    "trans": "drive (動詞)",
+    "col": "bus driver, device driver",
+    "ex": "The driver of the bus was very kind.",
+    "pos": "n."
+  },
+  "driveway": {
+    "def": "（私人房屋前的）車道",
+    "ipa": "/ˈdraɪvweɪ/",
+    "trans": "driveways",
+    "col": "park in the driveway",
+    "ex": "He parked his car in the driveway.",
+    "pos": "n."
+  },
+  "drizzle": {
+    "def": "毛毛雨、下毛毛雨",
+    "ipa": "/ˈdrɪzl/",
+    "trans": "drizzling",
+    "col": "steady drizzle",
+    "ex": "It was starting to drizzle.",
+    "pos": "n./v."
+  },
+  "drop": {
+    "def": "掉下、下降、滴、滴劑、微量",
+    "ipa": "/drɒp/",
+    "trans": "droplet",
+    "col": "drop out, eye drops, rainfall drop",
+    "ex": "Don't drop that glass; it will break.",
+    "pos": "v./n."
+  },
+  "drought": {
+    "def": "乾旱、旱災",
+    "ipa": "/draʊt/",
+    "trans": "droughty",
+    "col": "suffer from drought",
+    "ex": "The crops died during the long drought.",
+    "pos": "n."
+  },
+  "drown": {
+    "def": "淹死、淹沒",
+    "ipa": "/draʊn/",
+    "trans": "drowning",
+    "col": "drown out",
+    "ex": "He fell into the river and drowned.",
+    "pos": "v."
+  },
+  "drowsy": {
+    "def": "昏昏欲睡的、催眠的",
+    "ipa": "/ˈdraʊzi/",
+    "trans": "drowsily, drowsiness",
+    "col": "feel drowsy",
+    "ex": "The medicine made her feel drowsy.",
+    "pos": "adj."
+  },
+  "drug": {
+    "def": "藥物、毒品、給...服藥、吸毒",
+    "ipa": "/drʌɡ/",
+    "trans": "druggist, druggy",
+    "col": "pharmaceutical drug, illegal drug",
+    "ex": "He is on some new drugs for his heart condition.",
+    "pos": "n./v."
+  },
+  "drugstore": {
+    "def": "藥妝店",
+    "ipa": "/ˈdrʌɡstɔː/",
+    "trans": "chemist, pharmacy",
+    "col": "at the drugstore",
+    "ex": "I need to buy some toothpaste at the drugstore.",
+    "pos": "n."
+  },
+  "drum": {
+    "def": "鼓、圓桶狀物、敲鼓、連續擊打",
+    "ipa": "/drʌm/",
+    "trans": "drummer, drumming",
+    "col": "play the drums, oil drum",
+    "ex": "He is learning to play the drums.",
+    "pos": "n./v."
+  },
+  "drummer": {
+    "def": "鼓手",
+    "ipa": "/ˈdrʌmə/",
+    "trans": "drum (動詞)",
+    "col": "rock drummer",
+    "ex": "He is a famous rock drummer.",
+    "pos": "n."
+  },
+  "drunk": {
+    "def": "喝醉的、醉漢、喝（過往分詞）",
+    "ipa": "/drʌŋk/",
+    "trans": "drunken",
+    "col": "get drunk, drunk driving",
+    "ex": "He was too drunk to drive.",
+    "pos": "adj./n./v."
+  },
+  "dry": {
+    "def": "乾的、乾燥的、乾旱的、弄乾、變乾",
+    "ipa": "/draɪ/",
+    "trans": "dryness, dryer",
+    "col": "dry cleaning, dry ice, keep dry",
+    "ex": "The weather has been very dry lately.",
+    "pos": "adj./v."
+  },
+  "dryer": {
+    "def": "烘乾機、乾燥劑",
+    "ipa": "/ˈdraɪə/",
+    "trans": "dry (形容詞)",
+    "col": "hair dryer, clothes dryer",
+    "ex": "I put my wet clothes in the dryer.",
+    "pos": "n."
+  },
+  "duck": {
+    "def": "鴨子、鴨肉、躲避、閃避",
+    "ipa": "/dʌk/",
+    "trans": "duckling",
+    "col": "roast duck, sitting duck",
+    "ex": "We saw some ducks on the pond.",
+    "pos": "n./v."
+  },
+  "due": {
+    "def": "應付的、到期的、由於、應得物",
+    "ipa": "/djuː/",
+    "trans": "duly",
+    "col": "due to, in due course, with all due respect",
+    "ex": "The assignment is due tomorrow.",
+    "pos": "adj./n./adv./prep."
+  },
+  "dull": {
+    "def": "乏味的、遲鈍的、暗淡的、使遲鈍、變遲鈍",
+    "ipa": "/dʌl/",
+    "trans": "dully, dullness",
+    "col": "dull pain, dull moment",
+    "ex": "The film was very dull.",
+    "pos": "adj./v."
+  },
+  "dumb": {
+    "def": "啞的、笨的、使沈默",
+    "ipa": "/dʌm/",
+    "trans": "dumbness",
+    "col": "dumb luck, play dumb",
+    "ex": "He was struck dumb with amazement.",
+    "pos": "adj./v."
+  },
+  "dump": {
+    "def": "丟棄、傾銷、垃圾場、丟棄、傾印",
+    "ipa": "/dʌmp/",
+    "trans": "dumping",
+    "col": "garbage dump, dump site",
+    "ex": "They dumped their old furniture in the street.",
+    "pos": "v./n."
+  },
+  "durable": {
+    "def": "耐用的、持久的、耐用品",
+    "ipa": "/ˈdjʊərəbl/",
+    "trans": "durability",
+    "col": "durable goods",
+    "ex": "This fabric is very durable.",
+    "pos": "adj./n."
+  },
+  "duration": {
+    "def": "持續時間",
+    "ipa": "/djuˈreɪʃn/",
+    "trans": "dure",
+    "col": "for the duration of",
+    "ex": "The course has a duration of three years.",
+    "pos": "n."
+  },
+  "during": {
+    "def": "在...期間",
+    "ipa": "/ˈdjʊərɪŋ/",
+    "trans": "durance",
+    "col": "during the day",
+    "ex": "I slept during the movie.",
+    "pos": "prep."
+  },
+  "dust": {
+    "def": "灰塵、塵土、撒粉、除塵、變成灰塵",
+    "ipa": "/dʌst/",
+    "trans": "dusty, duster",
+    "col": "stardust, dust off",
+    "ex": "The furniture was covered in dust.",
+    "pos": "n./v."
+  }
+}

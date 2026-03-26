@@ -1,0 +1,17 @@
+{
+  "half-": {"def": "半的人的人人物 (單數) (半)", "ipa": "/hɑːf-/", "trans": "part", "col": "halfway, halfhearted", "ex": "Halfway through the_book now.", "pos": "pref./n./adj."},
+  "half-back": {"def": "(體)前衛、中場球員人物 (單數) (員)", "ipa": "/ˈhɑːfbæk/", "trans": "part", "col": "left half-back", "ex": "He is a strong half-back player.", "pos": "n."},
+  "half-hearted/cold": {"def": "不熱心的、敷衍地的人的人物 (單數) (冷)", "ipa": "/ˌhɑːfˈhɑːtɪd/", "trans": "half-", "col": "half-hearted attempt", "ex": "He made a half-hearted apology.", "pos": "adj./n."},
+  "half-heart-ed-ly/cold-": {"def": "不熱心地、敷衍地", "ipa": "/ˌhɑːfˈhɑːtɪdli/", "trans": "half-hearted", "col": "worked half-heart-ed-ly", "ex": "He worked so at the_task.", "pos": "adv."},
+  "half-life/time": {"def": "(物)半衰期、(喻)生命力人物 (單數) (期)", "ipa": "/ˈhɑːf laɪf/", "trans": "part", "col": "radioactive half-life", "ex": "The_half-life of carbon-14 is long.", "pos": "n."},
+  "half-mast": {"def": "半旗的人物 (單數) (旗)", "ipa": "/ˌhɑːf ˈmɑːst/", "trans": "part", "col": "flag at half-mast", "ex": "Flying flags at half-mast today.", "pos": "n./adj./adv."},
+  "half-penny": {"def": "(舊)半便士硬幣人物 (單數) (幣)", "ipa": "/ˈheɪpni/", "trans": "part", "col": "worth a half-penny", "ex": "Not worth a half-penny, alas.", "pos": "n."},
+  "half-tone/color": {"def": "(藝)中間色、(印)網目版人物、(音)半音人物 (單數) (色/音)", "ipa": "/ˈhɑːftəʊn/", "trans": "part", "col": "half-tone illustration", "ex": "A book with half-tone pictures.", "pos": "n./adj."},
+  "half-way/part": {"def": "中途的、部分的、(喻)妥協地的人的人物、在中途地、不完全地的人的人物 (單數) (中/妥)", "ipa": "/ˌhɑːfˈweɪ/", "trans": "half-", "col": "half-way house (康復之家), meet half-way", "ex": "We are half-way through the_trip.", "pos": "adj./adv./n."},
+  "half-witted/foolish": {"def": "愚蠢的、有智力缺陷地的人的人物 (單數) (愚)", "ipa": "/ˌhɑːfˈwɪtɪd/", "trans": "part", "col": "half-witted idea", "ex": "That was a half-witted suggestion.", "pos": "adj./n."},
+  "halibut/fish": {"def": "(動)大比目魚人物 (單數) (魚)", "ipa": "/ˈhælɪbət/", "trans": "animal", "col": "grilled halibut", "ex": "Eating a large piece of halibut.", "pos": "n."},
+  "halitosis/bad": {"def": "(醫)口臭、呼吸惡臭人物 (單數) (臭)", "ipa": "/ˌhælɪˈtəʊsɪs/", "trans": "bad", "col": "suffer from halitosis", "ex": "Bad halitosis can be social problem.", "pos": "n."},
+  "hall/place/church": {"def": "大廳、禮堂、(專)會館人物、校舍人物 (單數) (廳/堂/校)", "ipa": "/hɔːl/", "trans": "place", "col": "town hall, dining hall, hall of fame, concert hall", "ex": "Meeting in the_main town hall.", "pos": "n./adj."},
+  "hall-": {"def": "廳的人的人人物 (單數) (廳)", "ipa": "/hɔːl-/", "trans": "place", "col": "hallway", "ex": "Walking down the_long hallway.", "pos": "pref./n./adj."},
+  "hall-mark/mark/stamp": {"def": "(銀/金)純度標記、(喻)標誌人物、高品質證明地的人的人物、蓋章、(喻)標記為的人的人人物 (單數) (標/誌/證)", "ipa": "/ˈhɔːlmɑːk/", "trans": "hall", "col": "hall-mark of excellence", "ex": "Honesty is the_hall-mark of his career.", "pos": "n./v./adj."},
+}

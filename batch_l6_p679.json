@@ -1,0 +1,14 @@
+{
+  "equivalence/equivalency": {"def": "等價、等效、相等的人物 (單數) (等)", "ipa": "/ɪˈkwɪvələns/", "trans": "equal", "col": "moral equivalence, logical equivalence", "ex": "The_equivalence of two methods.", "pos": "n."},
+  "equivalent": {"def": "相等的、等價的人物、等價物的人的人人物 (單數) (等)", "ipa": "/ɪˈkwɪvələnt/", "trans": "same", "col": "equivalent to, cash equivalent, chemical equivalent", "ex": "Ten dollars is equivalent to it.", "pos": "adj./n./adv."},
+  "equivalently/equivalently": {"def": "相等地、同等地", "ipa": "/ɪˈkwɪvələntli/", "trans": "equivalent", "col": "stated equivalently", "ex": "Can be stated so today.", "pos": "adv."},
+  "equivoc-": {"def": "含糊的人的人人物 (單數) (糊)", "ipa": "/ɪˈkwɪvək-/", "trans": "not", "col": "equivocal", "ex": "His answer was equivocal.", "pos": "pref./n./adj."},
+  "equivocal": {"def": "含糊的、不確定的、可疑地的人的人物 (單數) (糊)", "ipa": "/ɪˈkwɪvəkl/", "trans": "not", "col": "equivocal results, equivocal answer", "ex": "He gave an equivocal answer.", "pos": "adj./n."},
+  "equivocally": {"def": "含糊地、不確定地", "ipa": "/ɪˈkwɪvəkli/", "trans": "equivocal", "col": "spoke equivocally", "ex": "He spoke so at the_meeting.", "pos": "adv."},
+  "equivocate": {"def": "含糊其辭、說模棱兩可的話的人的人", "ipa": "/ɪˈkwɪvəkeɪt/", "trans": "say", "col": "stop to equivocate", "ex": "Don't equivocate with me now.", "pos": "v./n./adv."},
+  "equivocat-ion/equivocation": {"def": "含糊其辭、模棱兩可的話人物 (單數) (糊)", "ipa": "/ɪˌkwɪvəˈkeɪʃn/", "trans": "equivocate", "col": "without equivocation", "ex": "He said yes without equivocation.", "pos": "n."},
+  "equivocator/equivocator": {"def": "說含糊話的人人物 (單數) (員)", "ipa": "/ɪˈkwɪvəkeɪtə/", "trans": "equivocate", "col": "skillful equivocator", "ex": "He is a skillful equivocator.", "pos": "n."},
+  "equity/equiti-": {"def": "公平的人的人人物 (單數) (平)", "ipa": "/ˈekwɪti-/", "trans": "equal", "col": "equitable", "ex": "An equitable solution now.", "pos": "pref./n./adj."},
+  "er-": {"def": "錯誤的人的人人物 (單數) (錯)", "ipa": "/ˈɜː-/", "trans": "bad", "col": "error", "ex": "Human error is common.", "pos": "pref./n./adj."},
+  "era": {"def": "紀元、時代、階段、(體)自責分率人物 (單數) (代)", "ipa": "/ˈɪərə/", "trans": "long", "col": "christian era, modern era, era of peace, golden era", "ex": "The_modern era of technology.", "pos": "n."},
+}

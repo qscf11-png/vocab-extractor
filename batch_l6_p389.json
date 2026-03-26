@@ -1,0 +1,13 @@
+{
+  "displeased": {"def": "不快的、生氣的人的人 (或物) (氣)", "ipa": "/dɪsˈpliːzd/", "trans": "angry", "col": "displeased with", "ex": "She was very displeased with him.", "pos": "adj./v."},
+  "displeasing": {"def": "令人不快的、討厭的人 (或物) (厭)", "ipa": "/dɪsˈpliːzɪŋ/", "trans": "bad", "col": "displeasing news", "ex": "It was a very displeasing event.", "pos": "adj./n./adv."},
+  "displeasingly": {"def": "令人不快地、討厭地", "ipa": "/dɪsˈpliːzɪŋli/", "trans": "displeasing", "col": "looked displeasingly", "ex": "He looked displeasingly at us.", "pos": "adv."},
+  "displeasure": {"def": "不快、生氣、厭煩人物 (單數) (氣)", "ipa": "/dɪsˈpleʒə/", "trans": "anger", "col": "show displeasure, incurred his displeasure", "ex": "He showed his great displeasure.", "pos": "n."},
+  "disposable": {"def": "一次性的、可動用的、拋棄式的人的人物 (單數) (用)", "ipa": "/dɪˈspəʊzəbl/", "trans": "throwaway", "col": "disposable income, disposable camera, disposable diaper", "ex": "Check your disposable income.", "pos": "adj./n."},
+  "disposal": {"def": "處置、處理、佈置、支配人物 (單數) (處)", "ipa": "/dɪˈspəʊzl/", "trans": "dispose", "col": "at your disposal, waste disposal, bomb disposal", "ex": "The_car is at your disposal.", "pos": "n."},
+  "dispose": {"def": "處置、處理、配置、使傾向於的人的人", "ipa": "/dɪˈspəʊz/", "trans": "disposal", "col": "dispose of (處理), dispose to", "ex": "Dispose of local waste carefully.", "pos": "v./n./adv."},
+  "disposed": {"def": "證願的、有傾向的人的人 (或物) (願)", "ipa": "/dɪˈspəʊzd/", "trans": "dispose", "col": "well disposed to, feel disposed to", "ex": "I am not disposed to help him.", "pos": "adj./v."},
+  "disposer": {"def": "處置者、處理器人物 (單數) (器)", "ipa": "/dɪˈspəʊzə/", "trans": "dispose", "col": "garbage disposer", "ex": "Use the_garbage disposer now.", "pos": "n."},
+  "disposition": {"def": "性情、傾向、配置、處置權人物 (單數) (性/處)", "ipa": "/ˌdɪspəˈzɪʃn/", "trans": "nature", "col": "sunny disposition, show disposition", "ex": "She has a very sunny disposition.", "pos": "n."},
+  "dispossess": {"def": "剝奪、奪取、使失去(財產)的人的人", "ipa": "/ˌdɪspəˈzes/", "trans": "take", "col": "dispossess owners", "ex": "They want to dispossess the_land.", "pos": "v./n./adv."},
+}

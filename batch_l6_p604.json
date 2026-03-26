@@ -1,0 +1,18 @@
+{
+  "encouraged": {"def": "深受鼓舞的、被鼓勵地的人的人 (或物) (舞)", "ipa": "/ɪnˈkʌrɪdʒd/", "trans": "encourage", "col": "feel encouraged", "ex": "He felt encouraged by news.", "pos": "adj./v."},
+  "encouragement/encouragement": {"def": "鼓勵、鼓舞、激勵、促使人物 (單數) (舞)", "ipa": "/ɪnˈkʌrɪdʒmənt/", "trans": "encourage", "col": "give encouragement, need encouragement", "ex": "He needs some encouragement.", "pos": "n."},
+  "encouraging": {"def": "令人鼓舞的、有希望的人 (或物) (舞)", "ipa": "/ɪnˈkʌrɪdʒɪŋ/", "trans": "encourage", "col": "encouraging news", "ex": "The_results are encouraging.", "pos": "adj./v./n."},
+  "encouragingly": {"def": "令人鼓舞地、鼓勵地", "ipa": "/ɪnˈkʌrɪdʒɪŋli/", "trans": "encouraging", "col": "smiled encouragingly", "ex": "She smiled encouragingly.", "pos": "adv."},
+  "encrinit-": {"def": "海百合的人的人人物 (單數) (海)", "ipa": "/ɪnˈkrɪnɪt-/", "trans": "stone", "col": "encrinite", "ex": "Finding encrinite fossils.", "pos": "pref./n./adj."},
+  "encroach": {"def": "蠶食、侵占、超出限制的人的人", "ipa": "/ɪnˈkrəʊtʃ/", "trans": "invade", "col": "encroach on, encroach upon", "ex": "Don't encroach on my land.", "pos": "v./n./adv."},
+  "encroachment/encroachment": {"def": "侵入、侵占、蠶食、侵蝕人物 (單數) (侵)", "ipa": "/ɪnˈkrəʊtʃmənt/", "trans": "encroach", "col": "gradual encroachment", "ex": "The_gradual encroachment of sea.", "pos": "n."},
+  "encrust/incrust": {"def": "使成殼、包以硬殼的人的人", "ipa": "/ɪnˈkrʌst/", "trans": "cover", "col": "encrust with", "ex": "The_ring was encrust with gems.", "pos": "v./n./adv."},
+  "encrust-ed/encrusted": {"def": "外殼的、鑲嵌地的人的人 (或物) (殼)", "ipa": "/ɪnˈkrʌstɪd/", "trans": "encrust", "col": "jewel encrusted", "ex": "An old jewel encrusted cup.", "pos": "adj./v."},
+  "encrustation/incrustation": {"def": "硬殼、鑲嵌物、結殼人物 (單數) (殼)", "ipa": "/ˌɪnkrʌˈsteɪʃn/", "trans": "encrust", "col": "salt encrustation", "ex": "A thick encrustation of salt.", "pos": "n."},
+  "encumber": {"def": "妨礙、負擔、阻塞的人的人", "ipa": "/ɪnˈkʌmbə/", "trans": "block", "col": "encumber with debt", "ex": "Don't encumber me with bags.", "pos": "v./n./adv."},
+  "encumbered/encumbering": {"def": "受妨礙的、有負擔地的人的人 (或物) (礙)", "ipa": "/ɪnˈkʌmbəd/", "trans": "encumber", "col": "encumbered by debt", "ex": "The_firm is encumbered by debt.", "pos": "adj./v."},
+  "encumbran-ce/encumbrance": {"def": "障礙、負擔、累贅人物 (單數) (擔)", "ipa": "/ɪnˈkʌmbrəns/", "trans": "encumber", "col": "social encumbrance", "ex": "Children are not an encumbrance.", "pos": "n."},
+  "encyclic/encyclical": {"def": "教宗通諭、教皇書簡的人物 (單數) (諭)", "ipa": "/ɪnˈsɪklɪkl/", "trans": "church", "col": "papal encyclical", "ex": "Read the_papal encyclical now.", "pos": "n./adj."},
+  "encyclopedia/encyclopaedia": {"def": "百科全書人物 (單數) (書)", "ipa": "/ɪnˌsaɪkləˈpɪːdiə/", "trans": "book", "col": "online encyclopedia, garden encyclopedia", "ex": "Check the_online encyclopedia.", "pos": "n."},
+  "encycloped-ic/encyclopaedic": {"def": "百科全書的、知識博大的人的人物 (單數) (博)", "ipa": "/ɪnˌsaɪkləˈpɪːdɪk/", "trans": "encyclopedia", "col": "encyclopedic knowledge", "ex": "He has an encyclopedic mind.", "pos": "adj./n."},
+}

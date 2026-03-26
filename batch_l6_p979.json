@@ -1,0 +1,16 @@
+{
+  "forest/wood": {"def": "森林、(喻)密集的物人物、植樹於的人的人人物 (單數) (森)", "ipa": "/ˈfɒrɪst/", "trans": "tree", "col": "rain forest, tropical forest, forest fire, pine forest", "ex": "Walking through the_deep forest.", "pos": "n./v./adj."},
+  "forest-": {"def": "森、林的人的人人物 (單數) (森)", "ipa": "/ˈfɒrɪst-/", "trans": "tree", "col": "forestry", "ex": "In the_forestry department.", "pos": "pref./n./adj."},
+  "fore-stall/prevent": {"def": "先發制人、預先阻止的人的人", "ipa": "/fɔːˈstɔːl/", "trans": "head", "col": "fore-stall his move", "ex": "They moved to fore-stall opposition.", "pos": "v./n."},
+  "fore-stall-ment/prevention": {"def": "先發制人、預防、壟斷人物 (單數) (防)", "ipa": "/fɔːˈstɔːlmənt/", "trans": "fore-stall", "col": "market fore-stall-ment", "ex": "Prevent market fore-stall-ment.", "pos": "n."},
+  "forester/ranger": {"def": "林務員、森林居民人物 (單數) (員)", "ipa": "/ˈfɒrɪstə/", "trans": "forest", "col": "local forester", "ex": "The_forester knows the_woods.", "pos": "n."},
+  "forestry": {"def": "林業、森林學人物 (單數) (林)", "ipa": "/ˈfɒrɪstri/", "trans": "forest", "col": "forestry industry, forestry management", "ex": "He studied forestry in college.", "pos": "n."},
+  "for-e-t_aste/sample": {"def": "預見、先試的人的人人物 (單數) (試/先)", "ipa": "/ˈfɔːteɪst/", "trans": "head", "col": "for-e-t_aste of summer", "ex": "The_warm day was for-e-t_aste of summer.", "pos": "n./v."},
+  "for-e-t_ell/predict": {"def": "預言、預告的人的人 (預)", "ipa": "/fɔːˈtel/", "trans": "head", "col": "for-e-t_ell future", "ex": "Who can for-e-t_ell what happens?", "pos": "v./n."},
+  "for-e-t_hought/planning": {"def": "預想、深謀遠慮、預先考慮人物 (單數) (慮)", "ipa": "/ˈfɔːθɔːt/", "trans": "head", "col": "wisdom and for-e-t_hought", "ex": "With a bit of for-e-t_hought.", "pos": "n."},
+  "for-e-t_oken/omen": {"def": "預兆、徵兆人物、預示的人的人人物 (單數) (兆)", "ipa": "/ˈfɔːtəʊkən/", "trans": "head", "col": "bad for-e-t_oken", "ex": "A for-e-t_oken of things to come.", "pos": "n./v."},
+  "forever/eternally": {"def": "永遠、長久地", "ipa": "/fərˈevə/", "trans": "for", "col": "forever and ever, lost forever, forever young", "ex": "I will love you forever.", "pos": "adv./n./adj."},
+  "for-e-w_arn/alert": {"def": "預先警告、告誡的人的人", "ipa": "/fɔːˈwɔːn/", "trans": "head", "col": "for-e-w_arned is forearmed (有備無患)", "ex": "I must for-e-w_arn you of risks.", "pos": "v./n."},
+  "for-e-w_arning/caution": {"def": "預告、先誡、警告地的人的人 (或物) (誡)", "ipa": "/fɔːˈwɔːnɪŋ/", "trans": "for-e-w_arn", "col": "early for-e-w_arning", "ex": "He gave us a for-e-w_arning today.", "pos": "n./adj."},
+  "for-e-w_ord/preface": {"def": "前言、序言人物 (單數) (序)", "ipa": "/ˈfɔːwɜːd/", "trans": "head", "col": "write a for-e-w_ord", "ex": "Check the_for-e-w_ord of book.", "pos": "n."},
+}

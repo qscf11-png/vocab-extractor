@@ -1,0 +1,677 @@
+{
+  "hands": {
+    "def": "手、指針、給予",
+    "ipa": "/hændz/",
+    "trans": "hand",
+    "col": "wash hands",
+    "ex": "He held my hands."
+  },
+  "handsome": {
+    "def": "英俊的、大方的",
+    "ipa": "/ˈhænsəm/",
+    "trans": "handsomely",
+    "col": "handsome man",
+    "ex": "He is a very handsome young man."
+  },
+  "handwriting": {
+    "def": "筆跡、書寫",
+    "ipa": "/ˈhændraɪtɪŋ/",
+    "trans": "handwrite",
+    "col": "neat handwriting",
+    "ex": "Her handwriting is very clear."
+  },
+  "handy": {
+    "def": "便利的、手邊的、手巧的",
+    "ipa": "/ˈhændi/",
+    "trans": "handier",
+    "col": "come in handy",
+    "ex": "This tool will come in handy."
+  },
+  "hang": {
+    "def": "掛、吊、處絞刑",
+    "ipa": "/hæŋ/",
+    "trans": "hung, hung, hanger (衣架)",
+    "col": "hang up, hang out",
+    "ex": "Hang your coat on the hook."
+  },
+  "happen": {
+    "def": "發生",
+    "ipa": "/ˈhæpən/",
+    "trans": "happened, happening",
+    "col": "happen to do",
+    "ex": "What happened to you?"
+  },
+  "happily": {
+    "def": "/ˈhæpɪli/",
+    "trans": "happy (形容詞)",
+    "col": "live happily ever after",
+    "ex": "They lived happily ever after."
+  },
+  "happiness": {
+    "def": "快樂、幸福",
+    "ipa": "/ˈhæpɪnəs/",
+    "trans": "happy (形容詞)",
+    "col": "pursuit of happiness",
+    "ex": "Money can't buy happiness."
+  },
+  "happy": {
+    "def": "快樂的、幸運的",
+    "ipa": "/ˈhæpi/",
+    "trans": "happier, happiest",
+    "col": "happy birthday, happy ending",
+    "ex": "I'm so happy today."
+  },
+  "harbor/harbour": {
+    "def": "港口、避風港、心懷(惡念)",
+    "ipa": "/ˈhɑːbə/",
+    "trans": "harbored",
+    "col": "safe harbor",
+    "ex": "The ship is in the harbor."
+  },
+  "hard": {
+    "def": "硬的、困難的、努力地",
+    "ipa": "/hɑːd/",
+    "trans": "harder, hardest, hardship (艱辛)",
+    "col": "hard work, hard luck",
+    "ex": "He works very hard."
+  },
+  "harden": {
+    "def": "變硬、變冷酷",
+    "ipa": "/ˈhɑːdn/",
+    "trans": "hardened",
+    "col": "harden one's heart",
+    "ex": "The mud soon hardened in the sun."
+  },
+  "hardly": {
+    "def": "幾乎不",
+    "ipa": "/ˈhɑːdli/",
+    "trans": "hard (形容詞)",
+    "col": "hardly ever",
+    "ex": "I hardly know him."
+  },
+  "hardship": {
+    "def": "艱困、磨難",
+    "ipa": "/ˈhɑːdʃɪp/",
+    "trans": "hardships",
+    "col": "endure hardship",
+    "ex": "They had to endure many hardships."
+  },
+  "hardware": {
+    "def": "五金器具、硬體",
+    "ipa": "/ˈhɑːdweə/",
+    "trans": "無 (不可數)",
+    "col": "hardware store, computer hardware",
+    "ex": "I bought some nails at the hardware store."
+  },
+  "hardworking": {
+    "def": "努力工作的",
+    "ipa": "/ˌhɑːdˈwɜːkɪŋ/",
+    "trans": "無",
+    "col": "hardworking student",
+    "ex": "He is a very hardworking student."
+  },
+  "hare": {
+    "def": "野兔",
+    "ipa": "/heə/",
+    "trans": "hares",
+    "col": "tortoise and hare",
+    "ex": "The hare runs very fast."
+  },
+  "harm": {
+    "def": "傷害、損害",
+    "ipa": "/hɑːm/",
+    "trans": "harmful (有害的), harmless (無害的)",
+    "col": "do harm to",
+    "ex": "Smoking will do more harm than good."
+  },
+  "harmful": {
+    "def": "有害的",
+    "ipa": "/ˈhɑːmfl/",
+    "trans": "harmfully",
+    "col": "harmful effect",
+    "ex": "Too much sun is harmful to the skin."
+  },
+  "harmless": {
+    "def": "無害的",
+    "ipa": "/ˈhɑːmləs/",
+    "trans": "harmlessly",
+    "col": "harmless prank",
+    "ex": "The snake is quite harmless."
+  },
+  "harmony": {
+    "def": "和諧、和聲",
+    "ipa": "/ˈhɑːməni/",
+    "trans": "harmonious (和諧的)",
+    "col": "in harmony with",
+    "ex": "We should live in harmony with nature."
+  },
+  "harness": {
+    "def": "馬具、治理、利用",
+    "ipa": "/ˈhɑːnɪs/",
+    "trans": "harnessed",
+    "col": "harness energy",
+    "ex": "They are trying to harness water power."
+  },
+  "harsh": {
+    "def": "嚴酷的、粗糙的、刺耳的",
+    "ipa": "/hɑːʃ/",
+    "trans": "harshly",
+    "col": "harsh reality, harsh climate",
+    "ex": "He has a very harsh voice."
+  },
+  "harvest": {
+    "def": "收穫、產量",
+    "ipa": "/ˈhɑːvɪst/",
+    "trans": "harvested",
+    "col": "good harvest",
+    "ex": "The farmers are busy with the harvest."
+  },
+  "has": {
+    "def": "有 (have 第三人稱)",
+    "ipa": "/hæz/",
+    "trans": "have",
+    "col": "has to do",
+    "ex": "He has a new car."
+  },
+  "haste": {
+    "def": "匆忙、趕快",
+    "ipa": "/heɪst/",
+    "trans": "hasty (匆忙的)",
+    "col": "in haste, more haste, less speed",
+    "ex": "He left the room in haste."
+  },
+  "hasten": {
+    "def": "催促、趕緊",
+    "ipa": "/ˈheɪsn/",
+    "trans": "hastened",
+    "col": "hasten the process",
+    "ex": "Artificial light can hasten the growth of plants."
+  },
+  "hasty": {
+    "def": "匆忙的、草率的",
+    "ipa": "/ˈheɪsti/",
+    "trans": "hastily",
+    "col": "hasty decision",
+    "ex": "Don't make a hasty decision."
+  },
+  "hat": {
+    "def": "帽子",
+    "ipa": "/hæt/",
+    "trans": "hats",
+    "col": "put on a hat, wear a hat",
+    "ex": "He is wearing a black hat."
+  },
+  "hatch": {
+    "def": "孵化、策劃、小門",
+    "ipa": "/hætʃ/",
+    "trans": "hatched",
+    "col": "hatch a plan",
+    "ex": "The eggs will hatch in three weeks."
+  },
+  "hate/hatred": {
+    "def": "仇恨、恨",
+    "ipa": "/heɪt/",
+    "trans": "hated, hateful",
+    "col": "hate to do",
+    "ex": "I hate cold weather."
+  },
+  "hateful": {
+    "def": "可恨的、充滿憎恨的",
+    "ipa": "/ˈheɪtfl/",
+    "trans": "hatefully",
+    "col": "hateful person",
+    "ex": "He is a hateful person."
+  },
+  "haul": {
+    "def": "拖、拉、運送",
+    "ipa": "/hɔːl/",
+    "trans": "hauled",
+    "col": "long haul",
+    "ex": "The truck was hauling a heavy load."
+  },
+  "haunt": {
+    "def": "常去之處、出沒、環繞",
+    "ipa": "/hɔːnt/",
+    "trans": "haunted",
+    "col": "haunted house",
+    "ex": "The ghost haunted the old castle."
+  },
+  "have": {
+    "def": "有、吃、患、使",
+    "ipa": "/hæv/",
+    "trans": "had, had, having",
+    "col": "have a look, have to",
+    "ex": "I have a lot of books."
+  },
+  "hawk": {
+    "def": "老鷹、隼、主戰者",
+    "ipa": "/hɔːk/",
+    "trans": "hawks, hawkish (鷹派的)",
+    "col": "see like a hawk",
+    "ex": "A hawk was flying in the sky."
+  },
+  "hay": {
+    "def": "乾草",
+    "ipa": "/heɪ/",
+    "trans": "無",
+    "col": "make hay while the sun shines",
+    "ex": "The farmer is cutting hay."
+  },
+  "hazard": {
+    "def": "危險、冒險、障礙",
+    "ipa": "/ˈhæzəd/",
+    "trans": "hazardous",
+    "col": "health hazard, fire hazard",
+    "ex": "Smoking is a serious health hazard."
+  },
+  "he": {
+    "def": "他",
+    "ipa": "/hiː/",
+    "trans": "him, his",
+    "col": "he himself",
+    "ex": "He is my teacher."
+  },
+  "head": {
+    "def": "頭、領袖、前往",
+    "ipa": "/hed/",
+    "trans": "headed, header",
+    "col": "head for, from head to foot",
+    "ex": "I have a pain in my head."
+  },
+  "headache": {
+    "def": "頭痛、令人頭痛之事",
+    "ipa": "/ˈhedeɪk/",
+    "trans": "headaches",
+    "col": "have a headache",
+    "ex": "I have a terrible headache."
+  },
+  "headline": {
+    "def": "標題、大新聞",
+    "ipa": "/ˈhedlaɪn/",
+    "trans": "headlines",
+    "col": "front-page headline",
+    "ex": "The news made the headlines."
+  },
+  "headquarters": {
+    "def": "總部、司令部",
+    "ipa": "/ˌhedˈkwɔːtəz/",
+    "trans": "無 (恆複)",
+    "col": "company headquarters",
+    "ex": "The company's headquarters are in London."
+  },
+  "heal": {
+    "def": "治癒、和解",
+    "ipa": "/hiːl/",
+    "trans": "healed, healer, health (名詞)",
+    "col": "heal the wound",
+    "ex": "The wound took a long time to heal."
+  },
+  "health": {
+    "def": "健康",
+    "ipa": "/helθ/",
+    "trans": "healthy (健康的)",
+    "col": "public health, in good health",
+    "ex": "Smoking is bad for health."
+  },
+  "healthy": {
+    "def": "健康的、有益健康的",
+    "ipa": "/ˈhelθi/",
+    "trans": "healthier, healthiest",
+    "col": "healthy diet, stay healthy",
+    "ex": "He is a very healthy boy."
+  },
+  "heap": {
+    "def": "堆、堆積、許多",
+    "ipa": "/hiːp/",
+    "trans": "heaps",
+    "col": "heap of trash",
+    "ex": "There's a heap of books on the floor."
+  },
+  "hear": {
+    "def": "聽見、聽說",
+    "ipa": "/hɪə/",
+    "trans": "heard, heard, hearing",
+    "col": "hear of, hear from",
+    "ex": "Can you hear me?"
+  },
+  "heart": {
+    "def": "心臟、中心、愛心",
+    "ipa": "/hɑːt/",
+    "trans": "hearts, hearty",
+    "col": "learn by heart, break one's heart",
+    "ex": "She has a very kind heart."
+  },
+  "heartbeat": {
+    "def": "心跳",
+    "ipa": "/ˈhɑːtbiːt/",
+    "trans": "heartbeats",
+    "col": "irregular heartbeat",
+    "ex": "He felt his heartbeat increase."
+  },
+  "heartbreak": {
+    "def": "碎心、悲傷、挫折",
+    "ipa": "/ˈhɑːtbreɪk/",
+    "trans": "heartbroken (碎心的)",
+    "col": "total heartbreak",
+    "ex": "It was a story of lost love and heartbreak."
+  },
+  "heartbroken": {
+    "def": "傷心欲絕的、碎心的",
+    "ipa": "/ˈhɑːtbrəʊkən/",
+    "trans": "heartbreak (名詞)",
+    "col": "feel heartbroken",
+    "ex": "She was heartbroken when her dog died."
+  },
+  "heartily": {
+    "def": "真心誠意地、興高采烈地",
+    "ipa": "/ˈhɑːtəli/",
+    "trans": "hearty (熱誠的)",
+    "col": "laugh heartily",
+    "ex": "They laughed heartily at the joke."
+  },
+  "hearty": {
+    "def": "衷心的、熱誠的、豐盛的",
+    "ipa": "/ˈhɑːti/",
+    "trans": "heartily",
+    "col": "hearty welcome, hearty meal",
+    "ex": "They gave us a hearty welcome."
+  },
+  "heat": {
+    "def": "熱、熱度、加熱",
+    "ipa": "/hiːt/",
+    "trans": "heated, heater (加熱器)",
+    "col": "heat wave, gas heat",
+    "ex": "The sun gives off heat."
+  },
+  "heated": {
+    "def": "加熱了的、激烈的",
+    "ipa": "/ˈhiːtɪd/",
+    "trans": "heat (名詞/動詞)",
+    "col": "heated debate",
+    "ex": "They had a heated argument."
+  },
+  "heater": {
+    "def": "加熱器、暖爐",
+    "ipa": "/ˈhiːtə/",
+    "trans": "heaters",
+    "col": "electric heater",
+    "ex": "We used an electric heater in winter."
+  },
+  "heave": {
+    "def": "用力舉起、起伏、喘氣、吐",
+    "ipa": "/hiːv/",
+    "trans": "heaved",
+    "col": "heave a sigh",
+    "ex": "She heaved a sigh of relief."
+  },
+  "heaven": {
+    "def": "天堂、極樂之地",
+    "ipa": "/ˈhevn/",
+    "trans": "heavens, heavenly",
+    "col": "go to heaven",
+    "ex": "I believe he's in heaven now."
+  },
+  "heavenly": {
+    "def": "神聖的、極其愉快的",
+    "ipa": "/ˈhevnli/",
+    "trans": "heaven (名詞)",
+    "col": "heavenly body",
+    "ex": "The food was heavenly."
+  },
+  "heavy": {
+    "def": "重的、多量的、厚重的",
+    "ipa": "/ˈhevi/",
+    "trans": "heavily",
+    "col": "heavy rain, heavy traffic",
+    "ex": "The box is very heavy."
+  },
+  "hedge": {
+    "def": "樹籬、障礙、閃避",
+    "ipa": "/hedʒ/",
+    "trans": "hedges",
+    "col": "garden hedge",
+    "ex": "The garden was surrounded by a green hedge."
+  },
+  "heed": {
+    "def": "留心、注意",
+    "ipa": "/hiːd/",
+    "trans": "heeded",
+    "col": "take heed of",
+    "ex": "They failed to heed the warning."
+  },
+  "heel": {
+    "def": "腳後跟、鞋跟",
+    "ipa": "/hiːl/",
+    "trans": "heels",
+    "col": "high heels, Achilles' heel",
+    "ex": "I have a blister on my right heel."
+  },
+  "height": {
+    "def": "高度、海拔、巔峰",
+    "ipa": "/haɪt/",
+    "trans": "heights, high (高的)",
+    "col": "reach a height of",
+    "ex": "What's the height of the mountain?"
+  },
+  "heighten": {
+    "def": "加深、提高、增強",
+    "ipa": "/ˈhaɪtn/",
+    "trans": "heightened",
+    "col": "heighten the tension",
+    "ex": "The tension was heightened by the sudden noise."
+  },
+  "heir": {
+    "def": "繼承人、嗣子",
+    "ipa": "/eə/",
+    "trans": "heirs, heiress (女繼承人)",
+    "col": "heir to the throne",
+    "ex": "He is the heir to the family fortune."
+  },
+  "helicopter": {
+    "def": "直升機",
+    "ipa": "/ˈhelɪkɒptə/",
+    "trans": "helicopters",
+    "col": "by helicopter",
+    "ex": "We traveled to the island by helicopter."
+  },
+  "hell": {
+    "def": "地獄、極大之痛苦",
+    "ipa": "/hel/",
+    "trans": "hellish",
+    "col": "go to hell, what the hell",
+    "ex": "War is hell."
+  },
+  "hello": {
+    "def": "/həˈləʊ/",
+    "trans": "hellos",
+    "col": "ay hello to",
+    "ex": "Hello, how are you today?"
+  },
+  "helmet": {
+    "def": "安全帽、頭盔",
+    "ipa": "/ˈhelmɪt/",
+    "trans": "helmets",
+    "col": "crash helmet",
+    "ex": "Wear a helmet when you ride a bike."
+  },
+  "help": {
+    "def": "幫助、救命、有助於",
+    "ipa": "/help/",
+    "trans": "helped, helpful (非常有用的), helper",
+    "col": "help each other, can't help doing",
+    "ex": "Can you help me?"
+  },
+  "helpful": {
+    "def": "非常有用的、樂於助人的",
+    "ipa": "/ˈhelpfl/",
+    "trans": "helpfully",
+    "col": "be helpful to",
+    "ex": "He provided some very helpful advice."
+  },
+  "helpless": {
+    "def": "無助的、沒能力的",
+    "ipa": "/ˈhelpləs/",
+    "trans": "helplessly",
+    "col": "feel helpless",
+    "ex": "The baby was small and helpless."
+  },
+  "hem": {
+    "def": "摺邊、緣、發出口吃聲、哼",
+    "ipa": "/hem/",
+    "trans": "hemmed",
+    "col": "hem and haw",
+    "ex": "The hem of her dress was torn."
+  },
+  "hen": {
+    "def": "母雞",
+    "ipa": "/hen/",
+    "trans": "hens",
+    "col": "laying hen",
+    "ex": "The hen is sitting on her eggs."
+  },
+  "hence": {
+    "def": "因此、從此",
+    "ipa": "/hens/",
+    "trans": "無",
+    "col": "hence the name",
+    "ex": "He is very busy, hence he cannot come."
+  },
+  "her": {
+    "def": "她、她的",
+    "ipa": "/hɜː/",
+    "trans": "she, hers",
+    "col": "her book",
+    "ex": "She loves her mother."
+  },
+  "herald": {
+    "def": "報信者、預告者、宣佈",
+    "ipa": "/ˈherəld/",
+    "trans": "heralded",
+    "col": "herald of spring",
+    "ex": "The birds are heralds of spring."
+  },
+  "herb": {
+    "def": "藥草、香料草",
+    "ipa": "/hɜːb/",
+    "trans": "herbs, herbal",
+    "col": "herb tea, culinary herbs",
+    "ex": "She grows herbs in her garden."
+  },
+  "herd": {
+    "def": "獸群、群聚",
+    "ipa": "/hɜːd/",
+    "trans": "herds",
+    "col": "herd of cows",
+    "ex": "A large herd of cows was grazing in the field."
+  },
+  "here": {
+    "def": "這裡",
+    "ipa": "/hɪə/",
+    "trans": "無",
+    "col": "here and there, here we go",
+    "ex": "Come here, please."
+  },
+  "heritage": {
+    "def": "遺產、傳統、繼承物",
+    "ipa": "/ˈherɪtɪdʒ/",
+    "trans": "heritages",
+    "col": "cultural heritage, world heritage",
+    "ex": "We must protect our natural heritage."
+  },
+  "hero/heroine": {
+    "def": "英雄/女英雄、男主角",
+    "ipa": "/ˈhɪərəʊ/",
+    "trans": "heroes",
+    "col": "national hero",
+    "ex": "He is a real hero."
+  },
+  "heroic": {
+    "def": "英雄的、英勇的",
+    "ipa": "/həˈrəʊɪk/",
+    "trans": "heroically",
+    "col": "heroic act",
+    "ex": "It was a heroic act to save the child."
+  },
+  "hesitate": {
+    "def": "猶豫、遲疑",
+    "ipa": "/ˈhezɪteɪt/",
+    "trans": "hesitated, hesitation",
+    "col": "hesitate to do",
+    "ex": "Don't hesitate to ask if you need help."
+  },
+  "hesitation": {
+    "def": "猶豫、遲疑",
+    "ipa": "/ˌhezɪˈteɪʃn/",
+    "trans": "hesitate (動詞)",
+    "col": "without hesitation",
+    "ex": "She answered without any hesitation."
+  },
+  "hey": {
+    "def": "/heɪ/",
+    "trans": "無",
+    "col": "hey there",
+    "ex": "Hey, what are you doing?"
+  },
+  "hi": {
+    "def": "/haɪ/",
+    "trans": "無",
+    "col": "hi there",
+    "ex": "Hi, how are you?"
+  },
+  "hidden": {
+    "def": "隱藏的、神祕的",
+    "ipa": "/ˈhɪdn/",
+    "trans": "hide (動詞)",
+    "col": "hidden camera",
+    "ex": "There was a hidden camera in the room."
+  },
+  "hide": {
+    "def": "隱藏、遮瞞、獸皮",
+    "ipa": "/haɪd/",
+    "trans": "hid, hidden",
+    "col": "hide and seek",
+    "ex": "Where are you hiding?"
+  },
+  "hierarchical": {
+    "def": "階層式的、分級的",
+    "ipa": "/ˌhaɪəˈrɑːkɪkl/",
+    "trans": "hierarchy (名詞)",
+    "col": "hierarchical structure",
+    "ex": "The company has a very hierarchical structure."
+  },
+  "hierarchy": {
+    "def": "階層體制、等級體制",
+    "ipa": "/ˈhaɪərɑːki/",
+    "trans": "hierarchies",
+    "col": "social hierarchy",
+    "ex": "He rose quickly through the corporate hierarchy."
+  },
+  "hi-fi/high-fidelity": {
+    "def": "高級音響",
+    "ipa": "/ˌhaɪ ˈfaɪ/",
+    "trans": "hi-fis",
+    "col": "hi-fi system",
+    "ex": "He bought a new hi-fi system."
+  },
+  "high": {
+    "def": "高的、高度地",
+    "ipa": "/haɪ/",
+    "trans": "highly, height (名詞)",
+    "col": "high school, high pressure",
+    "ex": "The mountain is very high."
+  },
+  "highlight": {
+    "def": "最精彩部份、強調、照亮",
+    "ipa": "/ˈhaɪlaɪt/",
+    "trans": "highlights",
+    "col": "highlight of the trip",
+    "ex": "The sunset was the highlight of our trip."
+  },
+  "highly": {
+    "def": "高度地、非常地、極其",
+    "ipa": "/ˈhaɪli/",
+    "trans": "high (形容詞)",
+    "col": "highly recommended",
+    "ex": "He is a highly successful businessman."
+  }
+}

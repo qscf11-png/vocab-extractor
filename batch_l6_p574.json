@@ -1,0 +1,18 @@
+{
+  "emigre/émigré": {"def": "政治流亡者、移居外國者人物 (單數) (員)", "ipa": "/ˈemɪɡreɪ/", "trans": "emigrate", "col": "russian émigré", "ex": "He is a russian émigré.", "pos": "n."},
+  "eminence": {"def": "卓越、顯赫、高地、(主教)閣下人物 (單數) (卓)", "ipa": "/ˈemɪnəns/", "trans": "great", "col": "gray eminence (幕後操縱者), your eminence", "ex": "He achieved great eminence.", "pos": "n."},
+  "eminent": {"def": "卓越的、顯赫的、突出的地 (卓)", "ipa": "/ˈemɪnənt/", "trans": "great", "col": "eminent domain (徵用權), eminent scientist", "ex": "An eminent scientist tonight.", "pos": "adj./adv."},
+  "eminently": {"def": "卓越地、顯赫地", "ipa": "/ˈemɪnəntli/", "trans": "eminent", "col": "eminently suitable", "ex": "She is so for the_job.", "pos": "adv."},
+  "emir/amir": {"def": "酋長、王公人物 (單數) (王)", "ipa": "/eˈmɪə/", "trans": "king", "col": "local emir", "ex": "The_emir ruled the_land.", "pos": "n."},
+  "emirate": {"def": "酋長國、酋長官職人物 (單數) (國)", "ipa": "/ˈemɪrət/", "trans": "emir", "col": "arab emirates", "ex": "Visit the_arab emirates now.", "pos": "n."},
+  "emiss-": {"def": "派遣的人的人人物 (單數) (派)", "ipa": "/ɪˈmɪs-/", "trans": "send", "col": "emissary", "ex": "He is a secret emissary.", "pos": "pref./n./adj."},
+  "emissary": {"def": "特使、密使、偵探人物 (單數) (員)", "ipa": "/ˈemɪsəri/", "trans": "send", "col": "peace emissary, secret emissary", "ex": "Sent a secret emissary now.", "pos": "n./adj."},
+  "emiss-ion/emission": {"def": "發射、排放、發散、發行的人物 (單數) (放)", "ipa": "/iˈmɪʃn/", "trans": "out", "col": "carbon emission, light emission, emission standards", "ex": "Reduce carbon emission today.", "pos": "n."},
+  "emissive/emissive": {"def": "發射的、發出地的人的人物 (單數) (發)", "ipa": "/iˈmɪsɪv/", "trans": "emission", "col": "emissive power", "ex": "Testing the_emissive power.", "pos": "adj./n."},
+  "emiss-ivity/emissivity": {"def": "發射率、發射係數人物 (單數) (率)", "ipa": "/ˌiːmɪˈsɪvəti/", "trans": "emissive", "col": "low emissivity", "ex": "Low emissivity glass windows.", "pos": "n."},
+  "emit": {"def": "發出、放射、吐露的人的人", "ipa": "/iˈmɪt/", "trans": "out", "col": "emit light, emit sound, emit radiation", "ex": "Stars emit huge energy.", "pos": "v./n./adv."},
+  "emitter/emitter": {"def": "發射體、發射極人物 (單數) (器)", "ipa": "/iˈmɪtə/", "trans": "emit", "col": "alpha emitter, light emitter", "ex": "The_radioactive emitter.", "pos": "n."},
+  "emmett/emmet": {"def": "(古)螞蟻人物 (單數) (蟻)", "ipa": "/ˈemɪt/", "trans": "ant", "col": "industrious emmet", "ex": "The_emmet worked hard.", "pos": "n."},
+  "emollient": {"def": "軟化的、使柔軟的人物、潤膚劑的人的人人物 (單數) (潤/軟)", "ipa": "/ɪˈmɒliənt/", "trans": "soft", "col": "emollient cream", "ex": "Use some emollient cream.", "pos": "adj./n."},
+  "emolument/emolument": {"def": "酬報、津貼、薪水人物 (單數) (酬)", "ipa": "/ɪˈmɒljumənt/", "trans": "pay", "col": "large emolument", "ex": "Receive a large emolument.", "pos": "n."},
+}

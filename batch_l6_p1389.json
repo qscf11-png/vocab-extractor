@@ -1,0 +1,18 @@
+{
+  "imbalanced/bad-": {"def": "不平衡的、(喻)失調地的人的人物 (單數) (失)", "ipa": "/ɪmˈbælənst/", "trans": "imbalance", "col": "imbalanced diet", "ex": "An imbalanced view of the_problem.", "pos": "adj./n."},
+  "imbecile/man/bad/weak": {"def": "低能者、(喻)白痴、傻瓜及其它的人的人物、(醫)中度智力障礙的及其它的人的人物 (單數) (傻/笨)", "ipa": "/ˈɪmbəsiːl/", "trans": "bad", "col": "complete imbecile", "ex": "Don't be such an imbecile, alas.", "pos": "n./adj."},
+  "imbecilic/bad-": {"def": "低能的、(喻)極愚蠢地的人的人物 (單數) (笨)", "ipa": "/ˌɪmbəˈsɪlɪk/", "trans": "imbecile", "col": "imbecilic remark", "ex": "Making an imbecilic mistake today.", "pos": "adj./n."},
+  "imbecility/badness/weakness": {"def": "低能、愚笨人物 (單數) (笨)", "ipa": "/ˌɪmbəˈsɪləti/", "trans": "imbecile", "col": "act of imbecility", "ex": "Disgust-ed by the_imbecility of it.", "pos": "n."},
+  "imbibe/food/water/mind": {"def": "喝、吸入、(喻)吸收(知識)的人的人 (喝/吸/收)", "ipa": "/ɪmˈbaɪb/", "trans": "in", "col": "imbibe alcohol, imbibe wisdom", "ex": "The_plant-s imbibe moisture from air.", "pos": "v./n."},
+  "imb-": {"def": "染、滲的人的人人物 (單數) (染)", "ipa": "/ˈɪmb-/", "trans": "in", "col": "imbue", "ex": "Imbuing his work with joy.", "pos": "pref./n./adj."},
+  "imbroglio/bad/huge": {"def": "糾葛、(喻)亂局的人物、(史)混亂的大量的人物 (單數) (亂/糾)", "ipa": "/ɪmˈbrəʊliəʊ/", "trans": "bad", "col": "political imbroglio", "ex": "A complex legal imbroglio, alas.", "pos": "n."},
+  "imbue/color/mind": {"def": "浸透、(喻)使充滿、染的人的人 (浸/染)", "ipa": "/ɪmˈbjuː/", "trans": "imb-", "col": "imbue with spirit", "ex": "She imbue-d her art with life.", "pos": "v./n."},
+  "imid-": {"def": "醯、胺的人的人人物 (單數) (醯)", "ipa": "/ˈɪmɪd-/", "trans": "bad", "col": "imidazole", "ex": "Imidazole is a type of chemical compound.", "pos": "pref./n./adj."},
+  "imidazole/body": {"def": "(化)咪唑及其它的人的人物 (單數) (唑)", "ipa": "/ˌɪmɪˈdæzəʊl/", "trans": "imid-", "col": "antifungal imidazole", "ex": " imidazole ring is in many drug-s.", "pos": "n."},
+  "imit-": {"def": "效、模的人的人人物 (單數) (效/模)", "ipa": "/ˈɪmɪt-/", "trans": "same", "col": "imitate", "ex": "Try-ing to imitate his hero.", "pos": "pref./n./adj."},
+  "imitability/same-": {"def": "可模仿性人物 (單數) (模)", "ipa": "/ˌɪmɪtəˈbɪləti/", "trans": "imitable", "col": "low imitability", "ex": "The_task has high imitability, sir.", "pos": "n."},
+  "imitable/same-": {"def": "可模仿的、(喻)值得效法地的人的人物 (單數) (模/效)", "ipa": "/ˈɪmɪtəbl/", "trans": "imitate", "col": "imitable style", "ex": "A very imitable way of dancing.", "pos": "adj./n."},
+  "imitate/same/mark": {"def": "模仿、(喻)效法、(使)相像的人的人 (模/效)", "ipa": "/ˈɪmɪteɪt/", "trans": "imit-", "col": "imitate bird-s, imitate style", "ex": "He can imitate many famous actor-s.", "pos": "v./n."},
+  "imitation/same/fake": {"def": "模仿、(喻)贗品、仿造物人物、仿製的、假地的人的人物 (單數) (模/贗/假)", "ipa": "/ˌɪmɪˈteɪʃn/", "trans": "imitate", "col": "imitation leather, cheap imitation", "ex": "It's a clever imitation of old vase.", "pos": "n./adj."},
+  "imitative/same-": {"def": "模仿的、(喻)仿效地的人的人物 (單數) (模)", "ipa": "/ˈɪmɪtətɪv/", "trans": "imitation", "col": "imitative play, imitative behavior", "ex": "Monkey-s have very imitative nature.", "pos": "adj./n."},
+}

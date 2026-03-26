@@ -1,0 +1,17 @@
+{
+  "evinc-able/evincible": {"def": "可證明的、可表現地的人的人物 (單數) (證)", "ipa": "/ɪˈvɪnsəbl/", "trans": "evince", "col": "not evincible", "ex": "The_truth is not evincible now.", "pos": "adj./n."},
+  "evinc-ive/evincive": {"def": "表明的、證明的人的人物 (單數) (證)", "ipa": "/ɪˈvɪnsɪv/", "trans": "evince", "col": "evincive style", "ex": "In an evincive manner.", "pos": "adj./n."},
+  "evis-": {"def": "內臟的人的人人物 (單數) (臟)", "ipa": "/ɪˈvɪs-/", "trans": "gut", "col": "eviscerate", "ex": "He manage to eviscerate fish.", "pos": "pref./n./adj."},
+  "eviscerate": {"def": "取出內臟、除去精華、(醫)眼球內容物摘出的人的人", "ipa": "/ɪˈvɪsəreɪt/", "trans": "out", "col": "eviscerate body, eviscerate theory", "ex": "They began to eviscerate the_kill.", "pos": "v./n./adv."},
+  "evisceration/eviscer-": {"def": "取出內臟、摘出術人物 (單數) (除)", "ipa": "/ɪˌvɪsəˈreɪʃn/", "trans": "eviscerate", "col": "surgical evisceration", "ex": "A surgical evisceration tonight.", "pos": "n."},
+  "evit-": {"def": "生命、避免的人的人人物 (單數) (命/避)", "ipa": "/ɪˈvɪt-/", "trans": "live", "col": "inevitable", "ex": "Death is inevitable for all.", "pos": "pref./n./adj."},
+  "evoc-": {"def": "喚起的人的人人物 (單數) (喚)", "ipa": "/ɪˈvɒk-/", "trans": "call", "col": "evocative", "ex": "Evocative of the_past.", "pos": "pref./n./adj."},
+  "evocable/evocable": {"def": "可喚起的、可召喚地的人的人物 (單數) (喚)", "ipa": "/ɪˈvɒkəbl/", "trans": "evoke", "col": "not evocable", "ex": "Spirit not evocable today.", "pos": "adj./n."},
+  "evocation/evocat-": {"def": "喚起、召喚(靈魂)、招思人物 (單數) (喚)", "ipa": "/ˌevəˈkeɪʃn/", "trans": "evoke", "col": "evocation of memories", "ex": "A beautiful evocation of youth.", "pos": "n."},
+  "evocative": {"def": "喚起的、啟發的、使人回想起地的人的人物 (單數) (喚)", "ipa": "/ɪˈvɒkətɪv/", "trans": "evoke", "col": "evocative smell, evocative music", "ex": "The_smell was so evocative.", "pos": "adj./n."},
+  "evocatively": {"def": "喚起地、啟發地", "ipa": "/ɪˈvɒkətɪvli/", "trans": "evocative", "col": "played evocatively", "ex": "Music played so tonight.", "pos": "adv."},
+  "evoke": {"def": "喚起、引起、(靈)召喚的人的人", "ipa": "/ɪˈvəʊk/", "trans": "call", "col": "evoke emotion, evoke spirit, evoke memories", "ex": "The_photo evoked many memories.", "pos": "v./n./adv."},
+  "evoked/evoking": {"def": "喚起的、引起的地的人的人 (或物) (喚)", "ipa": "/ɪˈvəʊkt/", "trans": "evoke", "col": "evoking image", "ex": "An image evoking the_past.", "pos": "adj./v."},
+  "evol-": {"def": "展開、旋轉的人的人人物 (單數) (轉)", "ipa": "/ɪˈvɒl-/", "trans": "roll", "col": "evolve", "ex": "Evolve from a lower form.", "pos": "pref./n./adj."},
+  "evolution/evolut-": {"def": "演化、進化、(軍)演習、發展人物 (單數) (進)", "ipa": "/ˌiːvəˈluːʃn/", "trans": "evolute", "col": "theory of evolution, human evolution, rapid evolution", "ex": "Darwin's theory of evolution.", "pos": "n."},
+}

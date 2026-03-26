@@ -1,0 +1,17 @@
+{
+  "fraudulent/shady": {"def": "欺詐的、不誠實的、騙人地的人的人物 (單數) (詐)", "ipa": "/ˈfrɔːdjʊlənt/", "trans": "bad", "col": "fraudulent claim, fraudulent activity", "ex": "He made a fraudulent insurance claim.", "pos": "adj./n."},
+  "fraudulently/shadily": {"def": "欺報地、騙人地", "ipa": "/ˈfrɔːdjʊləntli/", "trans": "fraudulent", "col": "acquired fraudulently", "ex": "The_money was acquired so.", "pos": "adv."},
+  "fraught/filled": {"def": "充滿(危險/困難)的人物、(美/俚)擔心的的人的人物 (單數) (充/擔)", "ipa": "/frɔːt/", "trans": "full", "col": "fraught with danger, fraught situation", "ex": "The_journey was fraught with danger.", "pos": "adj./n."},
+  "fray/fight": {"def": "打鬥、爭端的人物、磨損的人物、磨損、(喻)變煩躁的人的人人物 (單數) (鬥/磨)", "ipa": "/freɪ/", "trans": "bad", "col": "enter the_fray, fabric begins to fray", "ex": "Ready to enter the_fray today.", "pos": "n./v./adj."},
+  "frayed/worn": {"def": "磨損的、(喻)煩躁地的人的人 (或物) (磨/躁)", "ipa": "/freɪd/", "trans": "fray", "col": "frayed nerves, frayed collar", "ex": "His nerves were frayed by noise.", "pos": "adj./v."},
+  "frazzle/exhaust": {"def": "使筋疲力盡、使焦躁的人的人人物 (單數) (累)", "ipa": "/ˈfræzl/", "trans": "bad", "col": "worn to a frazzle", "ex": "He is worn to a frazzle today.", "pos": "v./n."},
+  "frazzled/exhausted": {"def": "筋疲力盡的、焦躁地的人的人 (或物) (累)", "ipa": "/ˈfræzld/", "trans": "frazzle", "col": "feel frazzled", "ex": "She looked completely frazzled.", "pos": "adj./v."},
+  "freak/monster": {"def": "怪人、畸形、狂、迷的人物、異常的人物、出現怪事、使驚的人的人人物 (單數) (怪/迷)", "ipa": "/friːk/", "trans": "bad", "col": "control freak, freak show, freak accident, freak out (大驚/發瘋)", "ex": "A freak accident killed him.", "pos": "n./adj./v."},
+  "freak-": {"def": "怪的人的人人物 (單數) (怪)", "ipa": "/friːk-/", "trans": "bad", "col": "freakish", "ex": "Freakish weather for June.", "pos": "pref./n./adj."},
+  "freakish/weird": {"def": "古怪的、異常的、異想天開地的人的人物 (單數) (怪)", "ipa": "/ˈfriːkɪʃ/", "trans": "freak", "col": "freakish weather, freakish behavior", "ex": "Such freakish behavior tonight.", "pos": "adj./n."},
+  "freaky/scary": {"def": "古怪的、嚇人的地的人的人物 (單數) (怪)", "ipa": "/ˈfriːki/", "trans": "freak", "col": "freaky coincidence", "ex": "That's a really freaky story.", "pos": "adj./n."},
+  "freckle/spot": {"def": "雀斑、小斑點的人物、使長雀斑的人的人人物 (單數) (斑)", "ipa": "/ˈfrekl/", "trans": "sun", "col": "face full of freckles", "ex": "She has freckles on her nose.", "pos": "n./v."},
+  "freckled/spotted": {"def": "有雀斑的、有斑點地的人的人 (或物) (斑)", "ipa": "/ˈfrekld/", "trans": "freckle", "col": "freckled face", "ex": "He has a freckled complexion.", "pos": "adj./v."},
+  "fred-": {"def": "和平的人的人人物 (單數) (和)", "ipa": "/frcl-/", "trans": "true", "col": "fred", "ex": "Frederick name meaning.", "pos": "pref./n./adj."},
+  "free/independent/loose/costless": {"def": "自由的、獨立的、免費的的人物、空閒的、鬆的人的人物、釋放、使自由人物 (單數) (自/立/費/鬆)", "ipa": "/friː/", "trans": "true", "col": "free trade, free will, for free, free of charge, free from danger", "ex": "I am free this afternoon.", "pos": "adj./adv./v./n."},
+}

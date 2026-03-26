@@ -1,0 +1,16 @@
+{
+  "epidemic": {"def": "流行性的、蔓延的、(醫)流行病的人物、流行的人物人物 (單數) (流/傳)", "ipa": "/ˌepɪˈdemɪk/", "trans": "flu", "col": "flu epidemic, opioid epidemic, reach epidemic proportions", "ex": "A flu epidemic swept city.", "pos": "adj./n./adv."},
+  "epidemical/epidemic": {"def": "流行性的、傳染地的人的人物 (單數) (流)", "ipa": "/ˌepɪˈdemɪkl/", "trans": "epidemic", "col": "epidemical spread", "ex": "In an epidemical manner.", "pos": "adj./n."},
+  "epidemiology/epidemiology": {"def": "流行病學人物 (單數) (學)", "ipa": "/ˌepɪˌdiːmiˈɒlədʒi/", "trans": "flu", "col": "social epidemiology", "ex": "He studys epidemiology now.", "pos": "n."},
+  "epidermal/epidermic": {"def": "表皮的、皮外地的人的人物 (單數) (皮)", "ipa": "/ˌepɪˈdɜːml/", "trans": "skin", "col": "epidermal layer", "ex": "The_epidermal layer of skin.", "pos": "adj./n."},
+  "epidermis": {"def": "(生)表皮、外殼人物 (單數) (皮)", "ipa": "/ˌepɪˈdɜːmɪs/", "trans": "skin", "col": "outer epidermis", "ex": "Structure of the_epidermis.", "pos": "n."},
+  "epiglottis": {"def": "(解)會厭、喉頭蓋人物 (單數) (厭)", "ipa": "/ˌepɪˈɡlɒtɪs/", "trans": "throat", "col": "cartilage epiglottis", "ex": "Function of the_epiglottis.", "pos": "n."},
+  "epigram/maxim": {"def": "警句、雋語、諷刺短詩人物 (單數) (句)", "ipa": "/ˈepɪɡræm/", "trans": "word", "col": "witty epigram", "ex": "He loves a witty epigram.", "pos": "n."},
+  "epigrammatic/epigrammatical": {"def": "警句般的、簡潔有力地的人的人物 (單數) (句)", "ipa": "/ˌepɪɡrəˈmætɪk/", "trans": "epigram", "col": "epigrammatic style", "ex": "An epigrammatic definition.", "pos": "adj./n."},
+  "epigraph": {"def": "碑文、題詞、(書)序文人物 (單數) (詞)", "ipa": "/ˈepɪɡrɑːf/", "trans": "word", "col": "opening epigraph", "ex": "The_book starts with an epigraph.", "pos": "n."},
+  "epilepsy": {"def": "(醫)癲癇、羊癲瘋人物 (單數) (癇)", "ipa": "/ˈepɪlepsi/", "trans": "sick", "col": "suffer from epilepsy", "ex": "He suffers from epilepsy.", "pos": "n."},
+  "epileptic": {"def": "癲癇的、發作地的人的人物 (單數) (癇)", "ipa": "/ˌepɪˈleptɪk/", "trans": "epilepsy", "col": "epileptic fit", "ex": "He had an epileptic fit.", "pos": "adj./n."},
+  "epilogue/epilog": {"def": "收場白、結尾、(演)後記人物 (單數) (尾)", "ipa": "/ˈepɪlɒɡ/", "trans": "end", "col": "brief epilogue", "ex": "The_actor gave a brief epilogue.", "pos": "n."},
+  "epiph-": {"def": "顯示的、上層的人的人人物 (單數) (顯)", "ipa": "/ɪˈpɪf-/", "trans": "show", "col": "epiphany", "ex": "Had a sudden epiphany.", "pos": "pref./n./adj."},
+  "epiphany/epiphany": {"def": "顯聖、頓悟、驚人的發現人物 (單數) (悟/顯)", "ipa": "/ɪˈpɪfəni/", "trans": "know", "col": "sudden epiphany, the_epiphany (顯現節)", "ex": "He had a sudden epiphany today.", "pos": "n."},
+}

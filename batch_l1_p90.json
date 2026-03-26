@@ -1,0 +1,1213 @@
+{
+  "tooth": {
+    "def": "牙齒",
+    "ipa": "/tuːθ/",
+    "trans": "teeth, toothache",
+    "col": "brush your teeth",
+    "ex": "I have to see the dentist about my tooth."
+  },
+  "top": {
+    "def": "頂端、最高的",
+    "ipa": "/tɒp/",
+    "trans": "topped, topping",
+    "col": "on top of, mountain top",
+    "ex": "He is at the top of his class."
+  },
+  "total": {
+    "def": "總計、全體的",
+    "ipa": "/ˈtəʊtl/",
+    "trans": "totally, totality",
+    "col": "total amount, in total",
+    "ex": "The total cost was fifty dollars."
+  },
+  "touch": {
+    "def": "接觸、觸摸",
+    "ipa": "/tʌtʃ/",
+    "trans": "touching, touchy",
+    "col": "get in touch, keep in touch",
+    "ex": "Don't touch the wet paint."
+  },
+  "toward(s)": {
+    "def": "向、對於",
+    "ipa": "/təˈwɔːdz/",
+    "trans": "direction",
+    "col": "run towards, move towards",
+    "ex": "He was running towards the door."
+  },
+  "towel": {
+    "def": "毛巾",
+    "ipa": "/ˈtaʊəl/",
+    "trans": "toweling",
+    "col": "bath towel, paper towel",
+    "ex": "I need a dry towel."
+  },
+  "tower": {
+    "def": "塔、堡壘",
+    "ipa": "/ˈtaʊə/",
+    "trans": "towering",
+    "col": "clock tower, control tower",
+    "ex": "The Eiffel Tower is in Paris."
+  },
+  "town": {
+    "def": "城鎮、市區",
+    "ipa": "/taʊn/",
+    "trans": "township",
+    "col": "small town, in town",
+    "ex": "He lives in a small town."
+  },
+  "toy": {
+    "def": "玩具、玩耍",
+    "ipa": "/tɔɪ/",
+    "trans": "toyshop",
+    "col": "toy car, soft toy",
+    "ex": "The child was playing with his toys."
+  },
+  "trace": {
+    "def": "痕跡、追蹤",
+    "ipa": "/treɪs/",
+    "trans": "tracer, tracing",
+    "col": "trace of, trace back",
+    "ex": "Police are trying to trace the missing boy."
+  },
+  "track": {
+    "def": "軌跡、跑道",
+    "ipa": "/træk/",
+    "trans": "tracker, tracking",
+    "col": "on track, keep track of",
+    "ex": "The train was on the right track."
+  },
+  "trade": {
+    "def": "貿易、交易",
+    "ipa": "/treɪd/",
+    "trans": "trader, trading",
+    "col": "foreign trade, fair trade",
+    "ex": "The two countries have a lot of trade."
+  },
+  "tradition": {
+    "def": "傳統、慣例",
+    "ipa": "/trəˈdɪʃn/",
+    "trans": "traditional, traditionally",
+    "col": "family tradition, break with tradition",
+    "ex": "It's a tradition to eat turkey on Thanksgiving."
+  },
+  "traditional": {
+    "def": "傳統的",
+    "ipa": "/trəˈdɪʃənl/",
+    "trans": "tradition (名詞)",
+    "col": "traditional music",
+    "ex": "They wore traditional costumes."
+  },
+  "traffic": {
+    "def": "交通、貨運",
+    "ipa": "/ˈtræfɪk/",
+    "trans": "trafficking",
+    "col": "traffic jam, traffic light",
+    "ex": "The traffic is very heavy today."
+  },
+  "train": {
+    "def": "火車、訓練",
+    "ipa": "/treɪn/",
+    "trans": "training, trainer",
+    "col": "by train, passenger train",
+    "ex": "I go to work by train."
+  },
+  "training": {
+    "def": "訓練、培養",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "trans": "train (動詞)",
+    "col": "job training, physical training",
+    "ex": "He is in training for the Olympics."
+  },
+  "transaction": {
+    "def": "交易、業務",
+    "ipa": "/trænˈzækʃn/",
+    "trans": "transact",
+    "col": "business transaction",
+    "ex": "The transaction was completed yesterday."
+  },
+  "transfer": {
+    "def": "轉移、轉帳",
+    "ipa": "/trænsˈfɜː/",
+    "trans": "transferred",
+    "col": "bank transfer",
+    "ex": "He was transferred to another department."
+  },
+  "transform": {
+    "def": "改變、轉化",
+    "ipa": "/trænsˈfɔːm/",
+    "trans": "transformation",
+    "col": "transform the world",
+    "ex": "The caterpillar was transformed into a butterfly."
+  },
+  "transient": {
+    "def": "短暫的、瞬時的",
+    "ipa": "/ˈtrænziənt/",
+    "trans": "transience",
+    "col": "transient population",
+    "ex": "The storm was transient."
+  },
+  "transition": {
+    "def": "過渡、轉變",
+    "ipa": "/trænˈzɪʃn/",
+    "trans": "transitional",
+    "col": "period of transition",
+    "ex": "The country is in a period of transition."
+  },
+  "translate": {
+    "def": "翻譯、轉化",
+    "ipa": "/trænsˈleɪt/",
+    "trans": "translation, translator",
+    "col": "translate into",
+    "ex": "Can you translate this for me?"
+  },
+  "translation": {
+    "def": "翻譯、譯文",
+    "ipa": "/trænsˈleɪʃn/",
+    "trans": "translate (動詞)",
+    "col": "literal translation",
+    "ex": "The translation was very accurate."
+  },
+  "translator": {
+    "def": "翻譯者",
+    "ipa": "/trænsˈleɪtə/",
+    "trans": "translate (動詞)",
+    "col": "free translator",
+    "ex": "He works as a translator."
+  },
+  "transmission": {
+    "def": "傳輸、播送",
+    "ipa": "/trænzˈmɪʃn/",
+    "trans": "transmit",
+    "col": "data transmission",
+    "ex": "The transmission was clear."
+  },
+  "transmit": {
+    "def": "傳送、發射",
+    "ipa": "/trænzˈmɪt/",
+    "trans": "transmitting",
+    "col": "transmit a signal",
+    "ex": "The disease is transmitted by mosquitoes."
+  },
+  "transparent": {
+    "def": "透明的、顯然的",
+    "ipa": "/trænsˈpærənt/",
+    "trans": "transparency",
+    "col": "transparent glass",
+    "ex": "The glass is transparent."
+  },
+  "transport": {
+    "def": "運輸、輸送",
+    "ipa": "/ˈtrænspɔːt/",
+    "trans": "transportation",
+    "col": "public transport",
+    "ex": "The goods were transported by sea."
+  },
+  "transportation": {
+    "def": "運輸、輸送",
+    "ipa": "/ˌtrænspɔːˈteɪʃn/",
+    "trans": "transport (動詞)",
+    "col": "means of transportation",
+    "ex": "We need to improve our transportation system."
+  },
+  "trap": {
+    "def": "陷阱、圈套",
+    "ipa": "/træp/",
+    "trans": "trapped",
+    "col": "mouse trap, set a trap",
+    "ex": "They set a trap for the fox."
+  },
+  "trash": {
+    "def": "垃圾、廢物",
+    "ipa": "/træʃ/",
+    "trans": "trashy",
+    "col": "trash can, white trash",
+    "ex": "Don't throw your trash on the ground."
+  },
+  "travel": {
+    "def": "旅行、遊歷",
+    "ipa": "/ˈtrævl/",
+    "trans": "traveler, traveling",
+    "col": "travel agent, business travel",
+    "ex": "I love to travel."
+  },
+  "traveler": {
+    "def": "旅行者",
+    "ipa": "/ˈtrævlə/",
+    "trans": "travel (動詞)",
+    "col": "fellow traveler",
+    "ex": "The traveler was tired."
+  },
+  "treasure": {
+    "def": "珍寶、財富",
+    "ipa": "/ˈtreʒə/",
+    "trans": "treasured, treasury",
+    "col": "hidden treasure, treasure hunt",
+    "ex": "Education is a great treasure."
+  },
+  "treat": {
+    "def": "對待、治療",
+    "ipa": "/triːt/",
+    "trans": "treatment, treaty",
+    "col": "treat well, my treat",
+    "ex": "He treats his dog very well."
+  },
+  "treatment": {
+    "def": "對待、治療",
+    "ipa": "/ˈtriːtmənt/",
+    "trans": "treat (動詞)",
+    "col": "medical treatment, skin treatment",
+    "ex": "He is receiving treatment for a broken leg."
+  },
+  "tree": {
+    "def": "樹木",
+    "ipa": "/triː/",
+    "trans": "trees",
+    "col": "apple tree, Christmas tree",
+    "ex": "Birds are singing in the tree."
+  },
+  "trial": {
+    "def": "審判、試驗",
+    "ipa": "/ˈtraɪəl/",
+    "trans": "try (動詞)",
+    "col": "trial and error, on trial",
+    "ex": "The trial lasted for three weeks."
+  },
+  "triangle": {
+    "def": "三角形、三人一組",
+    "ipa": "/ˈtraɪæŋɡl/",
+    "trans": "triangular",
+    "col": "right triangle",
+    "ex": "A triangle has three sides."
+  },
+  "trick": {
+    "def": "惡作劇、詭計",
+    "ipa": "/trɪk/",
+    "trans": "tricky",
+    "col": "play a trick on",
+    "ex": "He played a trick on his sister."
+  },
+  "trip": {
+    "def": "旅行、絆倒",
+    "ipa": "/trɪp/",
+    "trans": "tripped",
+    "col": "school trip, business trip",
+    "ex": "We went on a trip to Japan."
+  },
+  "trouble": {
+    "def": "麻煩、困難",
+    "ipa": "/ˈtrʌbl/",
+    "trans": "troublesome",
+    "col": "be in trouble, get into trouble",
+    "ex": "I don't want to cause you any trouble."
+  },
+  "trousers": {
+    "def": "褲子",
+    "ipa": "/ˈtraʊzəz/",
+    "trans": "trouser",
+    "col": "pair of trousers",
+    "ex": "I need a new pair of trousers."
+  },
+  "truck": {
+    "def": "卡車",
+    "ipa": "/trʌk/",
+    "trans": "trucking",
+    "col": "fire truck, pickup truck",
+    "ex": "He drives a big truck."
+  },
+  "true": {
+    "def": "真實的、忠實的",
+    "ipa": "/truː/",
+    "trans": "truth, truly",
+    "col": "true story, come true",
+    "ex": "Is it true?"
+  },
+  "trust": {
+    "def": "信任、信託",
+    "ipa": "/trʌst/",
+    "trans": "trustworthy, trustee",
+    "col": "trust each other",
+    "ex": "I trust his judgment."
+  },
+  "truth": {
+    "def": "真相、真理",
+    "ipa": "/truːθ/",
+    "trans": "true (形容詞)",
+    "col": "to tell the truth",
+    "ex": "He is telling the truth."
+  },
+  "try": {
+    "def": "嘗試、審判",
+    "ipa": "/traɪ/",
+    "trans": "tried, trial",
+    "col": "try on, try your best",
+    "ex": "I'll try my best."
+  },
+  "Tuesday": {
+    "def": "星期二",
+    "ipa": "/ˈtjuːzdeɪ/",
+    "trans": "Tues.",
+    "col": "next Tuesday",
+    "ex": "I'll see you on Tuesday."
+  },
+  "tunnel": {
+    "def": "隧道、地道",
+    "ipa": "/ˈtʌnl/",
+    "trans": "tunnelling",
+    "col": "train tunnel",
+    "ex": "The train went through a tunnel."
+  },
+  "turn": {
+    "def": "轉動、輪到",
+    "ipa": "/tɜːn/",
+    "trans": "turned, turning",
+    "col": "turn on, turn off, take turns",
+    "ex": "It's your turn."
+  },
+  "TV": {
+    "def": "電視",
+    "ipa": "/ˌtiːˈviː/",
+    "trans": "television",
+    "col": "watch TV",
+    "ex": "He is watching TV."
+  },
+  "twelve": {
+    "def": "十二",
+    "ipa": "/twelv/",
+    "trans": "twelfth",
+    "col": "twelve o'clock",
+    "ex": "There are twelve months in a year."
+  },
+  "twenty": {
+    "def": "二十",
+    "ipa": "/ˈtwenti/",
+    "trans": "twentieth",
+    "col": "twenty years old",
+    "ex": "She is twenty years old."
+  },
+  "twice": {
+    "def": "兩次、兩倍",
+    "ipa": "/twaɪs/",
+    "trans": "two",
+    "col": "twice a week",
+    "ex": "I go to the gym twice a week."
+  },
+  "two": {
+    "def": "二",
+    "ipa": "/tuː/",
+    "trans": "second",
+    "col": "two hours",
+    "ex": "I have two sisters."
+  },
+  "type": {
+    "def": "類型、打字",
+    "ipa": "/taɪp/",
+    "trans": "typical, typist",
+    "col": "blood type, personality type",
+    "ex": "What type of music do you like?"
+  },
+  "umbrella": {
+    "def": "雨傘",
+    "ipa": "/ʌmˈbrelə/",
+    "trans": "umbrellas",
+    "col": "open an umbrella",
+    "ex": "Take an umbrella with you."
+  },
+  "uncle": {
+    "def": "叔叔、伯伯",
+    "ipa": "/ˈʌŋkl/",
+    "trans": "uncles",
+    "col": "great uncle",
+    "ex": "My uncle lives in New York."
+  },
+  "under": {
+    "def": "在...下面、低於",
+    "ipa": "/ˈʌndə/",
+    "trans": "underneath",
+    "col": "under the table",
+    "ex": "The cat is under the chair."
+  },
+  "understand": {
+    "def": "理解、明白",
+    "ipa": "/ˌʌndəˈstænd/",
+    "trans": "understood, understanding",
+    "col": "understand each other",
+    "ex": "I don't understand what he said."
+  },
+  "unhappy": {
+    "def": "不高興的、不幸的",
+    "ipa": "/ʌnˈhæpi/",
+    "trans": "unhappiness",
+    "col": "feel unhappy",
+    "ex": "She was very unhappy about the results."
+  },
+  "uniform": {
+    "def": "制服、相同的",
+    "ipa": "/ˈjuːnɪfɔːm/",
+    "trans": "uniformity",
+    "col": "school uniform",
+    "ex": "Soldiers wear uniforms."
+  },
+  "unit": {
+    "def": "單位、單元",
+    "ipa": "/ˈjuːnɪt/",
+    "trans": "units",
+    "col": "intensive care unit",
+    "ex": "The pound is a unit of weight."
+  },
+  "universe": {
+    "def": "宇宙、世界",
+    "ipa": "/ˈjuːnɪvɜːs/",
+    "trans": "universal",
+    "col": "origin of the universe",
+    "ex": "The universe is very vast."
+  },
+  "university": {
+    "def": "大學",
+    "ipa": "/ˌjuːnɪˈvɜːsəti/",
+    "trans": "universities",
+    "col": "university student",
+    "ex": "He is studying at Oxford University."
+  },
+  "until": {
+    "def": "直到...為止",
+    "ipa": "/ənˈtɪl/",
+    "trans": "till",
+    "col": "wait until",
+    "ex": "I waited until six o'clock."
+  },
+  "up": {
+    "def": "向上的、起來的",
+    "ipa": "/ʌp/",
+    "trans": "upper",
+    "col": "get up, go up",
+    "ex": "He stood up."
+  },
+  "upon": {
+    "def": "在...上面、根據",
+    "ipa": "/əˈpɒn/",
+    "trans": "on",
+    "col": "once upon a time",
+    "ex": "Once upon a time, there was a king."
+  },
+  "upper": {
+    "def": "較高的、上級的",
+    "ipa": "/ˈpə/",
+    "trans": "up (副詞)",
+    "col": "upper floor",
+    "ex": "He lives on the upper floor."
+  },
+  "us": {
+    "def": "我們 (受格)",
+    "ipa": "/ʌs/",
+    "trans": "we, ourselves",
+    "col": "help us",
+    "ex": "They gave it to us."
+  },
+  "use": {
+    "def": "使用、利用",
+    "ipa": "/juːz/",
+    "trans": "used, useful",
+    "col": "make use of, in use",
+    "ex": "Can I use your phone?"
+  },
+  "useful": {
+    "def": "有用的、有益的",
+    "ipa": "/ˈjuːsfl/",
+    "trans": "use (名詞)",
+    "col": "very useful",
+    "ex": "This is a very useful book."
+  },
+  "usual": {
+    "def": "通常的、慣例的",
+    "ipa": "/ˈjuːʒuəl/",
+    "trans": "usually",
+    "col": "as usual",
+    "ex": "He was late as usual."
+  },
+  "usually": {
+    "def": "通常地",
+    "ipa": "/ˈjuːʒuəli/",
+    "trans": "usual (形容詞)",
+    "col": "I usually get up early",
+    "ex": "I usually walk to work."
+  },
+  "vacation": {
+    "def": "假期、渡假",
+    "ipa": "/vəˈkeɪʃn/",
+    "trans": "vacate",
+    "col": "summer vacation",
+    "ex": "We are going on vacation next week."
+  },
+  "valuable": {
+    "def": "貴重的、有價值",
+    "ipa": "/ˈvæljuəbl/",
+    "trans": "value",
+    "col": "valuable information",
+    "ex": "This ring is very valuable."
+  },
+  "value": {
+    "def": "價值、標準",
+    "ipa": "/ˈvæljuː/",
+    "trans": "valuable, valuation",
+    "col": "face value, market value",
+    "ex": "I value your advice."
+  },
+  "various": {
+    "def": "各種各樣的",
+    "ipa": "/ˈveəriəs/",
+    "trans": "variety",
+    "col": "for various reasons",
+    "ex": "There are various ways of doing this."
+  },
+  "vegetable": {
+    "def": "蔬菜、植物",
+    "ipa": "/ˈvedʒtəbl/",
+    "trans": "vegetarian",
+    "col": "fresh vegetables",
+    "ex": "I like green vegetables."
+  },
+  "vessel": {
+    "def": "船、容器",
+    "ipa": "/ˈvesl/",
+    "trans": "vessels",
+    "col": "blood vessel",
+    "ex": "The ship is a large vessel."
+  },
+  "victory": {
+    "def": "勝利",
+    "ipa": "/ˈvɪktəri/",
+    "trans": "victorious",
+    "col": "win a victory",
+    "ex": "Our team won a great victory."
+  },
+  "video": {
+    "def": "錄影、影像",
+    "ipa": "/ˈvɪdiəʊ/",
+    "trans": "videotape",
+    "col": "video game, music video",
+    "ex": "I love watching music videos."
+  },
+  "village": {
+    "def": "村莊",
+    "ipa": "/ˈvɪlɪdʒ/",
+    "trans": "villager",
+    "col": "small village",
+    "ex": "He lives in a small village."
+  },
+  "visit": {
+    "def": "參觀、訪問",
+    "ipa": "/ˈvɪzɪt/",
+    "trans": "visitor",
+    "col": "pay a visit",
+    "ex": "I'm going to visit my grandmother."
+  },
+  "visitor": {
+    "def": "訪問者、遊客",
+    "ipa": "/ˈvɪzɪtə/",
+    "trans": "visit (動詞)",
+    "col": "frequent visitor",
+    "ex": "We had many visitors today."
+  },
+  "vocabulary": {
+    "def": "詞彙",
+    "ipa": "/vəˈkæbjuləri/",
+    "trans": "vocabularies",
+    "col": "rich vocabulary",
+    "ex": "Reading helps you build your vocabulary."
+  },
+  "voice": {
+    "def": "聲音、嗓音",
+    "ipa": "/vɔɪs/",
+    "trans": "voiced, voiceless",
+    "col": "loud voice, sweet voice",
+    "ex": "She has a beautiful voice."
+  },
+  "volleyball": {
+    "def": "排球",
+    "ipa": "/ˈvɒlibɔːl/",
+    "trans": "volleyball player",
+    "col": "play volleyball",
+    "ex": "We played volleyball on the beach."
+  },
+  "vote": {
+    "def": "投票、選舉",
+    "ipa": "/vəʊt/",
+    "trans": "voter, voting",
+    "col": "right to vote, cast a vote",
+    "ex": "Every citizen has the right to vote."
+  },
+  "wait": {
+    "def": "等待、服侍",
+    "ipa": "/weɪt/",
+    "trans": "waiter, waitress",
+    "col": "wait for, cannot wait",
+    "ex": "I'm waiting for the bus."
+  },
+  "waiter/waitress": {
+    "def": "侍者、女侍",
+    "ipa": "/ˈweɪtə/ /ˈweɪtrəs/",
+    "trans": "wait (動詞)",
+    "col": "call the waiter",
+    "ex": "The waiter brought our coffee."
+  },
+  "wake": {
+    "def": "醒來、叫醒",
+    "ipa": "/weɪk/",
+    "trans": "woke, woken",
+    "col": "wake up",
+    "ex": "I wake up at seven o'clock."
+  },
+  "walk": {
+    "def": "走路、散步",
+    "ipa": "/wɔːk/",
+    "trans": "walker, walking",
+    "col": "go for a walk",
+    "ex": "I walk to school every day."
+  },
+  "wall": {
+    "def": "牆壁、城牆",
+    "ipa": "/wɔːl/",
+    "trans": "walled",
+    "col": "brick wall, stone wall",
+    "ex": "The clock is on the wall."
+  },
+  "wallet": {
+    "def": "錢包",
+    "ipa": "/ˈwɒlɪt/",
+    "trans": "wallets",
+    "col": "leather wallet",
+    "ex": "I've lost my wallet."
+  },
+  "want": {
+    "def": "想要",
+    "ipa": "/wɒnt/",
+    "trans": "wants",
+    "col": "want to do",
+    "ex": "I want an apple."
+  },
+  "war": {
+    "def": "戰爭",
+    "ipa": "/wɔː/",
+    "trans": "warrior",
+    "col": "go to war, civil war",
+    "ex": "The country is at war."
+  },
+  "warm": {
+    "def": "溫暖的、熱誠的",
+    "ipa": "/wɔːm/",
+    "trans": "warmth",
+    "col": "warm weather, warm welcome",
+    "ex": "The soup is warm."
+  },
+  "wash": {
+    "def": "洗、洗滌",
+    "ipa": "/wɒʃ/",
+    "trans": "washing",
+    "col": "wash your hands",
+    "ex": "Wash your hands before dinner."
+  },
+  "waste": {
+    "def": "浪費、廢物",
+    "ipa": "/weɪst/",
+    "trans": "wasted, wasteful",
+    "col": "waste time, waste money",
+    "ex": "Don't waste your time."
+  },
+  "watch": {
+    "def": "看、手錶",
+    "ipa": "/wɒtʃ/",
+    "trans": "watcher",
+    "col": "wrist watch, watch out",
+    "ex": "I like to watch movies."
+  },
+  "water": {
+    "def": "水、澆水",
+    "ipa": "/ˈwɔːtə/",
+    "trans": "watery, waterfall",
+    "col": "drink water, tap water",
+    "ex": "I need a glass of water."
+  },
+  "watermelon": {
+    "def": "西瓜",
+    "ipa": "/ˈwɔːtəmelən/",
+    "trans": "watermelons",
+    "col": "sweet watermelon",
+    "ex": "I like watermelon in summer."
+  },
+  "wave": {
+    "def": "波浪、揮手",
+    "ipa": "/weɪv/",
+    "trans": "waving",
+    "col": "heat wave, wave goodbye",
+    "ex": "He waved goodbye to us."
+  },
+  "way": {
+    "def": "方法、道路",
+    "ipa": "/weɪ/",
+    "trans": "wayside",
+    "col": "on the way, this way",
+    "ex": "Which way do I go?"
+  },
+  "we": {
+    "def": "我們",
+    "ipa": "/wiː/",
+    "trans": "us, our, ours",
+    "col": "we are",
+    "ex": "We are students."
+  },
+  "weak": {
+    "def": "虛弱的、軟弱的",
+    "ipa": "/wiːk/",
+    "trans": "weaken, weakness",
+    "col": "weak point",
+    "ex": "He is very weak after his illness."
+  },
+  "wear": {
+    "def": "穿著、磨損",
+    "ipa": "/weə/",
+    "trans": "wore, worn",
+    "col": "wear out",
+    "ex": "What are you wearing today?"
+  },
+  "weather": {
+    "def": "天氣",
+    "ipa": "/ˈweðə/",
+    "trans": "weatherman",
+    "col": "bad weather, fine weather",
+    "ex": "The weather is very good today."
+  },
+  "Wednesday": {
+    "def": "星期三",
+    "ipa": "/ˈwenzdeɪ/",
+    "trans": "Wed.",
+    "col": "next Wednesday",
+    "ex": "We meet on Wednesday."
+  },
+  "week": {
+    "def": "星期、週",
+    "ipa": "/wiːk/",
+    "trans": "weekly, weekend",
+    "col": "last week, next week",
+    "ex": "There are seven days in a week."
+  },
+  "weekend": {
+    "def": "週末",
+    "ipa": "/ˌwiːkˈend/",
+    "trans": "weekends",
+    "col": "this weekend, last weekend",
+    "ex": "What are you doing this weekend?"
+  },
+  "weight": {
+    "def": "重量、體重",
+    "ipa": "/weɪt/",
+    "trans": "weigh",
+    "col": "lose weight, gain weight",
+    "ex": "He has lost a lot of weight."
+  },
+  "welcome": {
+    "def": "歡迎、歡迎的",
+    "ipa": "/ˈwelkəm/",
+    "trans": "welcomed",
+    "col": "you're welcome, warm welcome",
+    "ex": "Welcome to our house."
+  },
+  "well": {
+    "def": "好地、健康的",
+    "ipa": "/wel/",
+    "trans": "wellness",
+    "col": "get well soon, as well",
+    "ex": "He plays the piano very well."
+  },
+  "west": {
+    "def": "西方、向西的",
+    "ipa": "/west/",
+    "trans": "western",
+    "col": "in the west",
+    "ex": "The sun sets in the west."
+  },
+  "wet": {
+    "def": "濕的、下雨的",
+    "ipa": "/wet/",
+    "trans": "wetness",
+    "col": "wet paint, get wet",
+    "ex": "Don't get your shoes wet."
+  },
+  "whale": {
+    "def": "鯨魚",
+    "ipa": "/weɪl/",
+    "trans": "whaler",
+    "col": "blue whale",
+    "ex": "The whale is a large mammal."
+  },
+  "what": {
+    "def": "什麼",
+    "ipa": "/wɒt/",
+    "trans": "whatever",
+    "col": "what's more, what for",
+    "ex": "What is your name?"
+  },
+  "wheel": {
+    "def": "輪子、車輪",
+    "ipa": "/wiːl/",
+    "trans": "wheeled",
+    "col": "steering wheel, spare wheel",
+    "ex": "The car has four wheels."
+  },
+  "when": {
+    "def": "什麼時候",
+    "ipa": "/wen/",
+    "trans": "whenever",
+    "col": "since when",
+    "ex": "When will you come?"
+  },
+  "where": {
+    "def": "在哪裡",
+    "ipa": "/weə/",
+    "trans": "wherever",
+    "col": "where abouts",
+    "ex": "Where are you going?"
+  },
+  "whether": {
+    "def": "是否",
+    "ipa": "/ˈweðə/",
+    "trans": "or not",
+    "col": "whether or not",
+    "ex": "I don't know whether he will come."
+  },
+  "which": {
+    "def": "哪一個",
+    "ipa": "/wɪtʃ/",
+    "trans": "whichever",
+    "col": "which one",
+    "ex": "Which do you prefer?"
+  },
+  "while": {
+    "def": "當...時、雖然",
+    "ipa": "/waɪl/",
+    "trans": "whilst",
+    "col": "for a while, once in a while",
+    "ex": "Wait here for a while."
+  },
+  "white": {
+    "def": "白色的、白色",
+    "ipa": "/waɪt/",
+    "trans": "whiten, whiteness",
+    "col": "white wine, white cat",
+    "ex": "She has white hair."
+  },
+  "who": {
+    "def": "誰",
+    "ipa": "/huː/",
+    "trans": "whom, whose",
+    "col": "who is it",
+    "ex": "Who is that man?"
+  },
+  "whole": {
+    "def": "全體的、完整的",
+    "ipa": "/həʊl/",
+    "trans": "wholly",
+    "col": "whole world, as a whole",
+    "ex": "He spent the whole day reading."
+  },
+  "whose": {
+    "def": "誰的",
+    "ipa": "/huːz/",
+    "trans": "who",
+    "col": "whose car is this",
+    "ex": "Whose pen is this?"
+  },
+  "why": {
+    "def": "為什麼",
+    "ipa": "/waɪ/",
+    "trans": "wherefore",
+    "col": "that is why",
+    "ex": "Why are you late?"
+  },
+  "wide": {
+    "def": "寬大的、廣泛的",
+    "ipa": "/waɪd/",
+    "trans": "widen, width",
+    "col": "wide open, wide range",
+    "ex": "The river is very wide here."
+  },
+  "wife": {
+    "def": "妻子",
+    "ipa": "/waɪf/",
+    "trans": "wives",
+    "col": "good wife",
+    "ex": "He is taking his wife to dinner."
+  },
+  "wild": {
+    "def": "野生的、狂暴的",
+    "ipa": "/waɪld/",
+    "trans": "wildly, wilderness",
+    "col": "wild animals, run wild",
+    "ex": "The flowers are wild."
+  },
+  "will": {
+    "def": "意願、意志",
+    "ipa": "/wɪl/",
+    "trans": "willing, would",
+    "col": "good will, strong will",
+    "ex": "It will rain tomorrow."
+  },
+  "win": {
+    "def": "獲勝、贏得",
+    "ipa": "/wɪn/",
+    "trans": "won, winning, winner",
+    "col": "win a prize, win the game",
+    "ex": "We won the game."
+  },
+  "wind": {
+    "def": "風、呼吸",
+    "ipa": "/wɪnd/(n.) /waɪnd/(v.)",
+    "trans": "windy",
+    "col": "strong wind, wind up",
+    "ex": "The wind is blowing hard."
+  },
+  "window": {
+    "def": "窗戶",
+    "ipa": "/ˈwɪndəʊ/",
+    "trans": "windows",
+    "col": "open the window",
+    "ex": "Please open the window."
+  },
+  "windy": {
+    "def": "多風的",
+    "ipa": "/ˈwɪndi/",
+    "trans": "wind (名詞)",
+    "col": "windy weather",
+    "ex": "It is a windy day."
+  },
+  "wine": {
+    "def": "葡萄酒",
+    "ipa": "/waɪn/",
+    "trans": "vines",
+    "col": "red wine, white wine",
+    "ex": "He likes red wine."
+  },
+  "wing": {
+    "def": "翅膀、翼",
+    "ipa": "/wɪŋ/",
+    "trans": "winged",
+    "col": "on the wing",
+    "ex": "The bird has strong wings."
+  },
+  "winner": {
+    "def": "獲勝者",
+    "ipa": "/ˈwɪnə/",
+    "trans": "win (動詞)",
+    "col": "prize winner",
+    "ex": "She is the winner of the race."
+  },
+  "winter": {
+    "def": "冬天、冬季",
+    "ipa": "/ˈwɪntə/",
+    "trans": "wintry",
+    "col": "last winter, in winter",
+    "ex": "We go skiing in winter."
+  },
+  "wise": {
+    "def": "聰明的、英明的",
+    "ipa": "/waɪz/",
+    "trans": "wisdom, wisely",
+    "col": "wise decision, wise man",
+    "ex": "He is a wise man."
+  },
+  "wish": {
+    "def": "希望、祝福",
+    "ipa": "/wɪʃ/",
+    "trans": "wished",
+    "col": "make a wish",
+    "ex": "I wish you a merry Christmas."
+  },
+  "with": {
+    "def": "與...一起、帶著",
+    "ipa": "/wɪð/",
+    "trans": "within, without",
+    "col": "with you, with a pen",
+    "ex": "Come with me."
+  },
+  "without": {
+    "def": "沒有、外部",
+    "ipa": "/wɪˈðaʊt/",
+    "trans": "within",
+    "col": "without doubt",
+    "ex": "We can't live without water."
+  },
+  "woman": {
+    "def": "女人",
+    "ipa": "/ˈwʊmən/",
+    "trans": "women, womanly",
+    "col": "young woman",
+    "ex": "She is a beautiful woman."
+  },
+  "wonderful": {
+    "def": "精彩的、極好的",
+    "ipa": "/ˈwʌndəfl/",
+    "trans": "wonder",
+    "col": "wonderful time",
+    "ex": "We had a wonderful time."
+  },
+  "wood": {
+    "def": "樹林、木材",
+    "ipa": "/wʊd/",
+    "trans": "wooden, woody",
+    "col": "piece of wood",
+    "ex": "The table is made of wood."
+  },
+  "word": {
+    "def": "說話、單字",
+    "ipa": "/wɜːd/",
+    "trans": "wordy",
+    "col": "key word, keep your word",
+    "ex": "What does this word mean?"
+  },
+  "work": {
+    "def": "工作、作品",
+    "ipa": "/wɜːk/",
+    "trans": "worker, workplace",
+    "col": "hard work, go to work",
+    "ex": "He is at work."
+  },
+  "worker": {
+    "def": "工人、勞動者",
+    "ipa": "/ˈwɜːkə/",
+    "trans": "work (動詞)",
+    "col": "social worker",
+    "ex": "The factory workers are on strike."
+  },
+  "world": {
+    "def": "世界、地球",
+    "ipa": "/wɜːld/",
+    "trans": "worldly",
+    "col": "around the world, the real world",
+    "ex": "The world is changing."
+  },
+  "worry": {
+    "def": "煩惱、擔心",
+    "ipa": "/ˈwʌri/",
+    "trans": "worried, worrisome",
+    "col": "worry about",
+    "ex": "Don't worry about me."
+  },
+  "worth": {
+    "def": "價值、意義",
+    "ipa": "/wɜːθ/",
+    "trans": "worthy, worthless",
+    "col": "be worth doing",
+    "ex": "The book is worth reading."
+  },
+  "write": {
+    "def": "寫下、發簡訊",
+    "ipa": "/raɪt/",
+    "trans": "wrote, written, writer",
+    "col": "write a letter",
+    "ex": "Write your name here."
+  },
+  "writer": {
+    "def": "作家",
+    "ipa": "/ˈraɪtə/",
+    "trans": "write (動詞)",
+    "col": "famous writer",
+    "ex": "Shakespeare was a great writer."
+  },
+  "wrong": {
+    "def": "錯誤的、不正確的",
+    "ipa": "/rɒŋ/",
+    "trans": "wrongly",
+    "col": "go wrong, what's wrong",
+    "ex": "There's something wrong with the car."
+  },
+  "yard": {
+    "def": "院子、碼",
+    "ipa": "/jɑːd/",
+    "trans": "yards",
+    "col": "back yard, front yard",
+    "ex": "The children are playing in the yard."
+  },
+  "year": {
+    "def": "年份、年度",
+    "ipa": "/jɪə/",
+    "trans": "yearly",
+    "col": "last year, next year",
+    "ex": "Happy New Year!"
+  },
+  "yellow": {
+    "def": "黃色的、黃色",
+    "ipa": "/ˈjeləʊ/",
+    "trans": "yellowness",
+    "col": "yellow car",
+    "ex": "The flowers are yellow."
+  },
+  "yes": {
+    "def": "是、好的",
+    "ipa": "/jes/",
+    "trans": "yeah",
+    "col": "yes or no",
+    "ex": "Yes, please."
+  },
+  "yesterday": {
+    "def": "昨天、當今",
+    "ipa": "/ˈjestədeɪ/",
+    "trans": "the day before",
+    "col": "yesterday morning",
+    "ex": "I saw him yesterday."
+  },
+  "yet": {
+    "def": "尚未、然而",
+    "ipa": "/jet/",
+    "trans": "as yet",
+    "col": "not yet",
+    "ex": "It's not finished yet."
+  },
+  "you": {
+    "def": "你、你們",
+    "ipa": "/juː/",
+    "trans": "your, yours, yourself",
+    "col": "you and me",
+    "ex": "How are you?"
+  },
+  "young": {
+    "def": "年輕的、年輕人",
+    "ipa": "/jʌŋ/",
+    "trans": "youngster, youth",
+    "col": "young people",
+    "ex": "She is still young."
+  },
+  "your": {
+    "def": "你的、你們的",
+    "ipa": "/jɔː/",
+    "trans": "yours, yourself",
+    "col": "your car",
+    "ex": "Is this your pen?"
+  },
+  "yours": {
+    "def": "你的、你們的(所有格代名詞)",
+    "ipa": "/jɔːz/",
+    "trans": "your",
+    "col": "sincerely yours",
+    "ex": "This book is yours."
+  },
+  "yourself": {
+    "def": "你自己",
+    "ipa": "/jɔːˈself/",
+    "trans": "yourselves",
+    "col": "help yourself",
+    "ex": "Enjoy yourself!"
+  },
+  "zero": {
+    "def": "零",
+    "ipa": "/ˈzɪərəʊ/",
+    "trans": "zeros",
+    "col": "below zero",
+    "ex": "The temperature is zero today."
+  },
+  "zoo": {
+    "def": "動物園",
+    "ipa": "/zuː/",
+    "trans": "zoology",
+    "col": "wildlife zoo",
+    "ex": "We saw lions at the zoo."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "equimultiple": {"def": "等倍數的人物 (單數) (倍)", "ipa": "/ˌiːkwɪˈmʌltɪpl/", "trans": "equal", "col": "common equimultiple", "ex": "Find its common equimultiple.", "pos": "n./adj."},
+  "equine": {"def": "馬的、像馬地的人的人物 (單數) (馬)", "ipa": "/ˈekwaɪn/", "trans": "horse", "col": "equine flu, equine species", "ex": "The_equine species are strong.", "pos": "adj./n."},
+  "equinoctial": {"def": "晝夜平分時的、赤道附近地的人的人物 (單數) (分)", "ipa": "/ˌiːkwɪˈnɒkʃl/", "trans": "sun", "col": "equinoctial gale", "ex": "An equinoctial gale tonight.", "pos": "adj./n."},
+  "equinox": {"def": "晝夜平分點、春分或秋分人物 (單數) (分)", "ipa": "/ˈiːkwɪnɒks/", "trans": "sun", "col": "spring equinox, autumn equinox", "ex": "Today is the_spring equinox.", "pos": "n."},
+  "equip": {"def": "裝備、配備、使有具備的人的人", "ipa": "/ɪˈkwɪp/", "trans": "tool", "col": "equip with, equip him for", "ex": "School will equip you for future.", "pos": "v./n./adv."},
+  "equipage": {"def": "配備、馬拉馬車、隨從人員人物 (單數) (備)", "ipa": "/ˈekwɪpɪdʒ/", "trans": "tool", "col": "grand equipage", "ex": "A grand equipage followed him.", "pos": "n."},
+  "equipment/equipment": {"def": "設備、裝備、器材、素質人物 (單數) (備)", "ipa": "/ɪˈkwɪpmənt/", "trans": "tool", "col": "office equipment, sports equipment, mechanical equipment", "ex": "The_gym has new equipment.", "pos": "n."},
+  "equipoise": {"def": "平衡、均衡的人物、使平衡的人的人人物 (單數) (平)", "ipa": "/ˈekwɪpɔɪz/", "trans": "stable", "col": "perfect equipoise", "ex": "A state of perfect equipoise.", "pos": "n./v./adj."},
+  "equipotential": {"def": "等位勢的、等電位的人物 (單數) (位)", "ipa": "/ˌiːkwɪpəˈtenʃl/", "trans": "equal", "col": "equipotential lines", "ex": "Draw the_equipotential lines.", "pos": "adj./n."},
+  "equipp-able/equippable": {"def": "可裝備的人的人物 (單數) (備)", "ipa": "/ɪˈkwɪpəbl/", "trans": "equip", "col": "equippable items", "ex": "There are many equippable items.", "pos": "adj./n."},
+  "equipped": {"def": "裝備齊全的、具備能力的人的人 (或物) (整)", "ipa": "/ɪˈkwɪpt/", "trans": "equip", "col": "well equipped, fully equipped", "ex": "The_room is fully equipped.", "pos": "adj./v."},
+  "equit-": {"def": "馬的人的人人物 (單數) (馬)", "ipa": "/ˈekwɪt-/", "trans": "horse", "col": "equitation", "ex": "He studys equitation now.", "pos": "pref./n./adj."},
+  "equitable": {"def": "公平的、公正的、合情合理地的人的人物 (單數) (公)", "ipa": "/ˈekwɪtəbl/", "trans": "equal", "col": "equitable distribution, equitable solution", "ex": "An equitable distribution of funds.", "pos": "adj./n."},
+  "equitably": {"def": "公平地、公正地", "ipa": "/ˈekwɪtəbli/", "trans": "equitable", "col": "distributed equitably", "ex": "The_wealth was distributed so.", "pos": "adv."},
+  "equitation": {"def": "騎馬、馬術人物 (單數) (馬)", "ipa": "/ˌekwɪˈteɪʃn/", "trans": "horse", "col": "master equitation", "ex": "Equitation is her hobby now.", "pos": "n."},
+  "equity": {"def": "公平、公正、股本、衡平法、淨值人物 (單數) (權/股)", "ipa": "/ˈekwəti/", "trans": "equal", "col": "brand equity, negative equity, private equity, social equity", "ex": "He works in private equity fund.", "pos": "n."},
+}

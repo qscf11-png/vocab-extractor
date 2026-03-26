@@ -1,0 +1,16 @@
+{
+  "ferable/portable": {"def": "可攜帶的、可運送地的人的人物 (單數) (攜)", "ipa": "/ˈfcləbl/", "trans": "carry", "col": "ferable goods", "ex": "Searching for ferable items.", "pos": "adj./n."},
+  "fer-ent/carrying": {"def": "運送的、傳導地的人的人物 (單數) (導)", "ipa": "/ˈfclənt/", "trans": "carry", "col": "afferent nerve (傳入神經)", "ex": "The_afferent nerve carries data.", "pos": "adj./n."},
+  "ferment": {"def": "發酵、動亂、騷動的人物、發酵、挑起動亂的人的人人物 (單數) (酵/亂)", "ipa": "/ˈfɜːment/", "trans": "fire", "col": "political ferment, ferment of ideas, ferment bread", "ex": "In a state of political ferment.", "pos": "n./v./adj."},
+  "fermentable/ferment-": {"def": "可發酵的、易騷動地的人的人物 (單數) (酵)", "ipa": "/fəˈmentəbl/", "trans": "ferment", "col": "fermentable sugar", "ex": "Yeast acts on fermentable sugar.", "pos": "adj./n."},
+  "ferment-ed/fermenting": {"def": "發酵的、騷亂地的人的人 (或物) (酵)", "ipa": "/fəˈmentɪd/", "trans": "ferment", "col": "ferment-ed drink, ferment-ed milk", "ex": "Wine is a ferment-ed drink.", "pos": "adj./v."},
+  "ferment-ation/fermentation": {"def": "發酵、動亂的人物 (單數) (酵)", "ipa": "/ˌfɜːmenˈteɪʃn/", "trans": "ferment", "col": "alcohol fermentation", "ex": "The_process of fermentation.", "pos": "n."},
+  "fern/plant": {"def": "蕨、蕨類植物人物 (單數) (蕨)", "ipa": "/fɜːn/", "trans": "food", "col": "fern frond, maidenhair fern", "ex": "The_forest is full of ferns.", "pos": "n."},
+  "ferocious/fierce": {"def": "兇猛的、殘忍的、極其地的人的人物 (單數) (猛)", "ipa": "/fəˈrəʊʃəs/", "trans": "bad", "col": "ferocious animal, ferocious heat, ferocious look", "ex": "The_dog gave a ferocious bark.", "pos": "adj./n."},
+  "ferociously/fiercely": {"def": "兇猛地、殘忍地、極其地", "ipa": "/fəˈrəʊʃəsli/", "trans": "ferocious", "col": "fought ferociously", "ex": "They fought so for territory.", "pos": "adv."},
+  "ferocity/fierceness": {"def": "兇猛、殘忍、暴戾人物 (單數) (猛)", "ipa": "/fəˈrɒsəti/", "trans": "ferocious", "col": "sheer ferocity", "ex": "The_sheer ferocity of attack.", "pos": "n."},
+  "ferr-": {"def": "鐵的人的人人物 (單數) (鐵)", "ipa": "/ˈfcr-/", "trans": "iron", "col": "ferrous", "ex": "Ferrous metals and alloys.", "pos": "pref./n./adj."},
+  "ferrate/salt": {"def": "(化)高鐵酸鹽人物 (單數) (鹽)", "ipa": "/ˈfɛreɪt/", "trans": "iron", "col": "potassium ferrate", "ex": "Testing for ferrate levels.", "pos": "n."},
+  "ferreous/ferrous": {"def": "鐵的、含鐵地的人的人物 (單數) (鐵)", "ipa": "/ˈfɛriəs/", "trans": "iron", "col": "ferreous oxide", "ex": "A layer of ferreous rust.", "pos": "adj./n."},
+  "ferret/weasel": {"def": "雪貂人物、搜尋、逐出的人的人人物 (單數) (貂/搜)", "ipa": "/ˈferɪt/", "trans": "animal", "col": "ferret out (查獲), hunting ferret", "ex": "Try to ferret out the_truth.", "pos": "n./v."},
+}

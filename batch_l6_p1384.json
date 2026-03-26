@@ -1,0 +1,17 @@
+{
+  "illustrious/good/mark": {"def": "輝煌的、傑出的、(喻)顯赫地的人的人物 (單數) (輝/顯)", "ipa": "/ɪˈlʌstriəs/", "trans": "illustrate", "col": "illustrious career, illustrious ancestor-s", "ex": "He had an illustrious military career.", "pos": "adj./n."},
+  "im-": {"def": "不、內的人的人人物 (單數) (不/內)", "ipa": "/ˈɪm-/", "trans": "bad", "col": "impossible", "ex": "Nothing is impossible with hope.", "pos": "pref./n./adj."},
+  "image/see/mark/fake": {"def": "圖像、(喻)形象、(心)意象的人物、(數)鏡像的人物、(專)影像人物、反映、(使)形象化的人的人 (像/景/影)", "ipa": "/ˈɪmɪdʒ/", "trans": "see", "col": "public image, mirror image, split image", "ex": "She is the_spit-ting image of her mother.", "pos": "n./v."},
+  "imager-": {"def": "像的人的人人物 (單數) (像)", "ipa": "/ˈɪmɪdʒ-/", "trans": "see", "col": "imagery", "ex": "Rich poetic imagery in his poem.", "pos": "pref./n./adj."},
+  "imagery/see/mark": {"def": "(藝)比喻、(專)意象、(計)圖像(總稱)人物 (單數) (象/像)", "ipa": "/ˈɪmɪdʒəri/", "trans": "imager-", "col": "vivid imagery, satellite imagery", "ex": "Using vivid imagery to tell the_story.", "pos": "n."},
+  "imag-i_n-": {"def": "想的人的人人物 (單數) (想)", "ipa": "/ɪˈmædʒɪn-/", "trans": "see", "col": "imagine", "ex": "Imagine the_world in peace today.", "pos": "/pref./n./adj."},
+  "imaginable/mind-": {"def": "可想像的、(喻)可能的地的人的人物 (單數) (可)", "ipa": "/ɪˈmædʒɪnəbl/", "trans": "imagine", "col": "every imaginable color", "ex": "The_worst situation imaginable, alas.", "pos": "adj./n."},
+  "imaginary/fake/mind-": {"def": "虛構的、想像地的人的人物、(數)虛數人物 (單數) (虛/假)", "ipa": "/ɪˈmædʒɪnəri/", "trans": "imagine", "col": "imaginary friend, imaginary world", "ex": "She has an imaginary friend called Leo.", "pos": "adj./n."},
+  "imagination/mind": {"def": "想像力、(喻)假想的人物 (單數) (力/想)", "ipa": "/ɪˌmædʒɪˈneɪʃn/", "trans": "imagine", "col": "vivid imagination, use your imagination", "ex": "A child has a vivid imagination, indeed.", "pos": "n."},
+  "imaginative/mind-": {"def": "富於想像力的、(喻)創新的地的人的人物 (單數) (新)", "ipa": "/ɪˈmædʒɪnətɪv/", "trans": "imagination", "col": "imaginative writer", "ex": "A highly imaginative and original plan.", "pos": "adj./n."},
+  "imaginatively/mind-ly": {"def": "富於想像力地、創新地", "ipa": "/ɪˈmædʒɪnətɪvli/", "trans": "imaginative", "col": "decorated imaginatively", "ex": "The_room was decorated imaginatively.", "pos": "adv."},
+  "imagine/mind/fake": {"def": "想像、(喻)猜想、(使)設想的人的人 (想/猜)", "ipa": "/ɪˈmædʒɪn/", "trans": "imag-i_n-", "col": "imagine that, can you imagine", "ex": "Imagine living on the_moon one day.", "pos": "v./n."},
+  "imaging/mark": {"def": "成像、影像技術人物、成像中的地的人的人 (或物) (像)", "ipa": "/ˈɪmɪdʒɪŋ/", "trans": "image", "col": "medical imaging, magnetic resonance imaging (MRI)", "ex": "MRI is a form of medical imaging.", "pos": "n./v./adj."},
+  "im-am/man/god": {"def": "(伊斯蘭)伊瑪目、(宗)領禱者人物 (單數) (師)", "ipa": "/ɪˈmɑːm/", "trans": "man", "col": "mosque im-am", "ex": "The_im-am led the_prayer in mosque.", "pos": "n."},
+  "imbalance/bad": {"def": "不平衡、(喻)失調人物 (單數) (失)", "ipa": "/ɪmˈbæləns/", "trans": "im-", "col": "hormonal imbalance, trade imbalance", "ex": "A serious imbalance between supply and demand.", "pos": "n."},
+}

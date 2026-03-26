@@ -1,0 +1,17 @@
+{
+  "fasten": {"def": "紮緊、繫牢、集中(注意力)的人的人", "ipa": "/ˈfɑːsn/", "trans": "fast", "col": "fasten seatbelt, fasten eyes on, fasten door", "ex": "Please fasten your seatbelts.", "pos": "v./n./adv."},
+  "fastener/zip": {"def": "緊固件、拉鍊、紐扣、繫的人人物 (單數) (扣)", "ipa": "/ˈfɑːsnə/", "trans": "fast", "col": "zip fastener, slide fastener", "ex": "The_fastener on my coat is broken.", "pos": "n."},
+  "fasten-ing/button": {"def": "繫牢物、搭扣、拉鍊人物 (單數) (扣)", "ipa": "/ˈfɑːsnɪŋ/", "trans": "fast", "col": "secure fastening", "ex": "Check the_fastening on the_gate.", "pos": "n./adj."},
+  "fastidious/fussy": {"def": "挑剔的、苛求的、過分講究地的人的人物 (單數) (挑)", "ipa": "/fəˈstɪdiəs/", "trans": "bad", "col": "fastidious eater, very fastidious", "ex": "He is very fastidious about food.", "pos": "adj./n."},
+  "fastidiously": {"def": "挑剔地、苛求地、過分講究地", "ipa": "/fəˈstɪdiəsli/", "trans": "fastidious", "col": "prepared fastidiously", "ex": "The_meal was prepared so.", "pos": "adv."},
+  "fastness/speed": {"def": "迅速、牢固、要塞、染固度人物 (單數) (快/牢)", "ipa": "/ˈfɑːstnəs/", "trans": "fast", "col": "mountain fastness, color fastness", "ex": "In his mountain fastness.", "pos": "n."},
+  "fast-track/fast": {"def": "快速處理的、快速通道的人物、提拔、加速的人的人人物 (單數) (快)", "ipa": "/ˈfɑːst træk/", "trans": "fast", "col": "fast-track promotion", "ex": "He is on a fast-track to success.", "pos": "v./n./adj."},
+  "fat/grease": {"def": "肥胖的、多脂肪的、豐富地的人的人物、脂肪、肥肉的人物人物 (單數) (肥/脂)", "ipa": "/fæt/", "trans": "big", "col": "saturated fat, fat man, fat salary, fat chance (沒機會)", "ex": "Avoid too much animal fat.", "pos": "adj./n./v./adv."},
+  "fatal/deadly": {"def": "致命的、災難性的、命定地的人的人物 (單數) (命/災)", "ipa": "/ˈfeɪtl/", "trans": "end", "col": "fatal accident, fatal flaw, fatal error, fatal disease", "ex": "He made a fatal error.", "pos": "adj./n."},
+  "fatalism/fate": {"def": "宿命論人物 (單數) (論)", "ipa": "/ˈfeɪtəlɪzm/", "trans": "end", "col": "philosophical fatalism", "ex": "He accepts life with fatalism.", "pos": "n."},
+  "fatalist/fatalist": {"def": "宿命論者人物 (單數) (員)", "ipa": "/ˈfeɪtəlɪst/", "trans": "fatalism", "col": "passive fatalist", "ex": "He is a passive fatalist.", "pos": "n./adj."},
+  "fatality/death": {"def": "死亡(事故)、災禍、天命人物 (單數) (命/死)", "ipa": "/fəˈtæləti/", "trans": "end", "col": "fatalities in war, road fatality", "ex": "Many fatalities in the_crash.", "pos": "n."},
+  "fatally/fatally": {"col": "fatally injured", "def": "致命地、不幸地、注定地", "ex": "He was fatally injured in crash.", "ipa": "/ˈfeɪtəli/", "pos": "adv.", "trans": "fatal"},
+  "fate/destiny": {"def": "命運、天數、厄運人物 (單數) (命/運)", "ipa": "/feɪt/", "trans": "end", "col": "twist of fate, share same fate, met his fate", "ex": "Death is the_common fate of all.", "pos": "n./v."},
+  "fate-": {"def": "命、致命的人的人人物 (單數) (命)", "ipa": "/feɪt-/", "trans": "end", "col": "fateful", "ex": "On that fateful day in May.", "pos": "pref./n./adj."},
+}

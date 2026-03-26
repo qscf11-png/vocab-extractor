@@ -1,0 +1,8 @@
+{
+  "ceramic": {"def": "陶瓷的、陶器的、陶瓷工藝的人的人物 (單數)", "ipa": "/səˈræmɪk/", "trans": "pottery", "col": "ceramic tile, ceramic artist", "ex": "The bathroom is decorated with beautiful blue ceramic tiles.", "pos": "adj./n."},
+  "ceramics": {"def": "製陶術、陶瓷工藝、陶瓷製品 (單數/複數) (單數)", "ipa": "/səˈræmɪks/", "trans": "pottery", "col": "study ceramics", "ex": "She is taking an evening class to learn traditional ceramics.", "pos": "n."},
+  "ceramist": {"def": "陶瓷藝人、製陶家 (單數)", "ipa": "/ˈserəmɪst/", "trans": "artist", "col": "noted ceramist", "ex": "The noted ceramist is famous for her unique glazed bowls.", "pos": "n."},
+  "cereal": {"def": "穀類植物、穀類食品、早餐麥片、穀類的的人物 (穀物)", "ipa": "/ˈsɪəriəl/", "trans": "grain", "col": "breakfast cereal, cereal bowl", "ex": "I like to eat whole-grain cereal with fresh milk for tea.", "pos": "n./adj./adv."},
+  "cerebellum": {"def": "(解)小腦 (單數)", "ipa": "/ˌserəˈbeləm/", "trans": "brain", "col": "damaged cerebellum", "ex": "The cerebellum is the part of the brain that controls balance.", "pos": "n."},
+  "cerebral": {"def": "大腦的、理智的、腦的人的人物", "ipa": "/ˈserəbrəl/", "trans": "intellectual", "col": "cerebral palsy (腦性麻痺), cerebral hemorrhage", "ex": "The movie is a very cerebral thriller with a complex plot.", "pos": "adj./n."},
+}
